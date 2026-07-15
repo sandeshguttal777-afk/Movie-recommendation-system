@@ -1,0 +1,1001 @@
+User_ID,User_Name,Gender,City,Movie,Genre,Actor,Director,OTT_Platform,Movie_Rating,Watch_Time_Minutes,Wishlist_Movies,Watch_History,Recommended_Movie,Watch_Date
+1,Reyansh Shetty,Male,Mumbai,Titanic,Romance,Jr NTR,Russo Brothers,ZEE5,2,73,RRR,"KGF, The Batman, Inception, Titanic",Inception,2024-11-23
+2,Krishna Reddy,Female,Mumbai,Pushpa,Action,Allu Arjun,Atlee,Netflix,1,124,"Titanic, Avengers, The Batman","Avengers, The Batman",Titanic,2024-11-16
+3,Anika Singh,Female,Hyderabad,Avatar,Action,Prabhas,Sandeep Reddy Vanga,Disney+ Hotstar,1,114,"Inception, The Batman, RRR","Joker, KGF, RRR, The Batman",Pushpa,2024-01-20
+4,Riya Khan,Female,Bangalore,The Batman,Action,Christian Bale,Atlee,Disney+ Hotstar,3,146,"Avatar, Pushpa, Inception","KGF, Pushpa, Titanic",Avatar,2024-02-23
+5,Pooja Agarwal,Female,Delhi,Interstellar,Sci-Fi,Christian Bale,Matt Reeves,Disney+ Hotstar,3,223,"Inception, KGF","Pushpa, Titanic, Joker, Inception",KGF,2024-09-02
+6,Sai Gupta,Male,Delhi,Avatar,Action,Robert Downey Jr.,James Cameron,Amazon Prime,1,219,Joker,"Interstellar, The Batman, Inception",Pushpa,2024-12-26
+7,Shaurya Kapoor,Female,Delhi,RRR,Drama,Shah Rukh Khan,Sukumar,SonyLIV,5,120,Avatar,"Inception, The Batman, RRR",Avengers,2024-10-12
+8,Sara Khan,Female,Hyderabad,RRR,Drama,Jr NTR,Atlee,ZEE5,2,197,"Titanic, Pushpa, RRR","Inception, Interstellar",Avatar,2024-05-01
+9,Aanya Khan,Female,Pune,Interstellar,Sci-Fi,Joaquin Phoenix,Atlee,Netflix,4,171,"Interstellar, Inception","Joker, Avatar, Titanic, Interstellar, KGF",Titanic,2024-08-13
+10,Aditya Gupta,Male,Hyderabad,Inception,Sci-Fi,Ram Charan,Sukumar,Disney+ Hotstar,5,65,"Titanic, Avatar","Avatar, RRR, Pushpa, Inception, Titanic",Joker,2024-12-09
+11,Myra Das,Male,Pune,The Batman,Action,Christian Bale,Todd Phillips,Netflix,5,37,"Titanic, The Batman","Avatar, Titanic, Avengers, The Batman",KGF,2024-08-01
+12,Myra Joshi,Female,Chennai,Avatar,Action,Leonardo DiCaprio,Sandeep Reddy Vanga,Disney+ Hotstar,4,213,"Joker, Avengers, Titanic","Titanic, Avengers",Joker,2024-05-05
+13,Aarav Bansal,Female,Hyderabad,Titanic,Romance,Ram Charan,Sandeep Reddy Vanga,Amazon Prime,1,182,"The Batman, Interstellar, Joker","RRR, Titanic, KGF, Avatar",Avengers,2024-10-22
+14,Myra Shetty,Female,Hyderabad,Inception,Sci-Fi,Ram Charan,Todd Phillips,Netflix,2,222,Joker,"RRR, Interstellar",Titanic,2024-03-16
+15,Krishna Choudhary,Female,Hyderabad,The Batman,Action,Leonardo DiCaprio,Christopher Nolan,Disney+ Hotstar,2,163,"KGF, Avatar","RRR, KGF, Interstellar, Inception",Avengers,2024-09-12
+16,Aarav Gupta,Male,Delhi,The Batman,Action,Christian Bale,James Cameron,ZEE5,1,188,Avatar,"Interstellar, KGF",The Batman,2024-02-12
+17,Aanya Patel,Male,Pune,Avatar,Action,Prabhas,Atlee,Disney+ Hotstar,4,77,"RRR, Avatar","Joker, RRR, Avatar, The Batman, Avengers",KGF,2024-05-27
+18,Myra Mehta,Female,Chennai,Joker,Drama,Ram Charan,Prashanth Neel,Netflix,1,66,"Avengers, Pushpa","Interstellar, Inception, Titanic",The Batman,2024-11-24
+19,Ananya Agarwal,Female,Pune,Titanic,Romance,Leonardo DiCaprio,Matt Reeves,SonyLIV,2,203,"KGF, Avatar","Interstellar, Titanic, Joker, RRR",Avatar,2024-11-23
+20,Sai Gupta,Male,Pune,Avatar,Action,Prabhas,Russo Brothers,Amazon Prime,2,218,"Inception, RRR","Titanic, Avatar, Pushpa, Inception",Avengers,2024-02-11
+21,Aanya Kulkarni,Female,Bangalore,Avatar,Action,Leonardo DiCaprio,Christopher Nolan,SonyLIV,5,195,Inception,"Joker, Titanic, KGF",Inception,2024-04-28
+22,Shaurya Reddy,Female,Bangalore,Pushpa,Action,Prabhas,Matt Reeves,Amazon Prime,3,146,"KGF, Avengers, Joker","Pushpa, Joker",RRR,2024-08-16
+23,Aanya Khan,Male,Bangalore,RRR,Drama,Allu Arjun,Todd Phillips,SonyLIV,1,129,Interstellar,"Avatar, Inception",Inception,2024-06-21
+24,Aarav Kapoor,Female,Pune,RRR,Drama,Allu Arjun,Todd Phillips,SonyLIV,4,147,KGF,"Pushpa, Titanic, KGF",RRR,2024-06-24
+25,Aanya Singh,Male,Mumbai,The Batman,Action,Shah Rukh Khan,Todd Phillips,Disney+ Hotstar,3,162,Titanic,"Interstellar, Inception, Avengers, Avatar, The Batman",Titanic,2024-02-09
+26,Myra Yadav,Female,Chennai,Interstellar,Sci-Fi,Leonardo DiCaprio,Prashanth Neel,SonyLIV,2,187,"KGF, Avengers, RRR","Pushpa, Inception, Avengers, Titanic, Joker",Interstellar,2024-09-01
+27,Reyansh Khan,Male,Hyderabad,Avatar,Action,Robert Downey Jr.,Prashanth Neel,Amazon Prime,3,194,"Pushpa, The Batman","Interstellar, KGF, Joker",Joker,2024-08-03
+28,Myra Sharma,Male,Bangalore,Inception,Sci-Fi,Leonardo DiCaprio,Russo Brothers,Netflix,5,76,The Batman,"Inception, Avatar, Titanic, The Batman",The Batman,2024-03-08
+29,Aarav Singh,Male,Delhi,Titanic,Romance,Leonardo DiCaprio,S. S. Rajamouli,ZEE5,3,116,Titanic,"Joker, RRR",Interstellar,2024-09-09
+30,Aadhya Reddy,Female,Pune,RRR,Drama,Christian Bale,Atlee,ZEE5,2,41,Joker,"Titanic, The Batman, Pushpa, KGF",RRR,2024-08-24
+31,Arjun Patel,Male,Mumbai,Inception,Sci-Fi,Robert Downey Jr.,Russo Brothers,Disney+ Hotstar,4,181,"Avatar, Pushpa, Interstellar","Titanic, Avatar",Avatar,2024-06-30
+32,Aanya Gupta,Female,Pune,KGF,Action,Prabhas,Sukumar,Disney+ Hotstar,2,94,"The Batman, Pushpa, Avengers","Pushpa, Inception",KGF,2024-01-28
+33,Vivaan Nair,Male,Delhi,Interstellar,Sci-Fi,Yash,Russo Brothers,Amazon Prime,2,228,"Inception, Titanic, KGF","Joker, KGF, Avengers, RRR",Avatar,2024-06-27
+34,Krishna Gupta,Female,Hyderabad,Titanic,Romance,Leonardo DiCaprio,Matt Reeves,Netflix,3,94,"Inception, Joker, RRR","KGF, Pushpa, Avengers, Inception",Joker,2024-03-31
+35,Vivaan Bansal,Female,Chennai,Avengers,Action,Yash,Prashanth Neel,ZEE5,3,75,Avengers,"Avengers, Joker, Interstellar",Inception,2024-04-25
+36,Myra Gupta,Male,Hyderabad,KGF,Action,Prabhas,Matt Reeves,Disney+ Hotstar,3,60,Inception,"Interstellar, Pushpa, Avengers",RRR,2024-01-24
+37,Arjun Sharma,Male,Mumbai,Avengers,Action,Christian Bale,Matt Reeves,ZEE5,1,46,"Inception, KGF","Interstellar, Avengers, Inception",Interstellar,2024-05-01
+38,Sara Gupta,Female,Chennai,Avatar,Action,Robert Downey Jr.,Todd Phillips,SonyLIV,3,171,"Pushpa, Joker, Titanic","Pushpa, Joker, RRR, The Batman, Avatar",RRR,2024-09-29
+39,Myra Bansal,Female,Bangalore,Titanic,Romance,Allu Arjun,Prashanth Neel,Netflix,4,231,"Titanic, Avatar, Interstellar","Pushpa, Interstellar, The Batman, Avengers",Titanic,2024-01-11
+40,Vivaan Mehta,Female,Delhi,KGF,Action,Robert Downey Jr.,Christopher Nolan,Netflix,2,114,Inception,"The Batman, RRR, Pushpa, Interstellar, Titanic",KGF,2024-10-24
+41,Ishaan Nair,Male,Pune,Interstellar,Sci-Fi,Robert Downey Jr.,S. S. Rajamouli,Amazon Prime,5,111,"Titanic, Joker, Avatar","Avengers, RRR, Joker, KGF",Pushpa,2024-12-10
+42,Diya Kapoor,Female,Hyderabad,Avengers,Action,Leonardo DiCaprio,James Cameron,ZEE5,5,79,"RRR, The Batman, Interstellar","Avatar, The Batman, Pushpa, KGF",Inception,2024-12-03
+43,Ira Khan,Female,Delhi,KGF,Action,Jr NTR,Todd Phillips,SonyLIV,4,111,Titanic,"Joker, Inception, Avengers, Pushpa",The Batman,2024-01-30
+44,Ananya Khan,Female,Pune,Avengers,Action,Jr NTR,Prashanth Neel,Amazon Prime,4,191,"The Batman, Joker","Interstellar, Inception, Pushpa, RRR, Titanic",The Batman,2024-12-10
+45,Aditya Choudhary,Female,Mumbai,Inception,Sci-Fi,Jr NTR,Sandeep Reddy Vanga,ZEE5,5,208,Avengers,"The Batman, Avatar, KGF, Avengers, Joker",Avatar,2024-01-14
+46,Riya Nair,Female,Mumbai,RRR,Drama,Christian Bale,Sukumar,Disney+ Hotstar,3,142,"RRR, Interstellar","Pushpa, KGF, Titanic, Avatar, Avengers",Pushpa,2024-09-01
+47,Diya Bansal,Female,Bangalore,Joker,Drama,Ram Charan,James Cameron,Amazon Prime,3,173,"Avatar, Pushpa, Titanic","Pushpa, Joker",Pushpa,2024-12-06
+48,Pooja Joshi,Male,Pune,Pushpa,Action,Shah Rukh Khan,Todd Phillips,SonyLIV,1,239,"Avatar, Titanic","Pushpa, Joker, KGF, Avatar, Avengers",RRR,2024-06-17
+49,Vihaan Patel,Male,Chennai,Joker,Drama,Robert Downey Jr.,Atlee,Disney+ Hotstar,5,223,RRR,"Pushpa, The Batman, Avatar",Avatar,2024-12-10
+50,Ananya Joshi,Female,Chennai,KGF,Action,Joaquin Phoenix,Russo Brothers,Netflix,2,161,"Pushpa, RRR","RRR, Avatar",KGF,2024-08-22
+51,Anika Joshi,Female,Pune,Interstellar,Sci-Fi,Prabhas,Prashanth Neel,Netflix,2,129,"Interstellar, The Batman, KGF","Inception, Titanic",Interstellar,2024-06-23
+52,Ira Das,Female,Pune,Avatar,Action,Joaquin Phoenix,Atlee,Disney+ Hotstar,1,223,Joker,"Avengers, Interstellar",KGF,2024-03-21
+53,Aanya Singh,Male,Pune,Joker,Drama,Christian Bale,Prashanth Neel,Amazon Prime,1,105,"Pushpa, Joker, Avatar","Avengers, Joker, KGF, Inception, Titanic",Avatar,2024-12-10
+54,Pooja Das,Female,Chennai,Joker,Drama,Jr NTR,S. S. Rajamouli,Amazon Prime,4,126,"Avengers, Avatar","KGF, Titanic",Titanic,2024-12-20
+55,Reyansh Reddy,Female,Mumbai,Interstellar,Sci-Fi,Robert Downey Jr.,Russo Brothers,Amazon Prime,1,64,"Avatar, The Batman","The Batman, Pushpa, Titanic, Inception, Interstellar",Joker,2024-12-05
+56,Sai Iyer,Female,Chennai,Inception,Sci-Fi,Shah Rukh Khan,Russo Brothers,Amazon Prime,2,217,Inception,"Pushpa, Interstellar, RRR",KGF,2024-01-22
+57,Pooja Nair,Male,Bangalore,Titanic,Romance,Jr NTR,James Cameron,ZEE5,5,156,"Inception, Interstellar","KGF, Avatar, Avengers, Interstellar",Joker,2024-04-01
+58,Aditya Gupta,Female,Delhi,Avengers,Action,Christian Bale,Todd Phillips,SonyLIV,5,212,"The Batman, Interstellar","RRR, Pushpa, Avengers, Titanic",Joker,2024-12-25
+59,Ananya Das,Female,Pune,RRR,Drama,Shah Rukh Khan,James Cameron,ZEE5,2,225,Interstellar,"The Batman, Titanic",Interstellar,2024-01-10
+60,Riya Mehta,Female,Chennai,Inception,Sci-Fi,Joaquin Phoenix,Christopher Nolan,Disney+ Hotstar,5,94,"Avatar, Titanic","Avatar, Pushpa, Joker, Inception",KGF,2024-07-10
+61,Vihaan Yadav,Male,Chennai,Interstellar,Sci-Fi,Leonardo DiCaprio,Sukumar,Disney+ Hotstar,5,151,"Avengers, Joker","KGF, RRR, Pushpa",Interstellar,2024-01-03
+62,Aarav Choudhary,Female,Bangalore,Inception,Sci-Fi,Prabhas,Prashanth Neel,Netflix,1,180,"The Batman, Interstellar","Avatar, Inception",KGF,2024-03-24
+63,Anika Iyer,Male,Mumbai,Inception,Sci-Fi,Shah Rukh Khan,Sandeep Reddy Vanga,Amazon Prime,1,50,"The Batman, Pushpa","Avengers, Interstellar, Avatar, Joker, Inception",Avengers,2024-06-29
+64,Ira Reddy,Female,Hyderabad,RRR,Drama,Allu Arjun,Christopher Nolan,Amazon Prime,5,148,Interstellar,"Titanic, Inception, Avengers, Avatar, KGF",The Batman,2024-11-21
+65,Anika Khan,Male,Delhi,Pushpa,Action,Prabhas,Sandeep Reddy Vanga,SonyLIV,3,229,"KGF, Interstellar, Titanic","Titanic, The Batman",Pushpa,2024-03-27
+66,Sai Shetty,Male,Bangalore,Titanic,Romance,Allu Arjun,Matt Reeves,Netflix,5,163,"Avengers, Inception, Pushpa","Joker, Titanic, KGF",RRR,2024-12-12
+67,Arjun Choudhary,Male,Bangalore,Avatar,Action,Jr NTR,Atlee,Netflix,2,51,"Titanic, Pushpa","Avengers, KGF, Interstellar",Pushpa,2024-05-16
+68,Aditya Yadav,Female,Hyderabad,Avatar,Action,Ram Charan,Matt Reeves,SonyLIV,3,54,"The Batman, Avengers, RRR","Interstellar, Inception, Avatar, Pushpa",Inception,2024-09-01
+69,Aditya Joshi,Male,Mumbai,KGF,Action,Robert Downey Jr.,Russo Brothers,SonyLIV,2,70,"Avatar, Joker, Inception","Inception, Avatar",Avengers,2024-06-07
+70,Vihaan Das,Male,Bangalore,Interstellar,Sci-Fi,Leonardo DiCaprio,Sukumar,Disney+ Hotstar,3,147,"Pushpa, Titanic, Inception","Avengers, Titanic",The Batman,2024-09-03
+71,Aarav Agarwal,Male,Mumbai,Titanic,Romance,Shah Rukh Khan,Prashanth Neel,Netflix,1,142,"Titanic, KGF","The Batman, Avengers, Interstellar",Pushpa,2024-06-23
+72,Diya Mehta,Female,Pune,Joker,Drama,Ram Charan,Prashanth Neel,SonyLIV,4,203,"RRR, Joker","Interstellar, Inception",KGF,2024-01-06
+73,Aadhya Sharma,Female,Chennai,RRR,Drama,Joaquin Phoenix,Todd Phillips,ZEE5,2,104,"Interstellar, Pushpa, Inception","RRR, Joker, Titanic, Inception",Pushpa,2024-07-27
+74,Aanya Gupta,Female,Hyderabad,Pushpa,Action,Ram Charan,S. S. Rajamouli,Netflix,3,202,"Inception, Pushpa, RRR","The Batman, RRR",Interstellar,2024-08-15
+75,Vivaan Yadav,Female,Chennai,Interstellar,Sci-Fi,Christian Bale,Atlee,Netflix,5,42,RRR,"Pushpa, Inception, Avatar, Interstellar",Inception,2024-11-27
+76,Ananya Kapoor,Female,Hyderabad,Joker,Drama,Yash,Atlee,ZEE5,1,44,"Avatar, KGF","Interstellar, Avatar, KGF",Pushpa,2024-02-06
+77,Shaurya Nair,Female,Chennai,KGF,Action,Leonardo DiCaprio,Matt Reeves,Amazon Prime,4,212,"Inception, The Batman, Interstellar","Avengers, Joker",Pushpa,2024-06-06
+78,Vihaan Nair,Male,Bangalore,The Batman,Action,Jr NTR,Prashanth Neel,Netflix,1,234,"Titanic, RRR, Avengers","Avatar, KGF, Titanic, Interstellar",Inception,2024-07-31
+79,Pooja Iyer,Male,Delhi,The Batman,Action,Yash,S. S. Rajamouli,Netflix,2,117,"RRR, Pushpa","Avengers, The Batman, Inception, Interstellar, KGF",The Batman,2024-11-02
+80,Vihaan Mehta,Male,Pune,The Batman,Action,Shah Rukh Khan,Sandeep Reddy Vanga,SonyLIV,5,30,"Joker, The Batman","Joker, Inception, Avengers, Pushpa",Interstellar,2024-11-11
+81,Pooja Joshi,Male,Delhi,Avatar,Action,Robert Downey Jr.,Prashanth Neel,ZEE5,3,44,"Interstellar, RRR, Joker","Inception, Avengers, Joker",Avengers,2024-01-04
+82,Aanya Shetty,Female,Delhi,Interstellar,Sci-Fi,Yash,Matt Reeves,ZEE5,3,54,Interstellar,"Avatar, The Batman, RRR",Avatar,2024-05-15
+83,Sara Kulkarni,Female,Chennai,KGF,Action,Christian Bale,Russo Brothers,ZEE5,1,56,"Avatar, Inception","Titanic, Joker, RRR, KGF",The Batman,2024-10-28
+84,Aditya Bansal,Female,Bangalore,Avengers,Action,Prabhas,Russo Brothers,ZEE5,4,128,Titanic,"Avengers, KGF, Avatar",Inception,2024-04-29
+85,Riya Patel,Female,Pune,KGF,Action,Shah Rukh Khan,Matt Reeves,SonyLIV,5,225,Avatar,"Pushpa, Inception, RRR, Interstellar, Titanic",Titanic,2024-12-27
+86,Aanya Joshi,Female,Chennai,Inception,Sci-Fi,Ram Charan,S. S. Rajamouli,ZEE5,4,49,"Pushpa, The Batman","Interstellar, Pushpa",Avatar,2024-12-10
+87,Sai Nair,Female,Bangalore,RRR,Drama,Joaquin Phoenix,S. S. Rajamouli,SonyLIV,3,52,"Titanic, KGF","RRR, Interstellar, Titanic, The Batman",RRR,2024-02-17
+88,Vivaan Kapoor,Male,Chennai,Avatar,Action,Leonardo DiCaprio,Christopher Nolan,ZEE5,4,237,Inception,"KGF, RRR, Inception, Avengers",RRR,2024-06-01
+89,Vihaan Choudhary,Male,Bangalore,Pushpa,Action,Joaquin Phoenix,Russo Brothers,SonyLIV,4,83,"RRR, Inception","Joker, KGF, RRR, Interstellar",Joker,2024-08-31
+90,Pooja Sharma,Male,Hyderabad,The Batman,Action,Joaquin Phoenix,S. S. Rajamouli,ZEE5,3,54,"Titanic, Avatar, Interstellar","The Batman, Avengers, Joker, Pushpa",Inception,2024-09-20
+91,Myra Joshi,Male,Mumbai,Joker,Drama,Jr NTR,Christopher Nolan,SonyLIV,5,94,Joker,"RRR, Joker",RRR,2024-04-03
+92,Pooja Khan,Male,Pune,Avatar,Action,Yash,S. S. Rajamouli,Netflix,1,213,"Joker, The Batman","RRR, Avengers",Interstellar,2024-08-28
+93,Pooja Khan,Male,Hyderabad,RRR,Drama,Shah Rukh Khan,Sandeep Reddy Vanga,Netflix,3,36,"Avengers, Inception, Pushpa","Avengers, Titanic, KGF, Inception",Titanic,2024-12-20
+94,Sara Shetty,Female,Hyderabad,KGF,Action,Jr NTR,James Cameron,Netflix,3,192,Pushpa,"Interstellar, Inception",Joker,2024-11-14
+95,Sai Nair,Female,Chennai,Avengers,Action,Allu Arjun,Sukumar,Netflix,5,167,"Inception, KGF, RRR","Avatar, Inception, Avengers, The Batman",Pushpa,2024-02-08
+96,Ishaan Das,Female,Delhi,Pushpa,Action,Leonardo DiCaprio,Atlee,ZEE5,1,38,Titanic,"Avengers, Joker, KGF, Inception",The Batman,2024-10-09
+97,Sara Nair,Male,Hyderabad,Avatar,Action,Yash,Russo Brothers,Netflix,1,210,"KGF, Pushpa","KGF, The Batman, Avengers, RRR, Joker",Avatar,2024-08-14
+98,Pooja Gupta,Male,Pune,Titanic,Romance,Joaquin Phoenix,S. S. Rajamouli,SonyLIV,1,47,Avengers,"Avatar, Joker, Titanic, KGF",RRR,2024-05-27
+99,Aadhya Mehta,Female,Delhi,Avengers,Action,Leonardo DiCaprio,Christopher Nolan,ZEE5,2,212,"Titanic, Pushpa, Joker","The Batman, Pushpa, Titanic",Avatar,2024-11-29
+100,Aditya Patel,Male,Hyderabad,Pushpa,Action,Prabhas,Sukumar,SonyLIV,1,212,"Joker, RRR, Interstellar","RRR, Avatar, Pushpa",Titanic,2024-10-19
+101,Aarav Reddy,Male,Pune,KGF,Action,Prabhas,Todd Phillips,ZEE5,1,232,Inception,"Titanic, KGF, RRR, The Batman, Avatar",Avatar,2024-07-01
+102,Sai Patel,Female,Mumbai,RRR,Drama,Ram Charan,Russo Brothers,Amazon Prime,1,83,"Interstellar, Avatar","Avengers, The Batman, Inception",Pushpa,2024-01-16
+103,Reyansh Reddy,Female,Delhi,Titanic,Romance,Jr NTR,Sukumar,Amazon Prime,4,225,Titanic,"Inception, Joker, Titanic, The Batman",Avengers,2024-01-16
+104,Reyansh Kapoor,Male,Pune,Interstellar,Sci-Fi,Shah Rukh Khan,Todd Phillips,Disney+ Hotstar,2,236,"Titanic, Avengers, The Batman","The Batman, RRR, Titanic",RRR,2024-09-18
+105,Ira Mehta,Female,Mumbai,KGF,Action,Robert Downey Jr.,S. S. Rajamouli,Netflix,1,83,Titanic,"Avatar, Titanic",RRR,2024-10-16
+106,Pooja Patel,Male,Hyderabad,Inception,Sci-Fi,Robert Downey Jr.,Sandeep Reddy Vanga,Disney+ Hotstar,2,74,"Joker, The Batman, Interstellar","Pushpa, Avengers, Interstellar",KGF,2024-06-28
+107,Sara Malhotra,Male,Delhi,Avengers,Action,Prabhas,Sukumar,Amazon Prime,1,164,KGF,"RRR, Avengers, The Batman, Titanic, KGF",Avatar,2024-03-02
+108,Shaurya Singh,Female,Mumbai,Titanic,Romance,Yash,Prashanth Neel,ZEE5,3,169,"Joker, Pushpa, Inception","Inception, Avatar, Joker",RRR,2024-07-05
+109,Pooja Gupta,Male,Bangalore,Avatar,Action,Robert Downey Jr.,S. S. Rajamouli,ZEE5,5,188,Interstellar,"Avengers, Titanic, KGF",Avengers,2024-07-28
+110,Anika Das,Male,Mumbai,Titanic,Romance,Robert Downey Jr.,Russo Brothers,SonyLIV,1,195,"KGF, Interstellar, Avengers","Titanic, Pushpa, RRR, KGF, Avatar",Avengers,2024-10-18
+111,Riya Das,Female,Mumbai,Joker,Drama,Joaquin Phoenix,Sukumar,Disney+ Hotstar,5,227,"Avengers, The Batman, RRR","Pushpa, KGF, Titanic, RRR, Inception",Joker,2024-12-13
+112,Vihaan Gupta,Female,Delhi,Titanic,Romance,Jr NTR,Atlee,SonyLIV,2,104,"Joker, The Batman, Interstellar","Avengers, KGF, Titanic, Inception",The Batman,2024-09-03
+113,Sara Gupta,Male,Chennai,RRR,Drama,Allu Arjun,Prashanth Neel,Disney+ Hotstar,5,208,"Inception, KGF, Pushpa","The Batman, Avatar, KGF, Titanic",The Batman,2024-02-02
+114,Shaurya Sharma,Female,Pune,Interstellar,Sci-Fi,Leonardo DiCaprio,Todd Phillips,SonyLIV,2,156,"Inception, KGF, Avengers","RRR, Pushpa, Titanic, Avatar",Titanic,2024-12-19
+115,Vivaan Choudhary,Female,Bangalore,Avengers,Action,Prabhas,Prashanth Neel,Amazon Prime,3,30,"The Batman, Joker, Interstellar","The Batman, Joker, Inception, Pushpa",Interstellar,2024-09-23
+116,Aditya Nair,Male,Delhi,Inception,Sci-Fi,Robert Downey Jr.,Sandeep Reddy Vanga,Amazon Prime,5,239,"Inception, The Batman, Interstellar","Avengers, Pushpa, Titanic",Avengers,2024-03-12
+117,Diya Nair,Female,Mumbai,KGF,Action,Ram Charan,Matt Reeves,Amazon Prime,4,123,Pushpa,"KGF, Inception, Joker",The Batman,2024-01-01
+118,Krishna Yadav,Female,Bangalore,Inception,Sci-Fi,Yash,Sukumar,Netflix,3,181,Inception,"Avengers, Joker",Avatar,2024-12-17
+119,Reyansh Choudhary,Female,Chennai,KGF,Action,Robert Downey Jr.,Christopher Nolan,SonyLIV,5,176,"RRR, The Batman","Pushpa, The Batman, Inception, Avatar",The Batman,2024-08-22
+120,Sai Kulkarni,Female,Pune,Avengers,Action,Robert Downey Jr.,Prashanth Neel,SonyLIV,2,202,The Batman,"Interstellar, RRR, KGF, The Batman",Titanic,2024-10-19
+121,Aarav Das,Female,Delhi,Pushpa,Action,Prabhas,Sandeep Reddy Vanga,Disney+ Hotstar,2,208,RRR,"The Batman, Titanic",Joker,2024-04-19
+122,Vihaan Patel,Male,Delhi,Titanic,Romance,Jr NTR,S. S. Rajamouli,SonyLIV,1,43,"RRR, The Batman, Interstellar","Inception, Joker",Pushpa,2024-11-30
+123,Vivaan Joshi,Male,Hyderabad,KGF,Action,Christian Bale,Russo Brothers,Disney+ Hotstar,1,80,"Avengers, Joker","Pushpa, Avengers, KGF",The Batman,2024-06-23
+124,Ira Agarwal,Male,Mumbai,KGF,Action,Ram Charan,Matt Reeves,ZEE5,3,130,Avatar,"KGF, The Batman, Pushpa, Titanic, Avengers",Pushpa,2024-04-21
+125,Krishna Yadav,Male,Delhi,Avengers,Action,Leonardo DiCaprio,Matt Reeves,Disney+ Hotstar,4,68,"Interstellar, KGF, RRR","Avengers, Pushpa",KGF,2024-03-25
+126,Anika Mehta,Male,Delhi,Inception,Sci-Fi,Robert Downey Jr.,Todd Phillips,ZEE5,2,160,"Titanic, Avatar, Joker","Inception, KGF, Avengers, RRR, Pushpa",Interstellar,2024-07-08
+127,Pooja Das,Male,Pune,RRR,Drama,Yash,Christopher Nolan,ZEE5,4,151,"Pushpa, Joker, Titanic","Joker, Avatar, Avengers, Pushpa, Interstellar",Avatar,2024-10-11
+128,Vivaan Yadav,Male,Hyderabad,Pushpa,Action,Ram Charan,Atlee,Amazon Prime,3,211,"Titanic, Joker","Avatar, KGF, Interstellar, Inception, RRR",KGF,2024-01-22
+129,Reyansh Mehta,Male,Hyderabad,The Batman,Action,Shah Rukh Khan,Matt Reeves,ZEE5,4,61,Inception,"Avengers, Inception, Avatar, Interstellar",Inception,2024-11-27
+130,Diya Gupta,Male,Delhi,Titanic,Romance,Jr NTR,Atlee,Netflix,5,110,"Avatar, RRR, The Batman","Avengers, Avatar, KGF, Titanic",Inception,2024-11-16
+131,Myra Shetty,Male,Pune,The Batman,Action,Christian Bale,Sukumar,Amazon Prime,2,204,"Avatar, Inception, Pushpa","Joker, Interstellar, Pushpa, RRR",KGF,2024-11-03
+132,Shaurya Das,Female,Hyderabad,Titanic,Romance,Yash,Russo Brothers,ZEE5,3,118,"Avatar, Pushpa, Avengers","KGF, Inception, Joker, Avatar, Titanic",Pushpa,2024-01-24
+133,Myra Singh,Female,Chennai,RRR,Drama,Prabhas,Todd Phillips,Disney+ Hotstar,5,202,Inception,"Titanic, Joker, RRR, Avengers",Joker,2024-12-16
+134,Ishaan Das,Male,Chennai,Avengers,Action,Robert Downey Jr.,Atlee,Netflix,5,88,"Avengers, Inception","Interstellar, Avengers, The Batman, Pushpa",Inception,2024-03-21
+135,Arjun Shetty,Female,Hyderabad,Joker,Drama,Allu Arjun,Prashanth Neel,Netflix,4,112,"Avengers, Titanic, Inception","Inception, Titanic",Inception,2024-03-03
+136,Aarav Agarwal,Female,Pune,Titanic,Romance,Yash,Todd Phillips,Netflix,2,142,KGF,"Avatar, KGF",The Batman,2024-12-01
+137,Ishaan Mehta,Male,Bangalore,Avatar,Action,Jr NTR,Prashanth Neel,ZEE5,5,72,Pushpa,"Titanic, Pushpa",Avatar,2024-08-04
+138,Sara Malhotra,Male,Mumbai,Avengers,Action,Joaquin Phoenix,James Cameron,Amazon Prime,2,44,Inception,"Avengers, Avatar",Avengers,2024-06-18
+139,Sai Khan,Female,Delhi,Joker,Drama,Yash,Atlee,Amazon Prime,1,135,Titanic,"RRR, Interstellar, KGF, The Batman",Avatar,2024-12-14
+140,Sara Choudhary,Female,Mumbai,Inception,Sci-Fi,Christian Bale,Todd Phillips,SonyLIV,5,208,"Titanic, Pushpa","Joker, Pushpa, RRR, Avengers",KGF,2024-03-22
+141,Diya Bansal,Female,Chennai,Pushpa,Action,Prabhas,Todd Phillips,Disney+ Hotstar,3,137,Interstellar,"Avengers, Titanic, Inception, RRR, KGF",KGF,2024-03-19
+142,Arjun Iyer,Female,Delhi,Inception,Sci-Fi,Allu Arjun,Sukumar,ZEE5,2,113,"KGF, Joker","Inception, Pushpa, RRR, The Batman",The Batman,2024-12-06
+143,Myra Nair,Male,Pune,Avatar,Action,Robert Downey Jr.,Russo Brothers,Disney+ Hotstar,3,192,"Pushpa, RRR, KGF","Avatar, RRR, Inception, Titanic",RRR,2024-07-17
+144,Aadhya Das,Female,Bangalore,Avengers,Action,Joaquin Phoenix,Prashanth Neel,Disney+ Hotstar,3,49,"KGF, The Batman","Pushpa, The Batman, Inception, Joker, KGF",Pushpa,2024-02-14
+145,Reyansh Yadav,Female,Delhi,RRR,Drama,Joaquin Phoenix,Christopher Nolan,Amazon Prime,4,161,Inception,"Avatar, RRR, Pushpa, The Batman",Avengers,2024-06-15
+146,Shaurya Malhotra,Female,Delhi,Titanic,Romance,Leonardo DiCaprio,Russo Brothers,Disney+ Hotstar,3,149,"Avatar, KGF, The Batman","The Batman, Pushpa, Avatar",The Batman,2024-08-07
+147,Vihaan Yadav,Female,Delhi,Avatar,Action,Allu Arjun,Atlee,Disney+ Hotstar,1,61,Avengers,"Inception, Titanic, RRR",Joker,2024-08-14
+148,Krishna Verma,Female,Bangalore,Inception,Sci-Fi,Christian Bale,Atlee,Disney+ Hotstar,3,38,"Titanic, Joker, Inception","Interstellar, Avengers, Titanic",Titanic,2024-10-08
+149,Shaurya Malhotra,Male,Bangalore,Pushpa,Action,Robert Downey Jr.,Matt Reeves,Netflix,3,110,"Joker, The Batman","Pushpa, Avatar, Titanic, The Batman, Avengers",Titanic,2024-10-19
+150,Reyansh Kulkarni,Female,Mumbai,The Batman,Action,Allu Arjun,Prashanth Neel,Netflix,1,160,"Titanic, Interstellar, Inception","Avatar, Titanic, Joker, Interstellar, Avengers",Pushpa,2024-07-25
+151,Ananya Bansal,Male,Bangalore,Joker,Drama,Allu Arjun,Atlee,Netflix,1,119,"Pushpa, Avengers, Joker","Interstellar, KGF",RRR,2024-10-16
+152,Krishna Choudhary,Female,Bangalore,Titanic,Romance,Joaquin Phoenix,S. S. Rajamouli,ZEE5,1,161,"Inception, The Batman, KGF","Avengers, Interstellar, The Batman, Avatar",Titanic,2024-08-22
+153,Aanya Shetty,Female,Chennai,The Batman,Action,Yash,Todd Phillips,ZEE5,3,34,"Avatar, Inception, RRR","Titanic, Avatar",Avatar,2024-07-30
+154,Pooja Khan,Male,Mumbai,The Batman,Action,Christian Bale,S. S. Rajamouli,SonyLIV,4,47,"The Batman, RRR, Avengers","Interstellar, Inception",Joker,2024-02-07
+155,Aarav Yadav,Male,Mumbai,Avengers,Action,Allu Arjun,Prashanth Neel,Netflix,3,178,"Interstellar, Joker, Avengers","The Batman, RRR, Avengers",Titanic,2024-02-02
+156,Diya Shetty,Male,Bangalore,KGF,Action,Robert Downey Jr.,Christopher Nolan,ZEE5,4,61,"RRR, Avatar, The Batman","RRR, Interstellar, Avatar, Joker",KGF,2024-03-10
+157,Diya Gupta,Female,Bangalore,Pushpa,Action,Leonardo DiCaprio,Christopher Nolan,Amazon Prime,2,219,Avatar,"RRR, Pushpa",Joker,2024-01-03
+158,Ishaan Bansal,Female,Delhi,Joker,Drama,Ram Charan,S. S. Rajamouli,Amazon Prime,1,149,"Avengers, Joker, The Batman","Inception, Joker, Interstellar, Avatar",Interstellar,2024-03-25
+159,Ira Joshi,Male,Mumbai,Avengers,Action,Yash,James Cameron,SonyLIV,2,188,Titanic,"Titanic, Interstellar, The Batman",Pushpa,2024-06-09
+160,Sara Joshi,Female,Delhi,Joker,Drama,Allu Arjun,Christopher Nolan,SonyLIV,4,134,"KGF, RRR, Pushpa","Pushpa, Joker, KGF",KGF,2024-11-24
+161,Diya Verma,Female,Hyderabad,Interstellar,Sci-Fi,Jr NTR,Christopher Nolan,Amazon Prime,5,235,"Titanic, KGF, Inception","The Batman, Avengers, Interstellar, RRR",Titanic,2024-01-22
+162,Arjun Khan,Female,Bangalore,Avengers,Action,Prabhas,Christopher Nolan,Amazon Prime,5,40,"KGF, RRR, Inception","RRR, Avengers, Avatar, The Batman, Joker",The Batman,2024-10-25
+163,Krishna Choudhary,Female,Delhi,RRR,Drama,Leonardo DiCaprio,Sandeep Reddy Vanga,Amazon Prime,1,34,"Inception, Avatar","Pushpa, Interstellar, Inception, The Batman, KGF",Joker,2024-01-22
+164,Reyansh Kapoor,Female,Chennai,Titanic,Romance,Shah Rukh Khan,James Cameron,Amazon Prime,4,108,RRR,"Titanic, Interstellar",RRR,2024-05-06
+165,Arjun Agarwal,Male,Hyderabad,Inception,Sci-Fi,Shah Rukh Khan,S. S. Rajamouli,SonyLIV,2,58,"Pushpa, RRR","Avatar, Titanic, The Batman, Avengers, Joker",Avatar,2024-12-07
+166,Pooja Choudhary,Male,Hyderabad,RRR,Drama,Shah Rukh Khan,S. S. Rajamouli,Amazon Prime,3,113,Joker,"Joker, The Batman, Interstellar",Inception,2024-08-12
+167,Riya Sharma,Female,Chennai,Inception,Sci-Fi,Ram Charan,James Cameron,Amazon Prime,1,41,"Avatar, Titanic, Pushpa","RRR, The Batman, Avatar, Interstellar",Titanic,2024-10-19
+168,Ishaan Bansal,Female,Chennai,Interstellar,Sci-Fi,Prabhas,Prashanth Neel,SonyLIV,3,104,"RRR, Joker","Titanic, Pushpa, Avatar, Inception, Joker",RRR,2024-03-15
+169,Vihaan Choudhary,Female,Delhi,Titanic,Romance,Christian Bale,Atlee,SonyLIV,5,226,"The Batman, KGF, Avatar","Inception, Avengers, Joker, KGF, RRR",The Batman,2024-06-04
+170,Aadhya Bansal,Male,Delhi,Pushpa,Action,Christian Bale,Sandeep Reddy Vanga,Netflix,2,190,"Titanic, Interstellar, Avatar","Joker, RRR, Inception",Avengers,2024-09-22
+171,Diya Nair,Female,Delhi,Interstellar,Sci-Fi,Leonardo DiCaprio,Sukumar,ZEE5,4,193,Interstellar,"Inception, Avatar, Interstellar, Avengers",Interstellar,2024-09-29
+172,Aadhya Verma,Male,Pune,RRR,Drama,Jr NTR,Christopher Nolan,Amazon Prime,2,115,Avatar,"RRR, Inception, Avatar, Interstellar",RRR,2024-09-07
+173,Vivaan Shetty,Male,Chennai,Pushpa,Action,Prabhas,Matt Reeves,SonyLIV,2,64,Titanic,"Joker, KGF, RRR, Pushpa, Titanic",RRR,2024-07-10
+174,Arjun Singh,Female,Chennai,Titanic,Romance,Shah Rukh Khan,S. S. Rajamouli,Netflix,3,117,Interstellar,"Inception, RRR, Avengers",The Batman,2024-09-21
+175,Arjun Patel,Male,Delhi,Interstellar,Sci-Fi,Jr NTR,Sandeep Reddy Vanga,Disney+ Hotstar,3,238,"KGF, Pushpa","RRR, Titanic, Avengers",Avatar,2024-12-03
+176,Vivaan Yadav,Male,Hyderabad,Pushpa,Action,Joaquin Phoenix,Matt Reeves,SonyLIV,3,66,Titanic,"The Batman, Avatar, RRR, Titanic, Joker",Interstellar,2024-02-14
+177,Diya Iyer,Male,Mumbai,Joker,Drama,Robert Downey Jr.,Matt Reeves,Netflix,1,208,KGF,"Titanic, Avatar",Pushpa,2024-01-20
+178,Aarav Khan,Female,Delhi,The Batman,Action,Ram Charan,James Cameron,SonyLIV,3,92,"Avatar, Pushpa, KGF","Titanic, The Batman, Joker",Interstellar,2024-01-18
+179,Arjun Iyer,Female,Bangalore,Avengers,Action,Shah Rukh Khan,James Cameron,Amazon Prime,4,54,"Interstellar, Avengers","Joker, Titanic",The Batman,2024-05-17
+180,Ananya Mehta,Female,Bangalore,Interstellar,Sci-Fi,Christian Bale,Prashanth Neel,ZEE5,5,149,"Inception, Avatar","Titanic, KGF, Avatar",Titanic,2024-12-16
+181,Pooja Kulkarni,Male,Pune,Interstellar,Sci-Fi,Jr NTR,Russo Brothers,Disney+ Hotstar,2,50,Avatar,"Avengers, The Batman, Titanic, KGF, Inception",The Batman,2024-11-03
+182,Pooja Verma,Female,Mumbai,Avatar,Action,Joaquin Phoenix,James Cameron,SonyLIV,1,136,"The Batman, Joker","Joker, Titanic, Pushpa, Avatar, KGF",Titanic,2024-12-27
+183,Diya Sharma,Male,Chennai,Avatar,Action,Yash,S. S. Rajamouli,ZEE5,5,228,"Joker, Avatar, Titanic","Joker, Avatar, Avengers, Titanic, Interstellar",The Batman,2024-05-17
+184,Shaurya Mehta,Female,Bangalore,RRR,Drama,Shah Rukh Khan,James Cameron,ZEE5,4,164,Titanic,"Interstellar, Inception, Titanic",Interstellar,2024-06-07
+185,Riya Kapoor,Female,Pune,KGF,Action,Ram Charan,Sandeep Reddy Vanga,SonyLIV,5,232,"Avatar, Interstellar, Pushpa","KGF, RRR, Interstellar, Pushpa",KGF,2024-04-21
+186,Aanya Kapoor,Male,Delhi,Interstellar,Sci-Fi,Allu Arjun,Matt Reeves,Disney+ Hotstar,1,224,"Pushpa, Inception","Avengers, Inception, RRR",Interstellar,2024-04-04
+187,Arjun Mehta,Female,Hyderabad,Inception,Sci-Fi,Prabhas,Christopher Nolan,Amazon Prime,3,142,"Inception, The Batman, RRR","Avengers, Joker",Titanic,2024-02-05
+188,Sara Bansal,Female,Hyderabad,Pushpa,Action,Allu Arjun,Sukumar,Netflix,4,31,"The Batman, Joker","RRR, Titanic, KGF, Interstellar",KGF,2024-12-02
+189,Sai Patel,Male,Chennai,KGF,Action,Christian Bale,James Cameron,ZEE5,2,47,Avatar,"Interstellar, Pushpa, Joker, The Batman",Pushpa,2024-03-12
+190,Sai Reddy,Male,Chennai,The Batman,Action,Robert Downey Jr.,Christopher Nolan,Netflix,5,184,"Interstellar, KGF","Joker, Interstellar, RRR, Inception, The Batman",RRR,2024-12-21
+191,Vivaan Iyer,Female,Delhi,Interstellar,Sci-Fi,Ram Charan,Sandeep Reddy Vanga,SonyLIV,4,85,KGF,"RRR, Interstellar, KGF, The Batman",Titanic,2024-03-05
+192,Sai Verma,Female,Hyderabad,Joker,Drama,Yash,Prashanth Neel,Netflix,5,125,"The Batman, Interstellar","RRR, Joker",Titanic,2024-08-24
+193,Riya Kapoor,Male,Pune,Titanic,Romance,Allu Arjun,Sandeep Reddy Vanga,Disney+ Hotstar,3,201,"Interstellar, KGF","Avatar, Interstellar, Titanic, Pushpa",Joker,2024-11-27
+194,Ananya Kapoor,Female,Pune,KGF,Action,Yash,Matt Reeves,Amazon Prime,3,97,Interstellar,"Avatar, Inception",Interstellar,2024-08-10
+195,Pooja Sharma,Male,Mumbai,Avengers,Action,Prabhas,Christopher Nolan,ZEE5,4,45,Titanic,"Joker, Inception",Avengers,2024-08-15
+196,Ira Verma,Male,Delhi,The Batman,Action,Prabhas,Prashanth Neel,ZEE5,1,131,"Joker, Inception","Interstellar, Inception, KGF, Joker",Joker,2024-10-10
+197,Ananya Malhotra,Male,Chennai,Inception,Sci-Fi,Jr NTR,Prashanth Neel,SonyLIV,3,204,KGF,"Avengers, Interstellar",Avengers,2024-01-09
+198,Ira Agarwal,Male,Pune,Interstellar,Sci-Fi,Christian Bale,Matt Reeves,Netflix,1,129,"Interstellar, Titanic, Inception","KGF, Interstellar, Joker, The Batman",Pushpa,2024-07-23
+199,Sai Shetty,Male,Hyderabad,Pushpa,Action,Allu Arjun,S. S. Rajamouli,Disney+ Hotstar,4,220,"RRR, Inception, Joker","RRR, Inception, Avatar, Joker",Avatar,2024-02-08
+200,Sai Bansal,Male,Delhi,Inception,Sci-Fi,Joaquin Phoenix,James Cameron,Amazon Prime,3,79,"KGF, Pushpa, Interstellar","The Batman, Joker, Titanic, Inception, RRR",Avatar,2024-11-08
+201,Shaurya Khan,Male,Bangalore,Interstellar,Sci-Fi,Yash,S. S. Rajamouli,SonyLIV,3,48,Avengers,"Pushpa, KGF, RRR",RRR,2024-05-10
+202,Arjun Agarwal,Male,Chennai,RRR,Drama,Robert Downey Jr.,Matt Reeves,ZEE5,2,53,"Joker, The Batman","Avatar, Inception, Interstellar, Titanic, The Batman",The Batman,2024-08-07
+203,Sara Shetty,Female,Mumbai,RRR,Drama,Yash,Todd Phillips,ZEE5,1,234,"Pushpa, Inception, Joker","KGF, Avatar, Inception",Inception,2024-01-08
+204,Anika Kapoor,Female,Hyderabad,KGF,Action,Ram Charan,Prashanth Neel,Disney+ Hotstar,2,192,"Joker, Avengers","KGF, Inception, Joker",KGF,2024-08-12
+205,Shaurya Choudhary,Male,Mumbai,Titanic,Romance,Ram Charan,Sukumar,Disney+ Hotstar,1,44,"The Batman, Pushpa, RRR","RRR, Inception, Pushpa, Titanic",Interstellar,2024-07-09
+206,Ananya Choudhary,Female,Hyderabad,KGF,Action,Ram Charan,Atlee,Disney+ Hotstar,5,191,"Titanic, KGF, Pushpa","The Batman, RRR, Joker",The Batman,2024-11-28
+207,Vihaan Malhotra,Female,Bangalore,Titanic,Romance,Yash,Prashanth Neel,SonyLIV,5,169,"RRR, Titanic, The Batman","RRR, Avatar",Joker,2024-08-07
+208,Reyansh Khan,Male,Mumbai,Pushpa,Action,Yash,James Cameron,SonyLIV,3,198,"Joker, Avatar","The Batman, Avatar, Pushpa, RRR, Interstellar",RRR,2024-04-17
+209,Diya Singh,Female,Delhi,Titanic,Romance,Allu Arjun,Sukumar,Netflix,2,227,"Pushpa, Joker","Joker, RRR",Titanic,2024-09-21
+210,Sai Patel,Female,Chennai,KGF,Action,Allu Arjun,Sandeep Reddy Vanga,ZEE5,4,78,"Interstellar, Titanic","Avengers, KGF, Avatar, RRR",Inception,2024-10-13
+211,Vivaan Sharma,Female,Chennai,Pushpa,Action,Leonardo DiCaprio,James Cameron,SonyLIV,2,196,"KGF, Interstellar","Inception, Pushpa, Titanic",Interstellar,2024-09-26
+212,Anika Verma,Female,Delhi,Avatar,Action,Yash,Russo Brothers,Netflix,4,149,The Batman,"Inception, The Batman, KGF, RRR, Interstellar",Pushpa,2024-02-25
+213,Ishaan Reddy,Female,Delhi,RRR,Drama,Allu Arjun,Christopher Nolan,ZEE5,2,196,"Avengers, Inception","Joker, Avatar, Inception, The Batman",The Batman,2024-02-22
+214,Shaurya Das,Male,Delhi,Pushpa,Action,Leonardo DiCaprio,Matt Reeves,Amazon Prime,5,51,"Inception, The Batman","Joker, The Batman, Avengers, RRR",Avatar,2024-10-18
+215,Ananya Patel,Female,Delhi,Joker,Drama,Jr NTR,Sukumar,Netflix,5,198,"Avatar, RRR","Interstellar, KGF, Inception, Joker",Avengers,2024-02-01
+216,Vivaan Choudhary,Female,Bangalore,Interstellar,Sci-Fi,Jr NTR,James Cameron,SonyLIV,1,90,"RRR, Titanic","The Batman, Titanic, Inception, Avatar, RRR",Avengers,2024-06-20
+217,Anika Malhotra,Male,Hyderabad,Joker,Drama,Yash,Sandeep Reddy Vanga,Disney+ Hotstar,4,106,"Pushpa, Inception","The Batman, Pushpa",Titanic,2024-10-07
+218,Riya Sharma,Male,Bangalore,KGF,Action,Robert Downey Jr.,Matt Reeves,Disney+ Hotstar,4,116,Joker,"RRR, The Batman, Pushpa",Titanic,2024-09-04
+219,Pooja Kulkarni,Female,Delhi,Pushpa,Action,Allu Arjun,Matt Reeves,Disney+ Hotstar,1,225,"Titanic, Inception, KGF","Avengers, Joker, Pushpa, Avatar, The Batman",Titanic,2024-05-18
+220,Ananya Malhotra,Male,Hyderabad,RRR,Drama,Christian Bale,Christopher Nolan,Netflix,2,198,Pushpa,"Inception, Titanic",Titanic,2024-01-02
+221,Ira Khan,Male,Hyderabad,Titanic,Romance,Joaquin Phoenix,Sandeep Reddy Vanga,ZEE5,4,174,"KGF, Avatar, Avengers","Inception, Interstellar, Joker, The Batman",Avatar,2024-08-16
+222,Ishaan Singh,Female,Chennai,Titanic,Romance,Robert Downey Jr.,Christopher Nolan,Netflix,4,116,"Avatar, KGF, Joker","Joker, Avengers, Avatar, KGF",Pushpa,2024-12-05
+223,Sai Reddy,Male,Hyderabad,Joker,Drama,Yash,Sukumar,Disney+ Hotstar,5,71,The Batman,"Pushpa, Interstellar",Avengers,2024-01-03
+224,Shaurya Reddy,Female,Mumbai,The Batman,Action,Ram Charan,S. S. Rajamouli,Disney+ Hotstar,1,188,Titanic,"The Batman, Pushpa, Joker, Avengers, RRR",Titanic,2024-12-06
+225,Aadhya Agarwal,Female,Chennai,Pushpa,Action,Allu Arjun,Russo Brothers,Disney+ Hotstar,3,184,"Avengers, Titanic, Pushpa","Inception, The Batman, RRR, Joker",KGF,2024-05-07
+226,Krishna Nair,Female,Mumbai,Interstellar,Sci-Fi,Leonardo DiCaprio,Christopher Nolan,Netflix,2,137,"RRR, Avengers, The Batman","RRR, KGF, Interstellar, Avatar",Interstellar,2024-11-08
+227,Aanya Kapoor,Female,Hyderabad,Interstellar,Sci-Fi,Yash,Russo Brothers,Netflix,3,114,Avatar,"Joker, KGF, Pushpa, RRR, The Batman",Joker,2024-07-29
+228,Arjun Reddy,Male,Chennai,RRR,Drama,Allu Arjun,James Cameron,SonyLIV,4,150,"RRR, Titanic, Interstellar","Avengers, Joker",Joker,2024-06-11
+229,Ishaan Shetty,Male,Pune,RRR,Drama,Leonardo DiCaprio,Sandeep Reddy Vanga,Disney+ Hotstar,3,92,The Batman,"Titanic, Inception, Joker",Inception,2024-12-23
+230,Vivaan Kulkarni,Female,Delhi,Pushpa,Action,Ram Charan,Sukumar,SonyLIV,5,217,"The Batman, Avatar, Interstellar","Avengers, The Batman, Joker",The Batman,2024-09-17
+231,Myra Das,Male,Hyderabad,Joker,Drama,Joaquin Phoenix,Sukumar,Netflix,4,135,Avengers,"The Batman, Inception",The Batman,2024-08-24
+232,Riya Kulkarni,Female,Mumbai,Inception,Sci-Fi,Yash,Sandeep Reddy Vanga,Amazon Prime,4,163,"Inception, Joker","Joker, Interstellar",The Batman,2024-11-19
+233,Riya Singh,Female,Hyderabad,The Batman,Action,Yash,S. S. Rajamouli,Netflix,4,105,"Pushpa, KGF, Inception","RRR, Interstellar",Interstellar,2024-05-20
+234,Ira Verma,Male,Delhi,KGF,Action,Ram Charan,Russo Brothers,SonyLIV,1,184,"RRR, Inception, Titanic","Pushpa, KGF, Avatar",KGF,2024-12-08
+235,Sai Bansal,Female,Hyderabad,The Batman,Action,Ram Charan,S. S. Rajamouli,Disney+ Hotstar,2,218,"Joker, Titanic","Pushpa, Avatar, Inception",RRR,2024-02-01
+236,Pooja Bansal,Male,Delhi,The Batman,Action,Yash,Sukumar,ZEE5,4,77,Titanic,"Inception, Interstellar, Avengers, Joker, Pushpa",Interstellar,2024-10-19
+237,Pooja Gupta,Male,Delhi,Avatar,Action,Allu Arjun,Todd Phillips,Amazon Prime,3,180,"Pushpa, Interstellar","Inception, Interstellar, RRR, Pushpa",RRR,2024-12-26
+238,Diya Gupta,Female,Pune,Inception,Sci-Fi,Leonardo DiCaprio,James Cameron,Amazon Prime,4,191,"Avatar, The Batman","KGF, Pushpa, The Batman",Interstellar,2024-08-02
+239,Sai Reddy,Male,Bangalore,Avengers,Action,Allu Arjun,Sandeep Reddy Vanga,Disney+ Hotstar,4,36,Titanic,"KGF, Titanic, Avengers, Joker, Pushpa",Interstellar,2024-08-23
+240,Ishaan Patel,Male,Chennai,Avatar,Action,Joaquin Phoenix,Russo Brothers,SonyLIV,5,221,"Titanic, Interstellar, Avengers","Joker, KGF, Pushpa, Interstellar, Inception",Avatar,2024-04-20
+241,Myra Patel,Male,Mumbai,The Batman,Action,Joaquin Phoenix,Christopher Nolan,Netflix,3,50,Pushpa,"Inception, Joker",The Batman,2024-05-04
+242,Sai Sharma,Male,Bangalore,Titanic,Romance,Allu Arjun,Atlee,Amazon Prime,1,235,Joker,"Joker, RRR",Avengers,2024-06-18
+243,Vihaan Nair,Female,Delhi,Joker,Drama,Allu Arjun,Christopher Nolan,Amazon Prime,5,160,"Pushpa, Avatar","Avatar, Avengers, Interstellar, Inception",RRR,2024-04-10
+244,Riya Verma,Male,Mumbai,RRR,Drama,Jr NTR,Sukumar,Disney+ Hotstar,5,220,"RRR, Inception","Inception, RRR, Avatar, Joker, KGF",Pushpa,2024-03-23
+245,Aadhya Bansal,Female,Pune,Titanic,Romance,Christian Bale,Atlee,SonyLIV,5,30,"Interstellar, RRR","KGF, Inception",Avengers,2024-10-14
+246,Aditya Kapoor,Female,Chennai,Pushpa,Action,Shah Rukh Khan,Christopher Nolan,Netflix,5,99,"Inception, Pushpa","The Batman, Inception",Interstellar,2024-01-07
+247,Aadhya Sharma,Female,Delhi,RRR,Drama,Leonardo DiCaprio,Atlee,ZEE5,4,174,"Pushpa, Interstellar","The Batman, RRR, Inception, Pushpa",Inception,2024-04-10
+248,Reyansh Khan,Male,Mumbai,KGF,Action,Yash,Matt Reeves,Disney+ Hotstar,2,145,RRR,"Avatar, Pushpa",Inception,2024-07-30
+249,Reyansh Shetty,Female,Delhi,Interstellar,Sci-Fi,Christian Bale,Atlee,SonyLIV,5,117,"Titanic, Avatar, KGF","Pushpa, Avengers",Inception,2024-06-10
+250,Arjun Bansal,Female,Mumbai,Interstellar,Sci-Fi,Yash,Prashanth Neel,ZEE5,1,235,"Inception, Interstellar","RRR, Pushpa, Avengers",Joker,2024-08-24
+251,Pooja Kulkarni,Female,Bangalore,Avengers,Action,Ram Charan,Prashanth Neel,ZEE5,5,71,"Joker, Inception, Avatar","KGF, Avengers, Interstellar",Interstellar,2024-09-01
+252,Riya Reddy,Female,Mumbai,Titanic,Romance,Jr NTR,Russo Brothers,Amazon Prime,4,48,"Avengers, RRR, Titanic","Inception, Titanic, Joker, The Batman, KGF",RRR,2024-07-16
+253,Diya Mehta,Female,Hyderabad,RRR,Drama,Ram Charan,Matt Reeves,Netflix,3,230,"RRR, Avatar","Inception, KGF, Titanic, Pushpa",Avengers,2024-07-18
+254,Aditya Agarwal,Female,Hyderabad,Interstellar,Sci-Fi,Jr NTR,James Cameron,Netflix,1,131,Inception,"Avengers, Joker, RRR, The Batman, Pushpa",The Batman,2024-01-22
+255,Sai Yadav,Male,Mumbai,Titanic,Romance,Christian Bale,Todd Phillips,Netflix,3,42,"Interstellar, Pushpa","Joker, KGF",Avatar,2024-02-01
+256,Ishaan Gupta,Female,Delhi,Avatar,Action,Prabhas,Matt Reeves,Disney+ Hotstar,2,110,RRR,"RRR, Joker, Interstellar, Pushpa, Avengers",RRR,2024-07-17
+257,Vivaan Malhotra,Female,Chennai,KGF,Action,Robert Downey Jr.,Matt Reeves,SonyLIV,5,118,RRR,"KGF, Avatar, RRR",Pushpa,2024-04-03
+258,Ananya Shetty,Male,Chennai,Pushpa,Action,Jr NTR,Sandeep Reddy Vanga,Amazon Prime,4,238,"The Batman, Interstellar","Pushpa, The Batman, Inception, Interstellar, Avengers",Interstellar,2024-11-27
+259,Krishna Reddy,Male,Hyderabad,Avengers,Action,Yash,Todd Phillips,SonyLIV,4,40,Titanic,"Inception, Interstellar",Titanic,2024-04-17
+260,Myra Singh,Male,Pune,The Batman,Action,Shah Rukh Khan,S. S. Rajamouli,SonyLIV,5,33,"Interstellar, Avengers","RRR, Pushpa, Interstellar, Titanic",KGF,2024-05-09
+261,Aanya Yadav,Female,Chennai,Joker,Drama,Jr NTR,Russo Brothers,Disney+ Hotstar,5,71,"Joker, Interstellar, Avatar","The Batman, Pushpa, Avengers, Interstellar, RRR",Joker,2024-09-27
+262,Vivaan Yadav,Male,Pune,Avengers,Action,Shah Rukh Khan,Atlee,Disney+ Hotstar,2,113,KGF,"Interstellar, Avengers, KGF",RRR,2024-11-28
+263,Reyansh Kapoor,Female,Bangalore,Avatar,Action,Prabhas,Christopher Nolan,SonyLIV,5,152,Avengers,"RRR, KGF, The Batman, Interstellar",The Batman,2024-10-14
+264,Ananya Singh,Male,Delhi,Titanic,Romance,Ram Charan,Matt Reeves,Amazon Prime,5,179,"Avatar, Interstellar","Avengers, Avatar, Interstellar",RRR,2024-03-30
+265,Vivaan Mehta,Male,Hyderabad,KGF,Action,Christian Bale,Atlee,Amazon Prime,5,141,"Joker, Avengers, KGF","Joker, Interstellar, Inception",Interstellar,2024-09-28
+266,Aarav Verma,Female,Delhi,Avengers,Action,Yash,Todd Phillips,Amazon Prime,5,233,"RRR, Avengers, KGF","Avatar, The Batman, Avengers",KGF,2024-07-30
+267,Reyansh Patel,Female,Mumbai,Inception,Sci-Fi,Jr NTR,Matt Reeves,Amazon Prime,4,92,Avengers,"The Batman, Inception, RRR, Avengers",Avengers,2024-01-31
+268,Arjun Malhotra,Male,Mumbai,KGF,Action,Allu Arjun,Atlee,Amazon Prime,5,191,"Avatar, RRR, The Batman","Interstellar, Inception",Joker,2024-02-23
+269,Aarav Agarwal,Male,Pune,Interstellar,Sci-Fi,Jr NTR,James Cameron,SonyLIV,1,110,RRR,"Avengers, Joker",Titanic,2024-08-19
+270,Ishaan Kapoor,Male,Bangalore,The Batman,Action,Prabhas,Atlee,SonyLIV,3,212,"KGF, Interstellar","Avatar, Interstellar, Pushpa, Titanic",Titanic,2024-08-08
+271,Aanya Khan,Female,Bangalore,Inception,Sci-Fi,Ram Charan,S. S. Rajamouli,SonyLIV,3,60,"Titanic, KGF","Titanic, KGF, Avatar, Joker",Inception,2024-02-12
+272,Ira Das,Male,Mumbai,Titanic,Romance,Jr NTR,Russo Brothers,SonyLIV,5,52,"KGF, Avengers, Joker","The Batman, Inception",Joker,2024-07-05
+273,Arjun Joshi,Female,Bangalore,KGF,Action,Allu Arjun,Matt Reeves,Amazon Prime,3,36,"Avatar, Inception","Inception, Avengers, Avatar, Joker, Titanic",Interstellar,2024-10-29
+274,Pooja Choudhary,Male,Bangalore,RRR,Drama,Robert Downey Jr.,Todd Phillips,Amazon Prime,4,130,"Joker, Avatar, KGF","Titanic, Joker, Interstellar, Avatar",Avatar,2024-09-01
+275,Shaurya Sharma,Female,Mumbai,Avatar,Action,Shah Rukh Khan,Russo Brothers,Amazon Prime,5,155,"The Batman, Pushpa","KGF, RRR, Interstellar",KGF,2024-01-28
+276,Diya Joshi,Male,Bangalore,Inception,Sci-Fi,Joaquin Phoenix,Russo Brothers,SonyLIV,4,160,"KGF, RRR","Avengers, Avatar, The Batman",Interstellar,2024-05-12
+277,Ananya Nair,Male,Hyderabad,Titanic,Romance,Yash,Sandeep Reddy Vanga,SonyLIV,2,81,"RRR, Interstellar, Pushpa","Joker, Titanic, Interstellar",Interstellar,2024-06-11
+278,Krishna Reddy,Female,Delhi,Interstellar,Sci-Fi,Leonardo DiCaprio,S. S. Rajamouli,Netflix,1,68,Pushpa,"RRR, Pushpa, KGF, Inception",Interstellar,2024-09-29
+279,Myra Das,Female,Chennai,Avatar,Action,Shah Rukh Khan,Christopher Nolan,Disney+ Hotstar,1,223,"Pushpa, The Batman, Joker","RRR, Avatar, Avengers, KGF",KGF,2024-11-19
+280,Myra Patel,Male,Chennai,Avatar,Action,Joaquin Phoenix,Sandeep Reddy Vanga,Netflix,3,190,"Inception, KGF","Inception, Avatar, Joker",The Batman,2024-07-27
+281,Aditya Nair,Female,Delhi,The Batman,Action,Robert Downey Jr.,Christopher Nolan,Disney+ Hotstar,3,190,"Inception, The Batman","The Batman, Joker, Pushpa, Avatar, Inception",The Batman,2024-07-13
+282,Sai Joshi,Male,Delhi,The Batman,Action,Allu Arjun,Todd Phillips,Disney+ Hotstar,3,72,"Interstellar, Joker","Inception, Interstellar, Avatar",Titanic,2024-02-12
+283,Aanya Kapoor,Female,Hyderabad,The Batman,Action,Christian Bale,Sandeep Reddy Vanga,Disney+ Hotstar,2,225,"Avengers, Inception, Joker","Avengers, Avatar, Inception, Joker, Interstellar",Avengers,2024-05-14
+284,Aditya Khan,Male,Delhi,Interstellar,Sci-Fi,Prabhas,Sukumar,Disney+ Hotstar,3,54,RRR,"Titanic, Inception",Avatar,2024-06-13
+285,Myra Joshi,Male,Mumbai,Titanic,Romance,Allu Arjun,Sukumar,Disney+ Hotstar,4,165,Pushpa,"RRR, Avatar",Pushpa,2024-10-08
+286,Shaurya Choudhary,Male,Bangalore,Avengers,Action,Robert Downey Jr.,Matt Reeves,Netflix,5,109,"RRR, Pushpa","Avatar, The Batman, KGF, Titanic, Interstellar",Inception,2024-02-03
+287,Sai Khan,Female,Hyderabad,Pushpa,Action,Allu Arjun,S. S. Rajamouli,SonyLIV,3,162,"Titanic, KGF","Inception, Titanic, The Batman, Avatar, RRR",Joker,2024-03-09
+288,Myra Iyer,Female,Delhi,Avatar,Action,Jr NTR,S. S. Rajamouli,Netflix,5,66,Avengers,"Interstellar, Inception, RRR, KGF",Avatar,2024-04-08
+289,Anika Mehta,Female,Bangalore,RRR,Drama,Yash,Sukumar,ZEE5,3,201,RRR,"Pushpa, Interstellar, RRR, KGF, Joker",Avengers,2024-05-15
+290,Sai Singh,Male,Pune,Inception,Sci-Fi,Robert Downey Jr.,Sukumar,Amazon Prime,1,164,Pushpa,"Interstellar, Inception, The Batman, Avengers",The Batman,2024-03-29
+291,Aadhya Patel,Female,Hyderabad,Avengers,Action,Ram Charan,Atlee,Netflix,1,144,Interstellar,"Inception, Pushpa, Titanic",Pushpa,2024-09-24
+292,Ishaan Nair,Male,Hyderabad,The Batman,Action,Jr NTR,James Cameron,Netflix,3,128,"The Batman, RRR","Titanic, Pushpa",Inception,2024-08-30
+293,Diya Reddy,Female,Hyderabad,Interstellar,Sci-Fi,Christian Bale,Todd Phillips,ZEE5,3,115,"Inception, Titanic","RRR, Avengers",Avatar,2024-08-10
+294,Riya Mehta,Female,Delhi,Avatar,Action,Yash,James Cameron,SonyLIV,4,73,Avengers,"Pushpa, Titanic, Inception, Avatar, Interstellar",Pushpa,2024-09-09
+295,Vivaan Joshi,Female,Mumbai,Avatar,Action,Shah Rukh Khan,Sandeep Reddy Vanga,SonyLIV,4,69,"Joker, Pushpa, KGF","KGF, Pushpa",RRR,2024-07-20
+296,Vivaan Das,Female,Delhi,Pushpa,Action,Jr NTR,Prashanth Neel,Disney+ Hotstar,4,55,"Joker, Inception","Interstellar, RRR, Avengers",Pushpa,2024-09-30
+297,Ira Agarwal,Male,Chennai,KGF,Action,Leonardo DiCaprio,Matt Reeves,Amazon Prime,4,178,"Interstellar, Joker, RRR","KGF, Joker, Interstellar",Titanic,2024-03-15
+298,Reyansh Singh,Male,Mumbai,Avatar,Action,Allu Arjun,Russo Brothers,ZEE5,5,131,KGF,"Inception, Joker, Pushpa, RRR, KGF",Avatar,2024-02-16
+299,Arjun Gupta,Female,Hyderabad,The Batman,Action,Yash,Christopher Nolan,SonyLIV,5,187,"Titanic, KGF, Avatar","Interstellar, Avatar, Pushpa",RRR,2024-12-21
+300,Aanya Reddy,Female,Delhi,Interstellar,Sci-Fi,Shah Rukh Khan,Russo Brothers,SonyLIV,5,139,Inception,"Pushpa, Titanic, KGF, The Batman, RRR",The Batman,2024-12-11
+301,Myra Choudhary,Female,Pune,Inception,Sci-Fi,Ram Charan,Todd Phillips,SonyLIV,3,45,Pushpa,"RRR, Titanic, Pushpa, KGF, Interstellar",Avengers,2024-04-14
+302,Shaurya Gupta,Male,Mumbai,KGF,Action,Christian Bale,James Cameron,Disney+ Hotstar,5,187,"Pushpa, Joker","Joker, Avengers",RRR,2024-03-08
+303,Vivaan Choudhary,Female,Mumbai,Interstellar,Sci-Fi,Robert Downey Jr.,S. S. Rajamouli,ZEE5,5,203,"Avatar, Interstellar","Avatar, KGF, Inception, Joker, Titanic",Interstellar,2024-10-11
+304,Vihaan Choudhary,Female,Mumbai,KGF,Action,Robert Downey Jr.,Matt Reeves,Disney+ Hotstar,5,61,"Avatar, Joker, KGF","Pushpa, The Batman, Titanic",Interstellar,2024-01-27
+305,Aditya Choudhary,Male,Pune,The Batman,Action,Joaquin Phoenix,S. S. Rajamouli,SonyLIV,1,175,Inception,"Titanic, KGF, The Batman, Pushpa, RRR",RRR,2024-01-05
+306,Riya Sharma,Female,Chennai,The Batman,Action,Yash,Sukumar,Netflix,1,184,"Interstellar, Titanic, RRR","Pushpa, The Batman, Avatar, Joker",Inception,2024-07-15
+307,Pooja Mehta,Male,Chennai,Avengers,Action,Shah Rukh Khan,James Cameron,Disney+ Hotstar,2,128,"RRR, Avatar, The Batman","Avatar, The Batman",Avengers,2024-11-05
+308,Aditya Sharma,Male,Mumbai,Avatar,Action,Shah Rukh Khan,S. S. Rajamouli,SonyLIV,1,143,"The Batman, Avengers, Joker","Joker, KGF, Inception, Avatar, Pushpa",Avengers,2024-02-12
+309,Aarav Agarwal,Male,Hyderabad,The Batman,Action,Ram Charan,James Cameron,Amazon Prime,2,47,"Avengers, Joker","KGF, RRR, Avatar, Titanic",Joker,2024-04-23
+310,Riya Gupta,Female,Hyderabad,Avatar,Action,Ram Charan,Sukumar,Disney+ Hotstar,1,221,Avatar,"The Batman, Pushpa",Interstellar,2024-11-12
+311,Ananya Malhotra,Female,Pune,Avatar,Action,Christian Bale,James Cameron,SonyLIV,1,168,"Avengers, Titanic, Pushpa","Avengers, Interstellar, Inception, Pushpa, Titanic",Inception,2024-01-16
+312,Ananya Reddy,Female,Delhi,Avatar,Action,Shah Rukh Khan,Matt Reeves,Disney+ Hotstar,3,51,"Joker, RRR, Pushpa","Pushpa, Interstellar, Joker",KGF,2024-07-04
+313,Krishna Reddy,Female,Delhi,Interstellar,Sci-Fi,Jr NTR,Matt Reeves,Amazon Prime,1,74,"The Batman, Avengers","Avengers, Avatar, Titanic",The Batman,2024-07-10
+314,Shaurya Yadav,Male,Mumbai,The Batman,Action,Allu Arjun,Todd Phillips,Amazon Prime,5,219,"Avatar, Joker, KGF","KGF, Titanic, Avengers, Avatar, Pushpa",Inception,2024-10-22
+315,Riya Gupta,Female,Delhi,Pushpa,Action,Leonardo DiCaprio,James Cameron,ZEE5,4,62,Avatar,"KGF, Interstellar, Avatar, Titanic, Joker",Avatar,2024-11-15
+316,Krishna Agarwal,Female,Mumbai,Titanic,Romance,Christian Bale,Prashanth Neel,Amazon Prime,1,153,"RRR, Pushpa","Pushpa, KGF",Interstellar,2024-01-30
+317,Arjun Das,Female,Delhi,Joker,Drama,Yash,Christopher Nolan,SonyLIV,1,167,Pushpa,"Joker, Avengers, Interstellar, KGF, RRR",KGF,2024-11-12
+318,Sara Iyer,Female,Mumbai,Avengers,Action,Ram Charan,Christopher Nolan,ZEE5,5,132,"RRR, Joker","Joker, Titanic, Avatar",Titanic,2024-08-19
+319,Riya Mehta,Male,Chennai,Titanic,Romance,Leonardo DiCaprio,Russo Brothers,Netflix,4,55,"Avatar, Titanic, KGF","RRR, Pushpa, KGF",Interstellar,2024-03-10
+320,Diya Reddy,Female,Hyderabad,Avengers,Action,Yash,Christopher Nolan,Amazon Prime,1,158,Avengers,"Pushpa, KGF",Avengers,2024-11-02
+321,Vivaan Choudhary,Male,Pune,Joker,Drama,Yash,S. S. Rajamouli,Netflix,1,51,"Interstellar, Titanic","KGF, Interstellar, Inception, Avatar, Avengers",Titanic,2024-03-18
+322,Myra Das,Male,Hyderabad,Avatar,Action,Robert Downey Jr.,Russo Brothers,SonyLIV,3,213,KGF,"RRR, Joker",Interstellar,2024-08-20
+323,Arjun Patel,Female,Chennai,Pushpa,Action,Robert Downey Jr.,Matt Reeves,Netflix,1,85,Joker,"Pushpa, RRR, Avatar",Interstellar,2024-08-17
+324,Shaurya Bansal,Female,Delhi,Joker,Drama,Prabhas,Russo Brothers,ZEE5,2,170,"Joker, Interstellar, The Batman","Pushpa, Joker",Pushpa,2024-12-12
+325,Aditya Malhotra,Female,Chennai,Titanic,Romance,Jr NTR,Christopher Nolan,Amazon Prime,5,89,Interstellar,"RRR, Avatar, Titanic",Interstellar,2024-06-13
+326,Ishaan Kapoor,Male,Chennai,Titanic,Romance,Joaquin Phoenix,Prashanth Neel,Netflix,3,196,KGF,"Interstellar, Inception, Joker, Titanic, Pushpa",Avengers,2024-08-19
+327,Ananya Gupta,Male,Mumbai,RRR,Drama,Prabhas,Christopher Nolan,Netflix,1,105,"Avengers, The Batman","Avengers, Inception",Joker,2024-07-19
+328,Reyansh Das,Male,Bangalore,KGF,Action,Yash,Christopher Nolan,Netflix,4,225,"KGF, Avatar","Joker, Avatar, Titanic",The Batman,2024-03-12
+329,Aditya Shetty,Female,Mumbai,KGF,Action,Robert Downey Jr.,Russo Brothers,SonyLIV,4,168,"RRR, Titanic, KGF","Pushpa, RRR, KGF",The Batman,2024-12-14
+330,Aarav Nair,Male,Pune,KGF,Action,Joaquin Phoenix,Matt Reeves,Netflix,3,217,"Inception, Avengers","The Batman, Joker, Interstellar",Inception,2024-09-05
+331,Riya Agarwal,Male,Bangalore,Interstellar,Sci-Fi,Shah Rukh Khan,Sukumar,Amazon Prime,4,133,"Pushpa, RRR","The Batman, KGF, Inception",RRR,2024-08-14
+332,Ananya Choudhary,Female,Pune,Pushpa,Action,Shah Rukh Khan,Prashanth Neel,Netflix,2,39,Avatar,"Avatar, KGF, Pushpa, Joker, Titanic",Joker,2024-05-16
+333,Sara Iyer,Male,Bangalore,Inception,Sci-Fi,Ram Charan,Russo Brothers,ZEE5,2,42,"RRR, Interstellar, KGF","Interstellar, Avatar",Avengers,2024-11-18
+334,Vihaan Shetty,Female,Delhi,Avatar,Action,Prabhas,S. S. Rajamouli,SonyLIV,3,41,Pushpa,"Titanic, RRR, KGF, Joker, Avengers",KGF,2024-04-15
+335,Pooja Gupta,Female,Chennai,Interstellar,Sci-Fi,Christian Bale,Matt Reeves,Netflix,3,227,"KGF, Avatar, Interstellar","RRR, Joker, Avatar, Interstellar, Avengers",Pushpa,2024-10-20
+336,Diya Singh,Female,Bangalore,Avatar,Action,Prabhas,Christopher Nolan,Disney+ Hotstar,4,206,Pushpa,"KGF, Titanic",Avengers,2024-09-28
+337,Shaurya Shetty,Male,Delhi,Interstellar,Sci-Fi,Allu Arjun,Sukumar,Disney+ Hotstar,5,82,"Joker, Avengers, Avatar","Titanic, Interstellar",Avengers,2024-10-25
+338,Ananya Nair,Male,Pune,RRR,Drama,Prabhas,Atlee,ZEE5,1,203,Avatar,"Avengers, Joker, Titanic, The Batman, Interstellar",KGF,2024-06-24
+339,Aadhya Nair,Female,Bangalore,RRR,Drama,Joaquin Phoenix,Christopher Nolan,SonyLIV,3,66,Avatar,"KGF, Inception",Interstellar,2024-05-06
+340,Myra Reddy,Male,Delhi,Avatar,Action,Shah Rukh Khan,Sukumar,SonyLIV,4,236,"KGF, RRR, Avengers","Pushpa, Inception, Avatar",Titanic,2024-10-16
+341,Ishaan Agarwal,Male,Bangalore,Interstellar,Sci-Fi,Leonardo DiCaprio,Sukumar,Disney+ Hotstar,4,55,"KGF, Joker","KGF, Inception, Titanic, Interstellar, RRR",Interstellar,2024-09-07
+342,Krishna Kapoor,Male,Mumbai,Avatar,Action,Robert Downey Jr.,Sukumar,Disney+ Hotstar,5,60,"Avatar, Titanic","Avatar, The Batman",The Batman,2024-02-07
+343,Diya Mehta,Female,Chennai,Titanic,Romance,Jr NTR,Atlee,ZEE5,1,45,RRR,"Pushpa, Avatar, Joker",Interstellar,2024-05-12
+344,Ira Iyer,Male,Delhi,Pushpa,Action,Prabhas,Sukumar,ZEE5,3,190,Titanic,"Inception, Pushpa, KGF, Interstellar, RRR",Joker,2024-02-29
+345,Vihaan Yadav,Male,Hyderabad,Inception,Sci-Fi,Leonardo DiCaprio,Russo Brothers,Disney+ Hotstar,1,116,Pushpa,"Interstellar, Avengers, Titanic, The Batman, Pushpa",KGF,2024-12-25
+346,Ishaan Bansal,Female,Delhi,Avatar,Action,Joaquin Phoenix,Prashanth Neel,SonyLIV,3,98,The Batman,"Interstellar, Inception, Pushpa, Joker, The Batman",KGF,2024-11-20
+347,Aditya Iyer,Female,Bangalore,KGF,Action,Joaquin Phoenix,Todd Phillips,ZEE5,1,46,"Pushpa, Interstellar, Titanic","Inception, KGF, RRR",Interstellar,2024-11-11
+348,Diya Shetty,Female,Delhi,Pushpa,Action,Robert Downey Jr.,Sandeep Reddy Vanga,ZEE5,1,224,"Inception, KGF, The Batman","The Batman, Pushpa, KGF",Titanic,2024-04-19
+349,Myra Joshi,Male,Chennai,Avengers,Action,Yash,Todd Phillips,ZEE5,1,75,Avatar,"Pushpa, Avatar, Joker, RRR, Titanic",Pushpa,2024-05-21
+350,Vihaan Sharma,Male,Pune,Pushpa,Action,Allu Arjun,Prashanth Neel,SonyLIV,5,79,Joker,"Titanic, The Batman, Inception, Pushpa, RRR",Inception,2024-07-03
+351,Ishaan Malhotra,Female,Pune,Joker,Drama,Jr NTR,James Cameron,Disney+ Hotstar,3,158,"RRR, Pushpa, Inception","Interstellar, KGF, The Batman, Joker",Avatar,2024-01-19
+352,Krishna Choudhary,Female,Chennai,Avengers,Action,Ram Charan,Prashanth Neel,ZEE5,1,184,"KGF, Pushpa","Avengers, Interstellar, Pushpa",RRR,2024-05-05
+353,Reyansh Shetty,Male,Pune,Titanic,Romance,Jr NTR,Christopher Nolan,Amazon Prime,3,176,"RRR, The Batman, Inception","Titanic, Joker, The Batman, Pushpa",The Batman,2024-07-31
+354,Shaurya Reddy,Male,Bangalore,Avatar,Action,Joaquin Phoenix,Russo Brothers,Disney+ Hotstar,1,147,"Joker, RRR, Avatar","KGF, The Batman, RRR, Inception",Inception,2024-12-20
+355,Vihaan Patel,Male,Delhi,Interstellar,Sci-Fi,Christian Bale,Matt Reeves,ZEE5,3,129,"Avatar, Inception, The Batman","Joker, KGF",Titanic,2024-02-21
+356,Arjun Agarwal,Male,Bangalore,Inception,Sci-Fi,Christian Bale,Todd Phillips,Disney+ Hotstar,3,116,Avengers,"Titanic, Joker",Pushpa,2024-11-12
+357,Myra Yadav,Female,Bangalore,Interstellar,Sci-Fi,Joaquin Phoenix,Todd Phillips,ZEE5,4,84,"KGF, Avatar, RRR","Titanic, The Batman",RRR,2024-05-23
+358,Pooja Agarwal,Male,Mumbai,Titanic,Romance,Robert Downey Jr.,Russo Brothers,Netflix,2,39,"Titanic, Pushpa, Avengers","Titanic, The Batman, Pushpa, Avengers, Avatar",Inception,2024-03-20
+359,Aadhya Bansal,Male,Chennai,The Batman,Action,Ram Charan,Sukumar,SonyLIV,4,145,"RRR, Titanic, Joker","Pushpa, Inception, Avengers",Joker,2024-11-25
+360,Krishna Verma,Male,Pune,RRR,Drama,Leonardo DiCaprio,Prashanth Neel,Amazon Prime,3,89,"Titanic, Interstellar, Avengers","RRR, Avengers",Titanic,2024-02-22
+361,Aadhya Mehta,Female,Pune,Inception,Sci-Fi,Allu Arjun,Matt Reeves,ZEE5,2,116,Pushpa,"Avatar, Joker, Avengers, KGF, The Batman",Pushpa,2024-10-10
+362,Aanya Singh,Male,Hyderabad,Interstellar,Sci-Fi,Robert Downey Jr.,Sandeep Reddy Vanga,Disney+ Hotstar,5,148,Titanic,"Joker, Avengers",Avengers,2024-02-25
+363,Shaurya Agarwal,Female,Hyderabad,Inception,Sci-Fi,Prabhas,Prashanth Neel,Amazon Prime,3,219,Inception,"Interstellar, KGF, Avatar, Titanic",Inception,2024-12-19
+364,Pooja Iyer,Female,Bangalore,Pushpa,Action,Shah Rukh Khan,Prashanth Neel,ZEE5,1,66,"Joker, The Batman, Interstellar","Avengers, RRR, Inception, The Batman, Joker",The Batman,2024-08-12
+365,Krishna Malhotra,Male,Bangalore,Inception,Sci-Fi,Christian Bale,Prashanth Neel,ZEE5,3,39,"The Batman, Inception","The Batman, Interstellar, Joker, Avengers",Pushpa,2024-10-29
+366,Aadhya Yadav,Male,Bangalore,The Batman,Action,Allu Arjun,Todd Phillips,Netflix,4,227,"KGF, RRR, Joker","Pushpa, KGF, Avengers, The Batman, Inception",Inception,2024-12-24
+367,Myra Agarwal,Male,Chennai,Joker,Drama,Christian Bale,Matt Reeves,ZEE5,4,160,Joker,"Avatar, Pushpa, KGF",The Batman,2024-10-28
+368,Pooja Yadav,Male,Pune,Pushpa,Action,Leonardo DiCaprio,Todd Phillips,Disney+ Hotstar,2,188,"The Batman, Titanic","KGF, Titanic, Avatar, Joker",Avengers,2024-05-28
+369,Vivaan Shetty,Female,Mumbai,Interstellar,Sci-Fi,Jr NTR,Todd Phillips,ZEE5,5,115,"Interstellar, KGF","Avatar, Pushpa",Inception,2024-03-17
+370,Riya Kulkarni,Female,Delhi,Pushpa,Action,Christian Bale,Atlee,ZEE5,2,234,"KGF, The Batman, RRR","Pushpa, KGF, Avatar, The Batman, Interstellar",Titanic,2024-09-17
+371,Shaurya Sharma,Female,Mumbai,The Batman,Action,Shah Rukh Khan,Sukumar,ZEE5,1,87,"RRR, Avatar, KGF","Joker, KGF, Titanic",Titanic,2024-05-15
+372,Arjun Khan,Male,Mumbai,Inception,Sci-Fi,Leonardo DiCaprio,Prashanth Neel,Disney+ Hotstar,2,186,Interstellar,"RRR, Interstellar",The Batman,2024-10-24
+373,Anika Agarwal,Male,Hyderabad,Joker,Drama,Allu Arjun,James Cameron,SonyLIV,2,123,Avatar,"Inception, Avatar",Interstellar,2024-01-17
+374,Krishna Reddy,Female,Mumbai,Inception,Sci-Fi,Allu Arjun,Christopher Nolan,SonyLIV,2,103,"KGF, Pushpa, The Batman","Interstellar, Pushpa, Avatar",Interstellar,2024-12-10
+375,Riya Das,Male,Delhi,Interstellar,Sci-Fi,Christian Bale,S. S. Rajamouli,Netflix,3,133,Joker,"Inception, Avengers, Avatar, Interstellar",Joker,2024-01-22
+376,Diya Patel,Male,Hyderabad,RRR,Drama,Robert Downey Jr.,James Cameron,Disney+ Hotstar,3,231,"Avatar, Inception, Pushpa","Avengers, Avatar, Inception, The Batman, Titanic",Avatar,2024-06-06
+377,Aadhya Patel,Female,Bangalore,The Batman,Action,Prabhas,Russo Brothers,Netflix,3,94,"The Batman, KGF, Interstellar","Avatar, Interstellar",Avengers,2024-08-10
+378,Pooja Das,Male,Delhi,Avengers,Action,Allu Arjun,S. S. Rajamouli,Amazon Prime,1,99,Joker,"Joker, Titanic",RRR,2024-05-29
+379,Aarav Nair,Male,Pune,Inception,Sci-Fi,Ram Charan,James Cameron,SonyLIV,4,60,"The Batman, KGF","Inception, Avatar",Avengers,2024-04-23
+380,Krishna Shetty,Male,Pune,Joker,Drama,Jr NTR,Sandeep Reddy Vanga,Amazon Prime,2,215,Inception,"Interstellar, Avatar, KGF",Joker,2024-04-17
+381,Reyansh Gupta,Male,Chennai,Avengers,Action,Shah Rukh Khan,Matt Reeves,Amazon Prime,4,214,"Interstellar, The Batman, Avatar","Joker, Inception, Avengers, Interstellar",Joker,2024-12-10
+382,Pooja Iyer,Female,Pune,Interstellar,Sci-Fi,Christian Bale,Christopher Nolan,ZEE5,5,211,KGF,"Joker, Avengers, The Batman, RRR",Avatar,2024-06-05
+383,Krishna Joshi,Male,Delhi,Pushpa,Action,Robert Downey Jr.,Todd Phillips,SonyLIV,5,176,"KGF, The Batman","Avengers, The Batman",KGF,2024-10-16
+384,Diya Yadav,Male,Bangalore,Avatar,Action,Joaquin Phoenix,Prashanth Neel,Amazon Prime,3,96,"Titanic, Inception, Avatar","RRR, Inception, Titanic, Avatar, Joker",Avengers,2024-04-04
+385,Reyansh Choudhary,Male,Pune,The Batman,Action,Allu Arjun,Russo Brothers,Disney+ Hotstar,1,69,Avatar,"Avengers, Interstellar, The Batman, RRR, Avatar",Avengers,2024-12-01
+386,Aarav Bansal,Female,Chennai,Pushpa,Action,Leonardo DiCaprio,Sukumar,Amazon Prime,5,236,Avengers,"Avengers, Titanic, Interstellar",RRR,2024-05-22
+387,Ira Reddy,Female,Delhi,Titanic,Romance,Ram Charan,Prashanth Neel,ZEE5,2,69,"The Batman, Avatar","Avatar, The Batman",Avengers,2024-06-21
+388,Arjun Khan,Female,Bangalore,Avengers,Action,Leonardo DiCaprio,Sukumar,Netflix,2,92,"Titanic, Avatar, The Batman","The Batman, RRR, Avatar, Pushpa, KGF",RRR,2024-06-16
+389,Aadhya Joshi,Male,Mumbai,The Batman,Action,Prabhas,Christopher Nolan,Netflix,4,234,"Inception, Avatar, KGF","Avatar, RRR, Titanic, The Batman, Joker",Titanic,2024-07-27
+390,Vihaan Das,Female,Mumbai,Joker,Drama,Christian Bale,Matt Reeves,SonyLIV,3,208,"Interstellar, Inception","Avengers, Joker, The Batman, Titanic",Pushpa,2024-12-16
+391,Sai Reddy,Male,Pune,Avatar,Action,Prabhas,Todd Phillips,Disney+ Hotstar,2,221,"KGF, Inception, The Batman","Inception, KGF, RRR, Interstellar",The Batman,2024-01-06
+392,Reyansh Yadav,Female,Mumbai,Pushpa,Action,Robert Downey Jr.,S. S. Rajamouli,Amazon Prime,4,103,KGF,"Joker, Avengers, Pushpa, RRR",The Batman,2024-12-29
+393,Vihaan Choudhary,Female,Delhi,RRR,Drama,Shah Rukh Khan,Christopher Nolan,SonyLIV,3,143,"Inception, Interstellar","Titanic, Inception, Avengers, RRR",Avengers,2024-07-11
+394,Reyansh Iyer,Male,Chennai,The Batman,Action,Allu Arjun,Sandeep Reddy Vanga,Netflix,1,193,"RRR, Avatar","RRR, Inception, Interstellar",Interstellar,2024-05-21
+395,Aarav Verma,Male,Delhi,Inception,Sci-Fi,Jr NTR,Prashanth Neel,Amazon Prime,3,99,Joker,"Titanic, The Batman, Avatar, Interstellar",Joker,2024-08-16
+396,Anika Khan,Male,Chennai,Joker,Drama,Shah Rukh Khan,Sandeep Reddy Vanga,SonyLIV,1,215,"Avatar, Interstellar","KGF, Joker",Inception,2024-11-13
+397,Sai Nair,Male,Bangalore,Avatar,Action,Prabhas,Christopher Nolan,Amazon Prime,1,38,KGF,"Pushpa, RRR, The Batman, Inception, Titanic",Inception,2024-05-15
+398,Ananya Reddy,Male,Chennai,Joker,Drama,Ram Charan,Sandeep Reddy Vanga,SonyLIV,1,227,The Batman,"The Batman, Pushpa, KGF, Titanic, Avengers",The Batman,2024-03-20
+399,Vihaan Agarwal,Male,Pune,Titanic,Romance,Leonardo DiCaprio,Todd Phillips,Netflix,5,121,"Interstellar, Inception, Joker","KGF, Titanic, Joker, The Batman",KGF,2024-07-24
+400,Vihaan Khan,Female,Chennai,RRR,Drama,Prabhas,Sukumar,Amazon Prime,4,71,"RRR, The Batman","Interstellar, Titanic, The Batman, Avengers, KGF",Pushpa,2024-08-10
+401,Aadhya Mehta,Female,Pune,Titanic,Romance,Yash,Russo Brothers,Disney+ Hotstar,5,195,"KGF, Inception","Interstellar, Inception, Avengers, Pushpa, Joker",The Batman,2024-02-06
+402,Ira Yadav,Male,Pune,Titanic,Romance,Ram Charan,Christopher Nolan,Amazon Prime,2,223,KGF,"Inception, Titanic, Avatar, Pushpa, Joker",Joker,2024-10-16
+403,Anika Choudhary,Male,Hyderabad,Titanic,Romance,Robert Downey Jr.,Prashanth Neel,Amazon Prime,1,82,"Pushpa, The Batman, Inception","Pushpa, Avengers",KGF,2024-07-20
+404,Riya Nair,Female,Chennai,KGF,Action,Joaquin Phoenix,James Cameron,SonyLIV,3,45,"Joker, Pushpa, Avatar","The Batman, Inception",Avengers,2024-06-25
+405,Vihaan Mehta,Male,Chennai,Pushpa,Action,Prabhas,Prashanth Neel,Amazon Prime,5,141,Inception,"Joker, Pushpa",Titanic,2024-07-12
+406,Riya Nair,Female,Chennai,Interstellar,Sci-Fi,Joaquin Phoenix,Atlee,SonyLIV,1,129,"Pushpa, Titanic","Avengers, Interstellar, Joker, KGF",Titanic,2024-01-03
+407,Reyansh Agarwal,Female,Pune,Inception,Sci-Fi,Leonardo DiCaprio,Sukumar,Amazon Prime,3,49,Inception,"Titanic, Interstellar, KGF, Avengers",KGF,2024-01-11
+408,Diya Joshi,Female,Bangalore,Avatar,Action,Christian Bale,Atlee,Amazon Prime,4,228,"Avengers, RRR","Avengers, Titanic, Interstellar",Avatar,2024-01-14
+409,Reyansh Kapoor,Female,Mumbai,Inception,Sci-Fi,Christian Bale,Prashanth Neel,ZEE5,3,225,"The Batman, Titanic, KGF","Avengers, Interstellar, The Batman",RRR,2024-06-30
+410,Reyansh Gupta,Female,Pune,Inception,Sci-Fi,Leonardo DiCaprio,James Cameron,SonyLIV,1,161,"Titanic, Avatar, Joker","The Batman, KGF, Titanic",Pushpa,2024-12-30
+411,Ishaan Singh,Male,Pune,KGF,Action,Shah Rukh Khan,Prashanth Neel,Netflix,3,170,"Avengers, The Batman","Titanic, Inception, The Batman, RRR",Joker,2024-12-01
+412,Vivaan Gupta,Female,Pune,RRR,Drama,Prabhas,Atlee,ZEE5,5,137,"Avatar, KGF, Inception","Joker, Inception, The Batman, Titanic, Avatar",Titanic,2024-09-07
+413,Pooja Kapoor,Male,Delhi,KGF,Action,Prabhas,Todd Phillips,SonyLIV,3,157,"The Batman, Avatar, Interstellar","Interstellar, Avengers, Pushpa",The Batman,2024-01-10
+414,Riya Joshi,Male,Chennai,RRR,Drama,Robert Downey Jr.,Russo Brothers,Netflix,3,63,"Avatar, RRR, Titanic","Interstellar, Avengers, Joker",Avatar,2024-04-03
+415,Sai Mehta,Female,Pune,KGF,Action,Shah Rukh Khan,S. S. Rajamouli,ZEE5,2,59,"Avengers, Joker","Pushpa, KGF",RRR,2024-01-20
+416,Vihaan Iyer,Male,Chennai,KGF,Action,Shah Rukh Khan,S. S. Rajamouli,Netflix,1,80,Pushpa,"Avatar, Avengers, The Batman, KGF",Pushpa,2024-12-28
+417,Anika Sharma,Female,Bangalore,Titanic,Romance,Prabhas,Prashanth Neel,Netflix,5,90,"Joker, KGF, RRR","KGF, The Batman, Titanic, Inception, Pushpa",Joker,2024-08-18
+418,Riya Agarwal,Female,Mumbai,Pushpa,Action,Jr NTR,Matt Reeves,SonyLIV,5,112,"Interstellar, The Batman","Joker, Pushpa, RRR, Inception, Titanic",Avengers,2024-07-03
+419,Diya Sharma,Female,Chennai,KGF,Action,Leonardo DiCaprio,Sandeep Reddy Vanga,Amazon Prime,1,165,"Inception, Joker","Avengers, Avatar, KGF, The Batman",Avatar,2024-08-12
+420,Riya Joshi,Female,Mumbai,KGF,Action,Joaquin Phoenix,James Cameron,SonyLIV,5,191,Titanic,"Inception, Avengers, The Batman, KGF",Joker,2024-06-12
+421,Ananya Nair,Female,Mumbai,KGF,Action,Robert Downey Jr.,Atlee,SonyLIV,4,211,"Titanic, Interstellar, Avatar","Avatar, KGF, Joker, Interstellar",KGF,2024-08-08
+422,Aadhya Sharma,Male,Hyderabad,KGF,Action,Ram Charan,S. S. Rajamouli,SonyLIV,5,182,Pushpa,"RRR, The Batman",Interstellar,2024-12-04
+423,Riya Iyer,Female,Mumbai,KGF,Action,Leonardo DiCaprio,Russo Brothers,Disney+ Hotstar,2,112,"Avatar, Titanic, Pushpa","RRR, Titanic, Avatar, Pushpa, KGF",Inception,2024-03-14
+424,Sai Patel,Female,Chennai,RRR,Drama,Leonardo DiCaprio,Russo Brothers,Amazon Prime,2,71,Interstellar,"Pushpa, RRR, KGF, Inception, Interstellar",The Batman,2024-10-08
+425,Aanya Yadav,Male,Delhi,Interstellar,Sci-Fi,Christian Bale,Todd Phillips,Netflix,1,102,"The Batman, Pushpa, KGF","Inception, Joker, Titanic, KGF",Pushpa,2024-04-10
+426,Ananya Mehta,Female,Pune,RRR,Drama,Ram Charan,Prashanth Neel,Disney+ Hotstar,4,35,Inception,"Joker, Avatar, Interstellar",RRR,2024-05-11
+427,Sara Verma,Male,Hyderabad,Pushpa,Action,Allu Arjun,Todd Phillips,Netflix,3,202,Titanic,"Avengers, Pushpa, Titanic, Inception, KGF",Interstellar,2024-06-03
+428,Aadhya Gupta,Female,Bangalore,Interstellar,Sci-Fi,Allu Arjun,Russo Brothers,Netflix,4,208,Pushpa,"Joker, RRR, KGF",Pushpa,2024-06-01
+429,Aanya Mehta,Female,Delhi,Titanic,Romance,Prabhas,S. S. Rajamouli,ZEE5,2,124,"Pushpa, Interstellar","KGF, Pushpa, Inception",Titanic,2024-03-25
+430,Aanya Sharma,Female,Chennai,Avatar,Action,Allu Arjun,James Cameron,ZEE5,1,163,"Interstellar, Titanic, Pushpa","Avengers, Inception, Interstellar",Avatar,2024-11-22
+431,Anika Joshi,Male,Bangalore,Titanic,Romance,Yash,Matt Reeves,SonyLIV,1,168,KGF,"Interstellar, Joker, The Batman",The Batman,2024-07-12
+432,Diya Iyer,Male,Bangalore,The Batman,Action,Christian Bale,Sandeep Reddy Vanga,Netflix,4,168,"Joker, Avatar","Interstellar, KGF",Avengers,2024-08-07
+433,Shaurya Khan,Male,Chennai,Joker,Drama,Robert Downey Jr.,S. S. Rajamouli,Netflix,2,136,Pushpa,"Avengers, Pushpa, Inception, The Batman",RRR,2024-04-21
+434,Arjun Reddy,Female,Delhi,Joker,Drama,Robert Downey Jr.,Sukumar,Disney+ Hotstar,4,190,RRR,"Inception, Pushpa, Avengers, Avatar, KGF",Pushpa,2024-11-25
+435,Ananya Sharma,Male,Hyderabad,The Batman,Action,Christian Bale,Atlee,Netflix,3,55,"Inception, The Batman, KGF","Avengers, Joker",Avatar,2024-06-03
+436,Ira Gupta,Female,Mumbai,Interstellar,Sci-Fi,Joaquin Phoenix,Matt Reeves,Disney+ Hotstar,3,152,"Avengers, Avatar","Interstellar, Inception, The Batman, KGF",Joker,2024-10-29
+437,Ira Kapoor,Male,Pune,Joker,Drama,Ram Charan,Sukumar,ZEE5,1,141,"Avengers, KGF, Titanic","KGF, The Batman, Joker, Pushpa",Interstellar,2024-10-29
+438,Reyansh Nair,Male,Hyderabad,Avatar,Action,Prabhas,Atlee,SonyLIV,1,31,"Titanic, Avatar","Pushpa, KGF, Avengers, Titanic",Joker,2024-01-17
+439,Vihaan Gupta,Male,Bangalore,Titanic,Romance,Leonardo DiCaprio,Russo Brothers,ZEE5,1,115,"Titanic, The Batman","The Batman, Avengers, RRR, KGF",Avengers,2024-12-18
+440,Ananya Choudhary,Female,Mumbai,Pushpa,Action,Allu Arjun,James Cameron,Disney+ Hotstar,4,71,"The Batman, Inception, Titanic","Pushpa, Joker, Interstellar",Titanic,2024-09-03
+441,Ira Shetty,Female,Mumbai,KGF,Action,Christian Bale,Sandeep Reddy Vanga,ZEE5,1,33,"Interstellar, Pushpa","The Batman, Interstellar, Joker",KGF,2024-07-08
+442,Aadhya Patel,Female,Mumbai,Inception,Sci-Fi,Robert Downey Jr.,S. S. Rajamouli,Amazon Prime,3,39,"KGF, Interstellar, Inception","Interstellar, The Batman",Inception,2024-06-27
+443,Ira Malhotra,Male,Bangalore,Avatar,Action,Prabhas,Todd Phillips,Netflix,3,202,"Avengers, Avatar, Joker","Interstellar, Inception, Titanic, Pushpa",KGF,2024-05-14
+444,Sai Singh,Female,Bangalore,RRR,Drama,Prabhas,Todd Phillips,Netflix,2,224,Interstellar,"Avatar, Inception, Avengers",Joker,2024-08-31
+445,Ishaan Nair,Female,Pune,Avatar,Action,Ram Charan,Russo Brothers,Disney+ Hotstar,2,122,"Titanic, Inception","Joker, Titanic",Titanic,2024-11-28
+446,Reyansh Choudhary,Female,Delhi,Avatar,Action,Ram Charan,Christopher Nolan,SonyLIV,1,118,"The Batman, RRR, Titanic","Avengers, Interstellar, Pushpa, KGF",Pushpa,2024-12-09
+447,Diya Joshi,Female,Chennai,The Batman,Action,Leonardo DiCaprio,Prashanth Neel,Amazon Prime,5,235,"RRR, Joker","Titanic, The Batman",Avengers,2024-07-17
+448,Shaurya Iyer,Female,Pune,Inception,Sci-Fi,Ram Charan,Sukumar,Disney+ Hotstar,1,197,"Pushpa, Inception, Interstellar","KGF, Titanic, Inception",Avatar,2024-11-10
+449,Krishna Mehta,Female,Pune,The Batman,Action,Robert Downey Jr.,S. S. Rajamouli,ZEE5,2,202,"Joker, The Batman, Titanic","Interstellar, Titanic, Avengers",Titanic,2024-08-10
+450,Aditya Choudhary,Male,Pune,RRR,Drama,Shah Rukh Khan,Matt Reeves,ZEE5,2,240,"The Batman, Titanic, Avatar","RRR, The Batman, KGF, Inception",Interstellar,2024-08-14
+451,Diya Bansal,Female,Hyderabad,Avatar,Action,Allu Arjun,Atlee,Amazon Prime,5,161,"Avatar, Joker","Inception, The Batman, Pushpa, Avatar, Joker",The Batman,2024-02-04
+452,Anika Joshi,Male,Bangalore,KGF,Action,Yash,Todd Phillips,Amazon Prime,2,99,Pushpa,"Inception, KGF",Avengers,2024-09-21
+453,Aadhya Yadav,Female,Pune,Joker,Drama,Shah Rukh Khan,Sandeep Reddy Vanga,ZEE5,5,34,"Avatar, RRR, Joker","Inception, Avatar, Joker, Interstellar",Avengers,2024-08-04
+454,Aadhya Agarwal,Female,Mumbai,Inception,Sci-Fi,Joaquin Phoenix,Sandeep Reddy Vanga,Amazon Prime,5,38,"Inception, Joker","KGF, Avatar, Inception, Joker",Titanic,2024-02-20
+455,Anika Choudhary,Male,Delhi,Titanic,Romance,Prabhas,S. S. Rajamouli,ZEE5,1,208,"Joker, KGF, The Batman","Interstellar, RRR, Avengers, The Batman, Avatar",RRR,2024-06-13
+456,Vivaan Khan,Female,Bangalore,Avengers,Action,Yash,Atlee,ZEE5,5,78,"Avengers, The Batman","The Batman, KGF, Avatar, Joker, Avengers",The Batman,2024-06-22
+457,Vihaan Shetty,Female,Mumbai,KGF,Action,Prabhas,Matt Reeves,SonyLIV,4,192,"RRR, Avatar","Pushpa, Inception, Avengers, RRR, Avatar",Inception,2024-09-03
+458,Aditya Khan,Male,Chennai,Inception,Sci-Fi,Leonardo DiCaprio,S. S. Rajamouli,Netflix,3,77,Titanic,"Joker, RRR, Avatar, Titanic, The Batman",RRR,2024-10-05
+459,Sara Kapoor,Female,Chennai,Inception,Sci-Fi,Allu Arjun,James Cameron,Amazon Prime,2,200,"Interstellar, RRR","Pushpa, Avatar, KGF, Joker",Joker,2024-09-10
+460,Ishaan Gupta,Female,Chennai,Inception,Sci-Fi,Ram Charan,Matt Reeves,Disney+ Hotstar,3,59,Joker,"The Batman, Titanic, Avatar, Interstellar",Interstellar,2024-01-14
+461,Vivaan Kapoor,Male,Pune,Pushpa,Action,Ram Charan,Prashanth Neel,Netflix,4,165,"Interstellar, Avatar","Avengers, The Batman, Joker, Avatar",Inception,2024-12-10
+462,Sai Verma,Male,Hyderabad,Avatar,Action,Leonardo DiCaprio,Russo Brothers,ZEE5,4,85,"Avengers, Interstellar, KGF","The Batman, Interstellar",Avatar,2024-02-11
+463,Aarav Kulkarni,Male,Pune,Interstellar,Sci-Fi,Yash,Matt Reeves,Disney+ Hotstar,4,119,"RRR, Interstellar","Interstellar, RRR, Joker, Titanic",Inception,2024-06-28
+464,Pooja Nair,Female,Chennai,RRR,Drama,Leonardo DiCaprio,Matt Reeves,Disney+ Hotstar,1,206,"Joker, Titanic, Inception","RRR, The Batman, Inception, Interstellar",Avatar,2024-08-21
+465,Aarav Kulkarni,Female,Chennai,Pushpa,Action,Ram Charan,Matt Reeves,ZEE5,4,206,"RRR, Avatar","The Batman, Interstellar, Avatar, Inception",Joker,2024-05-06
+466,Vihaan Bansal,Male,Pune,RRR,Drama,Shah Rukh Khan,James Cameron,SonyLIV,3,166,Pushpa,"Interstellar, Pushpa, RRR, Avatar",Avatar,2024-09-27
+467,Ananya Kapoor,Male,Chennai,Avengers,Action,Allu Arjun,James Cameron,ZEE5,2,84,"KGF, Avatar, Titanic","The Batman, Joker",Interstellar,2024-02-22
+468,Aarav Kapoor,Female,Delhi,Titanic,Romance,Ram Charan,Russo Brothers,Disney+ Hotstar,2,69,"RRR, The Batman, Pushpa","RRR, Joker, Pushpa, KGF",Inception,2024-03-19
+469,Aditya Bansal,Female,Pune,RRR,Drama,Yash,Matt Reeves,SonyLIV,1,238,"KGF, Titanic, Avengers","Avatar, Inception, KGF, Interstellar, RRR",Avatar,2024-06-26
+470,Sai Malhotra,Female,Bangalore,The Batman,Action,Jr NTR,Matt Reeves,Amazon Prime,2,212,"KGF, Pushpa, Avengers","Avatar, Titanic, RRR, KGF",Pushpa,2024-12-17
+471,Sara Malhotra,Male,Chennai,Titanic,Romance,Yash,Prashanth Neel,Amazon Prime,1,240,RRR,"RRR, Inception, KGF, Titanic, Pushpa",Avengers,2024-11-18
+472,Aadhya Khan,Male,Bangalore,The Batman,Action,Prabhas,Matt Reeves,SonyLIV,3,163,Avengers,"RRR, Titanic, Pushpa, The Batman, Avengers",Avengers,2024-09-30
+473,Diya Kulkarni,Male,Delhi,KGF,Action,Robert Downey Jr.,Sandeep Reddy Vanga,SonyLIV,1,82,"Joker, Avengers","Pushpa, Avengers, RRR, The Batman",Joker,2024-09-20
+474,Aditya Khan,Male,Chennai,The Batman,Action,Joaquin Phoenix,Todd Phillips,ZEE5,1,93,"Avengers, The Batman, Pushpa","Avatar, RRR, Inception, Titanic, Joker",Inception,2024-12-10
+475,Myra Reddy,Female,Mumbai,Avatar,Action,Allu Arjun,Russo Brothers,SonyLIV,5,73,"Titanic, The Batman","Avengers, Avatar, Pushpa, Interstellar",KGF,2024-05-01
+476,Reyansh Gupta,Female,Hyderabad,Inception,Sci-Fi,Shah Rukh Khan,Matt Reeves,Disney+ Hotstar,2,201,"Titanic, Joker, Pushpa","The Batman, Titanic, Inception, RRR, Avatar",Interstellar,2024-06-08
+477,Riya Verma,Female,Hyderabad,KGF,Action,Leonardo DiCaprio,Sandeep Reddy Vanga,ZEE5,1,128,"Inception, Pushpa","Interstellar, Titanic",Titanic,2024-11-09
+478,Vivaan Khan,Male,Hyderabad,Joker,Drama,Ram Charan,Sukumar,ZEE5,1,215,"Avatar, Avengers, Pushpa","Interstellar, KGF, The Batman",Inception,2024-06-05
+479,Vivaan Agarwal,Male,Mumbai,Titanic,Romance,Ram Charan,Sukumar,Netflix,2,143,"Interstellar, Pushpa, Avengers","Titanic, Avengers, The Batman, Pushpa",Avatar,2024-12-15
+480,Ira Khan,Female,Chennai,Pushpa,Action,Ram Charan,Todd Phillips,SonyLIV,4,167,RRR,"Avengers, The Batman, KGF, Pushpa, RRR",Joker,2024-12-05
+481,Riya Yadav,Female,Mumbai,Pushpa,Action,Christian Bale,James Cameron,SonyLIV,5,95,The Batman,"RRR, Avatar",Pushpa,2024-06-13
+482,Ira Verma,Female,Chennai,Inception,Sci-Fi,Shah Rukh Khan,Sandeep Reddy Vanga,Netflix,2,205,"Titanic, Avatar","Joker, Pushpa, Titanic, KGF, The Batman",Joker,2024-06-20
+483,Diya Kapoor,Female,Delhi,Interstellar,Sci-Fi,Allu Arjun,Russo Brothers,Disney+ Hotstar,2,219,"KGF, Avatar","Avatar, Titanic, Inception, Pushpa",KGF,2024-04-04
+484,Vivaan Gupta,Female,Hyderabad,Avatar,Action,Allu Arjun,Russo Brothers,Netflix,2,237,"Joker, Titanic, Pushpa","Titanic, Joker, Avatar",Titanic,2024-01-02
+485,Ira Nair,Male,Bangalore,Inception,Sci-Fi,Christian Bale,S. S. Rajamouli,Disney+ Hotstar,5,205,"The Batman, Avengers, Interstellar","Joker, Avatar, Inception, RRR, Avengers",Inception,2024-12-28
+486,Shaurya Iyer,Male,Pune,Titanic,Romance,Allu Arjun,James Cameron,SonyLIV,5,197,"The Batman, Avengers, Titanic","Titanic, Avatar, Interstellar, Joker, KGF",Pushpa,2024-09-28
+487,Diya Reddy,Male,Chennai,The Batman,Action,Allu Arjun,Todd Phillips,ZEE5,3,142,"Pushpa, KGF","KGF, Pushpa",KGF,2024-12-03
+488,Aditya Kapoor,Male,Bangalore,RRR,Drama,Leonardo DiCaprio,S. S. Rajamouli,Netflix,4,123,"Pushpa, Avengers","KGF, Titanic, Inception, Pushpa",Joker,2024-08-21
+489,Aditya Bansal,Male,Delhi,KGF,Action,Jr NTR,Russo Brothers,SonyLIV,5,65,Pushpa,"Pushpa, Inception, Avengers, Avatar, Interstellar",Pushpa,2024-11-19
+490,Aanya Shetty,Female,Pune,Avatar,Action,Yash,Matt Reeves,Amazon Prime,5,124,"Avengers, Avatar, Joker","Joker, Titanic, Inception, RRR, Pushpa",Joker,2024-06-30
+491,Diya Bansal,Female,Mumbai,Inception,Sci-Fi,Shah Rukh Khan,Sandeep Reddy Vanga,Disney+ Hotstar,4,195,"Avengers, Joker","KGF, Inception",The Batman,2024-11-15
+492,Ishaan Shetty,Female,Chennai,Joker,Drama,Robert Downey Jr.,Matt Reeves,SonyLIV,4,112,The Batman,"KGF, Pushpa, Joker, Titanic",Avatar,2024-03-21
+493,Riya Choudhary,Female,Pune,Inception,Sci-Fi,Joaquin Phoenix,Atlee,Netflix,4,42,"RRR, KGF, Joker","Joker, The Batman, Interstellar, Pushpa",RRR,2024-08-31
+494,Aadhya Verma,Female,Chennai,Avatar,Action,Robert Downey Jr.,Sukumar,Disney+ Hotstar,3,89,"Titanic, Joker","KGF, RRR, Titanic, The Batman",Titanic,2024-12-10
+495,Shaurya Gupta,Male,Hyderabad,RRR,Drama,Shah Rukh Khan,Sandeep Reddy Vanga,ZEE5,4,36,"Avengers, Joker","KGF, Interstellar",Joker,2024-01-29
+496,Aarav Shetty,Female,Bangalore,Interstellar,Sci-Fi,Ram Charan,S. S. Rajamouli,Disney+ Hotstar,4,82,"Inception, Pushpa, Avatar","Avatar, Titanic, Pushpa, Joker, Avengers",The Batman,2024-06-12
+497,Arjun Sharma,Male,Delhi,RRR,Drama,Prabhas,Matt Reeves,ZEE5,4,47,Avatar,"The Batman, Joker, KGF, Inception",Interstellar,2024-09-28
+498,Aditya Das,Male,Hyderabad,Avengers,Action,Prabhas,S. S. Rajamouli,Amazon Prime,2,187,"Interstellar, Joker","KGF, Avatar, Pushpa, The Batman, Joker",The Batman,2024-10-27
+499,Reyansh Malhotra,Male,Hyderabad,Interstellar,Sci-Fi,Yash,Sukumar,Amazon Prime,4,96,"Avatar, RRR","Avengers, The Batman, KGF",Inception,2024-04-19
+500,Vihaan Das,Male,Delhi,Pushpa,Action,Prabhas,James Cameron,Amazon Prime,3,161,"Avatar, Inception","KGF, Interstellar, Avatar, Joker, RRR",Titanic,2024-06-13
+501,Aarav Iyer,Female,Bangalore,Inception,Sci-Fi,Shah Rukh Khan,S. S. Rajamouli,Disney+ Hotstar,2,88,"The Batman, Pushpa, Avatar","Joker, The Batman, Avengers, KGF, Titanic",KGF,2024-05-27
+502,Anika Mehta,Female,Bangalore,Pushpa,Action,Shah Rukh Khan,Sandeep Reddy Vanga,Disney+ Hotstar,3,156,"Avatar, RRR, Pushpa","KGF, Avengers, RRR",Interstellar,2024-11-26
+503,Ishaan Shetty,Female,Pune,Interstellar,Sci-Fi,Joaquin Phoenix,Sandeep Reddy Vanga,SonyLIV,3,214,"Avatar, Avengers, Joker","The Batman, Joker, KGF, RRR",Interstellar,2024-12-15
+504,Arjun Verma,Female,Mumbai,Avatar,Action,Robert Downey Jr.,Russo Brothers,Disney+ Hotstar,3,64,Interstellar,"RRR, Avatar, Inception, Joker, Avengers",RRR,2024-11-08
+505,Ishaan Reddy,Female,Delhi,Interstellar,Sci-Fi,Christian Bale,Atlee,ZEE5,2,32,"Pushpa, RRR, Avatar","KGF, Avatar, Pushpa",RRR,2024-05-13
+506,Ananya Patel,Male,Chennai,Inception,Sci-Fi,Robert Downey Jr.,Todd Phillips,Netflix,1,67,"Pushpa, The Batman, KGF","RRR, Inception, Pushpa",KGF,2024-12-23
+507,Aditya Joshi,Male,Delhi,Pushpa,Action,Ram Charan,Sukumar,Amazon Prime,1,158,"Avengers, Pushpa, The Batman","Avatar, RRR, Avengers, Interstellar, Titanic",Avatar,2024-08-25
+508,Reyansh Mehta,Male,Hyderabad,Titanic,Romance,Joaquin Phoenix,Prashanth Neel,SonyLIV,2,115,"The Batman, Avengers, Pushpa","KGF, Pushpa",RRR,2024-04-08
+509,Shaurya Sharma,Male,Hyderabad,KGF,Action,Ram Charan,S. S. Rajamouli,Amazon Prime,5,32,The Batman,"Interstellar, Pushpa",Titanic,2024-03-25
+510,Vivaan Malhotra,Female,Hyderabad,Avengers,Action,Shah Rukh Khan,Russo Brothers,ZEE5,5,238,Inception,"KGF, Interstellar, Inception, Pushpa",Avatar,2024-03-16
+511,Vihaan Reddy,Female,Hyderabad,Joker,Drama,Yash,Sandeep Reddy Vanga,Amazon Prime,1,211,"Interstellar, Avengers, Titanic","KGF, Joker, Avatar",Avatar,2024-03-05
+512,Anika Singh,Male,Hyderabad,Avengers,Action,Robert Downey Jr.,Sandeep Reddy Vanga,Amazon Prime,2,213,"Pushpa, Avatar, Interstellar","Interstellar, Joker, RRR, Titanic",The Batman,2024-09-23
+513,Ishaan Nair,Male,Delhi,RRR,Drama,Yash,Prashanth Neel,Disney+ Hotstar,2,107,Titanic,"Avatar, RRR, The Batman",RRR,2024-07-24
+514,Sara Yadav,Female,Mumbai,Pushpa,Action,Christian Bale,Sandeep Reddy Vanga,Disney+ Hotstar,4,176,"Inception, The Batman","Inception, Avengers, The Batman, Avatar",Avatar,2024-05-07
+515,Pooja Das,Female,Chennai,Avatar,Action,Prabhas,James Cameron,Amazon Prime,3,85,Interstellar,"Avatar, RRR, KGF",Avatar,2024-02-07
+516,Myra Agarwal,Male,Mumbai,Joker,Drama,Ram Charan,Prashanth Neel,SonyLIV,5,38,Interstellar,"Avengers, Titanic, KGF, RRR",Pushpa,2024-03-08
+517,Shaurya Joshi,Male,Chennai,Interstellar,Sci-Fi,Robert Downey Jr.,Christopher Nolan,SonyLIV,1,166,"Avengers, KGF, Pushpa","The Batman, Titanic, KGF, Avengers, Inception",Avatar,2024-11-18
+518,Shaurya Bansal,Male,Mumbai,KGF,Action,Prabhas,Russo Brothers,SonyLIV,2,125,RRR,"Joker, KGF",Avatar,2024-08-20
+519,Sara Joshi,Female,Bangalore,Inception,Sci-Fi,Yash,Christopher Nolan,ZEE5,3,119,"The Batman, Interstellar, RRR","Avengers, Interstellar, Avatar, Inception",RRR,2024-09-10
+520,Aarav Bansal,Female,Pune,Inception,Sci-Fi,Jr NTR,James Cameron,Amazon Prime,2,71,"Joker, KGF, Interstellar","Avatar, Inception",Pushpa,2024-05-22
+521,Reyansh Choudhary,Male,Delhi,KGF,Action,Leonardo DiCaprio,Christopher Nolan,Amazon Prime,4,113,Avengers,"Joker, Inception, Avatar",RRR,2024-08-22
+522,Myra Agarwal,Female,Chennai,Pushpa,Action,Joaquin Phoenix,Atlee,Disney+ Hotstar,2,70,RRR,"Pushpa, Avengers",KGF,2024-10-01
+523,Pooja Nair,Female,Chennai,Inception,Sci-Fi,Ram Charan,Matt Reeves,Amazon Prime,2,31,"The Batman, Pushpa, Titanic","Avatar, Titanic, Interstellar",Pushpa,2024-09-08
+524,Anika Joshi,Male,Pune,KGF,Action,Robert Downey Jr.,Todd Phillips,Amazon Prime,2,81,RRR,"RRR, The Batman, Avengers, Pushpa, Interstellar",Avengers,2024-06-29
+525,Aditya Das,Female,Mumbai,Avatar,Action,Shah Rukh Khan,James Cameron,Disney+ Hotstar,5,166,"Titanic, Pushpa, Avatar","RRR, Joker, Interstellar, Titanic",Pushpa,2024-08-27
+526,Reyansh Malhotra,Female,Hyderabad,KGF,Action,Joaquin Phoenix,Prashanth Neel,Netflix,1,70,"The Batman, RRR, Avengers","Avengers, Inception, Joker, Pushpa",KGF,2024-05-18
+527,Ananya Singh,Male,Delhi,Interstellar,Sci-Fi,Shah Rukh Khan,Sukumar,Netflix,1,33,"Joker, The Batman, Avengers","The Batman, Inception, Interstellar, Joker, Pushpa",Titanic,2024-01-16
+528,Pooja Khan,Male,Pune,Joker,Drama,Allu Arjun,Atlee,Disney+ Hotstar,5,211,"KGF, Inception","KGF, RRR, Titanic, Joker",KGF,2024-04-21
+529,Diya Khan,Female,Pune,Avatar,Action,Jr NTR,Matt Reeves,SonyLIV,1,163,Avatar,"Titanic, Pushpa",The Batman,2024-09-19
+530,Ishaan Das,Male,Mumbai,Titanic,Romance,Leonardo DiCaprio,S. S. Rajamouli,ZEE5,3,55,"Avatar, Titanic, The Batman","Avatar, Inception, Joker, Avengers, The Batman",Inception,2024-03-23
+531,Myra Iyer,Male,Delhi,Inception,Sci-Fi,Leonardo DiCaprio,Christopher Nolan,Disney+ Hotstar,5,238,"Avengers, Pushpa, RRR","Inception, Joker, Avengers",Interstellar,2024-10-26
+532,Anika Das,Male,Delhi,Titanic,Romance,Jr NTR,Prashanth Neel,SonyLIV,1,45,"Titanic, Inception","RRR, Joker, Avengers, The Batman",Avatar,2024-07-09
+533,Ananya Mehta,Male,Delhi,The Batman,Action,Jr NTR,Atlee,ZEE5,5,116,"Pushpa, Avengers","KGF, Pushpa, Titanic",Interstellar,2024-06-01
+534,Pooja Nair,Female,Hyderabad,Interstellar,Sci-Fi,Joaquin Phoenix,Christopher Nolan,ZEE5,4,218,RRR,"Joker, Inception, Pushpa, Titanic, The Batman",KGF,2024-08-12
+535,Sai Khan,Female,Bangalore,Avengers,Action,Joaquin Phoenix,James Cameron,Disney+ Hotstar,1,225,"Titanic, Avengers, The Batman","Avatar, Joker, Pushpa, Titanic, Interstellar",KGF,2024-09-13
+536,Aadhya Das,Female,Mumbai,Pushpa,Action,Prabhas,Sukumar,ZEE5,4,147,Inception,"Avatar, KGF, Inception",Pushpa,2024-09-05
+537,Vihaan Shetty,Female,Hyderabad,Avengers,Action,Shah Rukh Khan,Atlee,Amazon Prime,5,36,RRR,"Titanic, RRR",Inception,2024-11-08
+538,Diya Kulkarni,Male,Bangalore,Interstellar,Sci-Fi,Shah Rukh Khan,S. S. Rajamouli,Netflix,1,196,"KGF, Avengers","Avengers, Titanic, The Batman",RRR,2024-01-20
+539,Aadhya Bansal,Female,Chennai,RRR,Drama,Jr NTR,Todd Phillips,SonyLIV,2,216,"Titanic, Interstellar, RRR","KGF, Avatar, Avengers, RRR",Titanic,2024-10-16
+540,Krishna Patel,Male,Hyderabad,Joker,Drama,Leonardo DiCaprio,Russo Brothers,SonyLIV,4,94,KGF,"The Batman, Inception, Titanic, Avengers, KGF",The Batman,2024-05-11
+541,Shaurya Joshi,Male,Chennai,Joker,Drama,Jr NTR,James Cameron,Amazon Prime,5,34,"Inception, Pushpa, KGF","Inception, The Batman, Joker, Pushpa",Interstellar,2024-08-07
+542,Ishaan Iyer,Female,Mumbai,Avengers,Action,Ram Charan,James Cameron,SonyLIV,3,135,"Avengers, Inception, Avatar","Interstellar, The Batman",Joker,2024-09-17
+543,Anika Kapoor,Female,Chennai,Avatar,Action,Joaquin Phoenix,Russo Brothers,ZEE5,2,173,Avengers,"KGF, Inception, RRR, Avatar, Titanic",Avatar,2024-05-14
+544,Reyansh Patel,Female,Pune,Pushpa,Action,Shah Rukh Khan,Todd Phillips,Amazon Prime,4,225,"Interstellar, KGF","RRR, Titanic, KGF, Interstellar, The Batman",Avengers,2024-02-11
+545,Pooja Verma,Male,Chennai,RRR,Drama,Joaquin Phoenix,S. S. Rajamouli,Netflix,3,217,Avengers,"KGF, Inception, Interstellar, Joker, Titanic",Avatar,2024-01-20
+546,Myra Verma,Male,Chennai,KGF,Action,Jr NTR,James Cameron,Amazon Prime,5,181,"Joker, Interstellar","The Batman, Avatar, RRR",Titanic,2024-08-21
+547,Arjun Gupta,Female,Bangalore,Joker,Drama,Leonardo DiCaprio,Atlee,Netflix,5,135,"The Batman, Joker, Titanic","KGF, Joker, Avengers, Avatar",Joker,2024-01-09
+548,Ira Shetty,Male,Delhi,RRR,Drama,Prabhas,Prashanth Neel,Disney+ Hotstar,2,97,Inception,"Pushpa, Inception, Avatar, Joker",Interstellar,2024-07-23
+549,Pooja Nair,Male,Pune,Interstellar,Sci-Fi,Christian Bale,Russo Brothers,SonyLIV,1,147,Interstellar,"Avatar, Inception, KGF",KGF,2024-08-13
+550,Vihaan Patel,Female,Pune,KGF,Action,Joaquin Phoenix,James Cameron,ZEE5,2,188,"Joker, Inception, The Batman","Pushpa, Inception, The Batman, Titanic, Avengers",The Batman,2024-10-15
+551,Shaurya Agarwal,Male,Bangalore,RRR,Drama,Prabhas,Todd Phillips,Disney+ Hotstar,1,188,"Avatar, Pushpa, The Batman","Interstellar, The Batman, Avengers",Titanic,2024-03-19
+552,Sara Kapoor,Male,Hyderabad,Titanic,Romance,Ram Charan,James Cameron,Amazon Prime,4,96,"RRR, Titanic, Joker","The Batman, Avengers, Titanic",Inception,2024-12-04
+553,Aarav Mehta,Female,Mumbai,Avengers,Action,Prabhas,Atlee,Disney+ Hotstar,1,142,"Avatar, Interstellar","Avengers, Avatar, Interstellar, Inception",Pushpa,2024-09-03
+554,Aditya Kapoor,Female,Bangalore,Joker,Drama,Prabhas,James Cameron,ZEE5,2,132,"Pushpa, Avatar","The Batman, Avengers, Titanic, Joker, Pushpa",The Batman,2024-05-10
+555,Krishna Khan,Male,Chennai,Titanic,Romance,Yash,Sandeep Reddy Vanga,Netflix,4,101,The Batman,"RRR, Joker, Titanic, Avengers",Avengers,2024-11-22
+556,Aarav Mehta,Female,Bangalore,Titanic,Romance,Jr NTR,Prashanth Neel,Amazon Prime,2,55,"Avatar, Titanic","KGF, Pushpa, Inception, Avengers",Avatar,2024-07-16
+557,Ira Patel,Male,Delhi,Titanic,Romance,Jr NTR,Russo Brothers,Netflix,5,228,The Batman,"Avatar, Inception, The Batman",Avatar,2024-12-26
+558,Arjun Yadav,Male,Mumbai,Inception,Sci-Fi,Prabhas,Sandeep Reddy Vanga,SonyLIV,3,68,"Avengers, Titanic","Interstellar, Inception, RRR, Joker",Inception,2024-10-18
+559,Shaurya Kulkarni,Female,Delhi,Joker,Drama,Allu Arjun,Russo Brothers,Netflix,3,194,"Joker, Avengers","Interstellar, Titanic, KGF",Avengers,2024-10-16
+560,Shaurya Choudhary,Male,Chennai,KGF,Action,Yash,Sukumar,SonyLIV,4,148,"Inception, Avatar, The Batman","KGF, Avatar, Interstellar",Avengers,2024-09-25
+561,Vivaan Iyer,Male,Pune,Pushpa,Action,Prabhas,Sandeep Reddy Vanga,Amazon Prime,3,76,Avatar,"KGF, Avatar, Inception, RRR",Titanic,2024-02-07
+562,Ishaan Joshi,Female,Mumbai,Interstellar,Sci-Fi,Ram Charan,S. S. Rajamouli,Netflix,3,122,"RRR, Avengers, Avatar","KGF, Avengers, Inception, Interstellar, RRR",RRR,2024-04-10
+563,Aarav Das,Male,Hyderabad,Titanic,Romance,Allu Arjun,Todd Phillips,SonyLIV,5,96,Avatar,"Inception, Pushpa",Avatar,2024-10-18
+564,Ira Kapoor,Female,Bangalore,Titanic,Romance,Allu Arjun,Russo Brothers,Disney+ Hotstar,2,43,"The Batman, KGF","The Batman, Pushpa, Avatar, Interstellar, Avengers",KGF,2024-11-24
+565,Ananya Das,Female,Bangalore,RRR,Drama,Christian Bale,James Cameron,Amazon Prime,5,64,"Inception, Joker, Avatar","RRR, KGF, Inception",Inception,2024-11-02
+566,Aarav Khan,Female,Hyderabad,Interstellar,Sci-Fi,Yash,James Cameron,SonyLIV,4,92,"KGF, Avatar","Avengers, Titanic, KGF, Joker",Joker,2024-12-13
+567,Ananya Reddy,Male,Bangalore,The Batman,Action,Ram Charan,S. S. Rajamouli,ZEE5,1,110,Avengers,"Titanic, The Batman, Pushpa",Pushpa,2024-04-15
+568,Ira Malhotra,Male,Hyderabad,Pushpa,Action,Leonardo DiCaprio,Christopher Nolan,ZEE5,3,175,"Pushpa, KGF, Interstellar","Avengers, The Batman",Joker,2024-06-14
+569,Aadhya Choudhary,Female,Hyderabad,Titanic,Romance,Jr NTR,Todd Phillips,Netflix,1,65,"RRR, The Batman, Avatar","Joker, Avatar",Joker,2024-03-28
+570,Anika Reddy,Male,Hyderabad,KGF,Action,Christian Bale,Christopher Nolan,ZEE5,1,213,"RRR, The Batman","The Batman, Pushpa, Avengers, Interstellar, Joker",RRR,2024-09-14
+571,Sara Malhotra,Female,Bangalore,Avatar,Action,Ram Charan,Prashanth Neel,Netflix,3,186,"Inception, KGF, Avatar","Titanic, RRR, Joker",Titanic,2024-11-22
+572,Sai Singh,Male,Pune,KGF,Action,Prabhas,Prashanth Neel,Netflix,1,145,"Titanic, Inception","RRR, Titanic, Pushpa",Joker,2024-02-07
+573,Anika Nair,Female,Delhi,Joker,Drama,Ram Charan,Sukumar,Netflix,5,123,KGF,"RRR, Joker, KGF, Pushpa",Pushpa,2024-09-04
+574,Reyansh Singh,Female,Bangalore,RRR,Drama,Allu Arjun,Sukumar,ZEE5,5,63,"Avatar, Titanic","The Batman, Pushpa, Interstellar, KGF, Avengers",Joker,2024-10-15
+575,Krishna Yadav,Male,Hyderabad,Interstellar,Sci-Fi,Prabhas,Sukumar,ZEE5,2,151,RRR,"KGF, RRR",KGF,2024-10-27
+576,Pooja Verma,Female,Delhi,Joker,Drama,Yash,Matt Reeves,Disney+ Hotstar,1,179,Avatar,"Titanic, The Batman, Joker, Pushpa",Avengers,2024-12-08
+577,Sara Reddy,Female,Mumbai,Titanic,Romance,Shah Rukh Khan,James Cameron,SonyLIV,1,86,"RRR, The Batman","Avatar, KGF, Joker, Avengers",Pushpa,2024-12-27
+578,Riya Nair,Female,Delhi,Avengers,Action,Ram Charan,James Cameron,Netflix,1,154,"Avatar, Pushpa","RRR, Joker",The Batman,2024-11-03
+579,Aditya Nair,Female,Chennai,Inception,Sci-Fi,Jr NTR,Christopher Nolan,ZEE5,5,228,"Interstellar, Avatar, RRR","Interstellar, Joker, The Batman, Pushpa, Avengers",Interstellar,2024-02-22
+580,Ira Sharma,Female,Mumbai,KGF,Action,Jr NTR,Matt Reeves,SonyLIV,2,131,"RRR, The Batman, Inception","RRR, Avengers, Pushpa",The Batman,2024-11-24
+581,Ira Sharma,Male,Bangalore,Interstellar,Sci-Fi,Yash,Russo Brothers,ZEE5,5,226,"Joker, Avengers, RRR","Interstellar, The Batman, RRR, Avengers",Titanic,2024-11-16
+582,Ishaan Khan,Male,Pune,Joker,Drama,Joaquin Phoenix,Russo Brothers,Amazon Prime,2,179,"Avatar, The Batman","Titanic, Avatar",KGF,2024-05-25
+583,Arjun Shetty,Female,Delhi,Inception,Sci-Fi,Prabhas,Todd Phillips,Netflix,3,43,"Avatar, Pushpa","Joker, Avengers",Inception,2024-04-29
+584,Ishaan Joshi,Male,Delhi,Inception,Sci-Fi,Leonardo DiCaprio,James Cameron,Amazon Prime,4,179,"Inception, RRR, The Batman","Joker, The Batman, Avatar",Inception,2024-05-13
+585,Reyansh Nair,Female,Delhi,Interstellar,Sci-Fi,Joaquin Phoenix,S. S. Rajamouli,SonyLIV,5,110,"Avengers, The Batman","The Batman, Pushpa, Joker, Inception, Avengers",Pushpa,2024-07-21
+586,Sai Das,Female,Bangalore,Pushpa,Action,Prabhas,Russo Brothers,SonyLIV,4,202,"Avengers, Inception, Pushpa","Pushpa, Inception, RRR, Titanic",Interstellar,2024-07-23
+587,Anika Reddy,Female,Hyderabad,Avatar,Action,Robert Downey Jr.,Russo Brothers,Disney+ Hotstar,2,37,"Avatar, KGF","Avatar, Joker, Interstellar",Avatar,2024-06-24
+588,Aanya Gupta,Female,Chennai,Titanic,Romance,Ram Charan,Christopher Nolan,Netflix,4,148,"Avatar, KGF, Avengers","KGF, Joker, Interstellar",Inception,2024-10-01
+589,Shaurya Choudhary,Male,Pune,KGF,Action,Christian Bale,Matt Reeves,Disney+ Hotstar,4,231,Inception,"RRR, Avengers, The Batman",Avatar,2024-04-07
+590,Vihaan Malhotra,Female,Hyderabad,Titanic,Romance,Joaquin Phoenix,Todd Phillips,Disney+ Hotstar,3,33,"Interstellar, Inception, KGF","RRR, Pushpa, The Batman, Inception, Joker",RRR,2024-08-20
+591,Shaurya Agarwal,Female,Bangalore,Joker,Drama,Christian Bale,Todd Phillips,SonyLIV,2,55,Avengers,"Titanic, Joker",Joker,2024-04-08
+592,Aadhya Patel,Male,Delhi,RRR,Drama,Christian Bale,Atlee,SonyLIV,3,207,Interstellar,"RRR, Inception",KGF,2024-06-29
+593,Aadhya Joshi,Female,Pune,The Batman,Action,Allu Arjun,Prashanth Neel,Disney+ Hotstar,1,65,"Inception, The Batman","RRR, Avatar",RRR,2024-10-31
+594,Pooja Kulkarni,Male,Mumbai,Titanic,Romance,Robert Downey Jr.,Atlee,Amazon Prime,5,97,"Interstellar, The Batman, RRR","RRR, Joker, Pushpa",RRR,2024-06-12
+595,Aadhya Gupta,Male,Chennai,Inception,Sci-Fi,Robert Downey Jr.,Todd Phillips,SonyLIV,3,96,"Avengers, Joker","Avengers, Titanic, The Batman",Avengers,2024-04-18
+596,Sai Malhotra,Male,Bangalore,Pushpa,Action,Joaquin Phoenix,Sandeep Reddy Vanga,Netflix,1,152,RRR,"Titanic, Avatar, Interstellar, The Batman, KGF",Titanic,2024-02-12
+597,Myra Kulkarni,Male,Chennai,RRR,Drama,Joaquin Phoenix,James Cameron,ZEE5,4,63,RRR,"Avengers, Interstellar, RRR, Titanic",Avatar,2024-05-09
+598,Pooja Khan,Female,Pune,Avatar,Action,Prabhas,Sandeep Reddy Vanga,Disney+ Hotstar,4,186,"Avengers, Interstellar, Inception","Interstellar, Inception, KGF",Avengers,2024-07-09
+599,Aditya Kapoor,Female,Delhi,RRR,Drama,Yash,Sandeep Reddy Vanga,ZEE5,3,104,"Interstellar, Pushpa, Titanic","RRR, Avengers, Titanic, Pushpa, Joker",RRR,2024-06-12
+600,Sai Gupta,Male,Chennai,The Batman,Action,Prabhas,Matt Reeves,Amazon Prime,5,170,Titanic,"Avatar, Inception, RRR",Avengers,2024-03-24
+601,Arjun Malhotra,Female,Hyderabad,Titanic,Romance,Joaquin Phoenix,Atlee,Amazon Prime,1,229,"Pushpa, Joker","Avengers, Joker",Titanic,2024-02-28
+602,Ishaan Kulkarni,Female,Hyderabad,The Batman,Action,Joaquin Phoenix,Sukumar,Netflix,5,220,Titanic,"RRR, KGF, The Batman",KGF,2024-05-28
+603,Krishna Nair,Female,Chennai,Avengers,Action,Yash,Matt Reeves,ZEE5,2,72,"Joker, Titanic","Interstellar, KGF, Avatar",Interstellar,2024-09-07
+604,Sara Verma,Male,Chennai,Titanic,Romance,Joaquin Phoenix,Todd Phillips,SonyLIV,1,72,"Titanic, Avengers, Joker","Avatar, The Batman, RRR",Interstellar,2024-02-04
+605,Riya Nair,Female,Pune,RRR,Drama,Robert Downey Jr.,Matt Reeves,Disney+ Hotstar,2,170,"Avengers, Titanic","Pushpa, The Batman, KGF, RRR, Titanic",Interstellar,2024-09-27
+606,Myra Kulkarni,Female,Hyderabad,The Batman,Action,Shah Rukh Khan,Sandeep Reddy Vanga,Disney+ Hotstar,5,75,KGF,"Joker, Pushpa",Avatar,2024-09-17
+607,Pooja Bansal,Male,Hyderabad,Joker,Drama,Shah Rukh Khan,Sukumar,SonyLIV,4,67,Titanic,"Joker, The Batman",Interstellar,2024-02-12
+608,Anika Iyer,Male,Delhi,KGF,Action,Joaquin Phoenix,Prashanth Neel,SonyLIV,2,142,"Avatar, KGF","Avatar, Titanic, RRR",Pushpa,2024-02-28
+609,Vivaan Kulkarni,Female,Hyderabad,Titanic,Romance,Yash,James Cameron,SonyLIV,3,182,Interstellar,"KGF, RRR",The Batman,2024-01-03
+610,Reyansh Malhotra,Male,Bangalore,Inception,Sci-Fi,Ram Charan,Russo Brothers,Disney+ Hotstar,5,235,Titanic,"Avatar, RRR, Joker, Titanic",Titanic,2024-12-07
+611,Vivaan Singh,Female,Pune,Avengers,Action,Prabhas,Sandeep Reddy Vanga,Netflix,2,83,Interstellar,"Pushpa, Titanic, KGF, Avatar, Interstellar",Avatar,2024-09-19
+612,Myra Gupta,Male,Delhi,Avatar,Action,Joaquin Phoenix,Christopher Nolan,ZEE5,1,80,RRR,"The Batman, RRR, Interstellar",Joker,2024-03-02
+613,Riya Kulkarni,Male,Mumbai,The Batman,Action,Robert Downey Jr.,Atlee,Disney+ Hotstar,3,117,"The Batman, KGF","Avatar, Titanic, KGF",Joker,2024-02-19
+614,Krishna Khan,Female,Delhi,Inception,Sci-Fi,Jr NTR,Sukumar,ZEE5,3,57,Avengers,"Interstellar, Avatar, The Batman, Joker, KGF",Avengers,2024-07-26
+615,Krishna Malhotra,Male,Chennai,The Batman,Action,Jr NTR,Prashanth Neel,Disney+ Hotstar,2,135,RRR,"Interstellar, KGF, Joker, RRR",The Batman,2024-11-12
+616,Reyansh Choudhary,Male,Mumbai,RRR,Drama,Jr NTR,S. S. Rajamouli,Disney+ Hotstar,4,60,"The Batman, Joker, KGF","Titanic, RRR, Interstellar, Inception, Pushpa",Interstellar,2024-12-04
+617,Ira Patel,Female,Mumbai,Interstellar,Sci-Fi,Prabhas,Prashanth Neel,Disney+ Hotstar,2,171,RRR,"Interstellar, KGF",Avatar,2024-04-10
+618,Vivaan Nair,Male,Pune,Interstellar,Sci-Fi,Ram Charan,Christopher Nolan,ZEE5,1,68,Avengers,"Inception, Avengers, Titanic",Joker,2024-07-18
+619,Aditya Nair,Female,Chennai,RRR,Drama,Christian Bale,Prashanth Neel,Disney+ Hotstar,3,216,"KGF, Avatar","Avengers, Titanic, Avatar",Avatar,2024-04-10
+620,Vihaan Singh,Female,Chennai,Avatar,Action,Jr NTR,Sukumar,SonyLIV,2,196,"Inception, Avatar, KGF","RRR, KGF, Pushpa, Interstellar, Avengers",The Batman,2024-11-03
+621,Aarav Khan,Female,Hyderabad,Inception,Sci-Fi,Jr NTR,Russo Brothers,Disney+ Hotstar,3,216,Pushpa,"The Batman, Inception, Avatar, KGF",Interstellar,2024-10-01
+622,Krishna Sharma,Male,Mumbai,Inception,Sci-Fi,Allu Arjun,S. S. Rajamouli,Disney+ Hotstar,4,111,"Inception, RRR","Avengers, Avatar, Titanic",Joker,2024-03-05
+623,Aditya Khan,Female,Hyderabad,The Batman,Action,Christian Bale,Todd Phillips,Netflix,1,95,"Inception, Interstellar, Avengers","RRR, KGF, Avengers, Avatar",RRR,2024-11-09
+624,Krishna Yadav,Female,Chennai,Avengers,Action,Jr NTR,James Cameron,Amazon Prime,4,43,"KGF, Pushpa","Avatar, Joker, Titanic",KGF,2024-01-19
+625,Vihaan Das,Male,Mumbai,Titanic,Romance,Yash,Prashanth Neel,ZEE5,4,202,KGF,"Avengers, Joker, Interstellar",KGF,2024-01-24
+626,Myra Gupta,Male,Delhi,Joker,Drama,Leonardo DiCaprio,Atlee,Netflix,4,72,"The Batman, Joker, Avatar","KGF, Avengers",Inception,2024-08-28
+627,Sai Verma,Male,Pune,Inception,Sci-Fi,Prabhas,Atlee,Disney+ Hotstar,5,161,"Joker, Pushpa","RRR, Avengers",Titanic,2024-07-22
+628,Anika Kulkarni,Female,Pune,Inception,Sci-Fi,Yash,Russo Brothers,Amazon Prime,3,204,Pushpa,"The Batman, RRR, Inception, Interstellar",Interstellar,2024-02-22
+629,Anika Sharma,Male,Hyderabad,Joker,Drama,Yash,Matt Reeves,ZEE5,4,125,Avatar,"Joker, Avengers",The Batman,2024-12-04
+630,Ira Iyer,Male,Chennai,Interstellar,Sci-Fi,Prabhas,Atlee,Netflix,3,86,Joker,"Joker, RRR, Interstellar, Avengers, Inception",Joker,2024-12-28
+631,Reyansh Joshi,Female,Bangalore,Interstellar,Sci-Fi,Jr NTR,Atlee,Amazon Prime,2,197,"RRR, The Batman, Titanic","The Batman, Avengers, Avatar",The Batman,2024-04-14
+632,Diya Verma,Male,Mumbai,RRR,Drama,Allu Arjun,Matt Reeves,Disney+ Hotstar,2,231,KGF,"RRR, Inception, Pushpa, Titanic, Avatar",RRR,2024-09-28
+633,Myra Gupta,Male,Chennai,Inception,Sci-Fi,Leonardo DiCaprio,Christopher Nolan,ZEE5,1,217,RRR,"Pushpa, Inception, Avatar",Joker,2024-09-07
+634,Myra Gupta,Female,Chennai,Avengers,Action,Ram Charan,Sandeep Reddy Vanga,ZEE5,1,189,"Interstellar, Joker","Titanic, The Batman, Avengers",The Batman,2024-02-19
+635,Aanya Singh,Male,Bangalore,The Batman,Action,Yash,Russo Brothers,Netflix,1,138,KGF,"Interstellar, Avengers, Titanic",Inception,2024-09-28
+636,Ira Agarwal,Male,Pune,The Batman,Action,Yash,Todd Phillips,Disney+ Hotstar,5,177,"KGF, Inception, The Batman","Joker, Avengers, KGF, Pushpa",Avengers,2024-02-18
+637,Reyansh Bansal,Female,Pune,KGF,Action,Ram Charan,Todd Phillips,Netflix,1,221,Pushpa,"Joker, The Batman, KGF",KGF,2024-06-01
+638,Sai Yadav,Male,Delhi,Avengers,Action,Allu Arjun,Atlee,Amazon Prime,1,67,"Titanic, RRR","RRR, The Batman",Avatar,2024-07-12
+639,Ishaan Mehta,Male,Chennai,Interstellar,Sci-Fi,Prabhas,Prashanth Neel,Amazon Prime,4,136,Titanic,"The Batman, Titanic, Pushpa, Interstellar",KGF,2024-12-23
+640,Riya Kapoor,Female,Mumbai,Interstellar,Sci-Fi,Ram Charan,James Cameron,SonyLIV,2,126,"The Batman, Pushpa, RRR","Joker, Avatar, The Batman, Interstellar",Inception,2024-06-28
+641,Vihaan Verma,Male,Delhi,The Batman,Action,Shah Rukh Khan,Prashanth Neel,Disney+ Hotstar,4,135,"Joker, KGF","Titanic, The Batman, Joker",Pushpa,2024-06-22
+642,Aanya Shetty,Male,Mumbai,Avatar,Action,Joaquin Phoenix,Matt Reeves,SonyLIV,3,38,Titanic,"Joker, Pushpa",Avengers,2024-11-01
+643,Arjun Agarwal,Female,Chennai,Titanic,Romance,Robert Downey Jr.,Christopher Nolan,SonyLIV,2,157,Avengers,"RRR, Avengers, Avatar, Interstellar",Joker,2024-10-27
+644,Aditya Patel,Female,Hyderabad,KGF,Action,Robert Downey Jr.,Atlee,Disney+ Hotstar,5,31,"The Batman, Avengers, Avatar","Joker, KGF, Pushpa, RRR, The Batman",Avengers,2024-06-03
+645,Anika Das,Female,Hyderabad,Titanic,Romance,Christian Bale,S. S. Rajamouli,ZEE5,3,108,"Interstellar, RRR","Avengers, Joker, KGF",Joker,2024-02-12
+646,Pooja Kapoor,Female,Pune,Interstellar,Sci-Fi,Ram Charan,Todd Phillips,Amazon Prime,2,124,Interstellar,"Pushpa, RRR, Avatar, Interstellar, Avengers",KGF,2024-12-26
+647,Sai Iyer,Female,Chennai,Titanic,Romance,Yash,Matt Reeves,Amazon Prime,2,233,"Avatar, Titanic","RRR, Avatar, Pushpa, Interstellar, Joker",The Batman,2024-06-12
+648,Diya Iyer,Female,Hyderabad,Avengers,Action,Joaquin Phoenix,Matt Reeves,ZEE5,3,148,Pushpa,"Joker, Inception, Avatar",Titanic,2024-07-10
+649,Riya Joshi,Male,Chennai,Joker,Drama,Joaquin Phoenix,James Cameron,SonyLIV,1,90,"Inception, Pushpa","Avengers, Inception, The Batman, Joker, Pushpa",Interstellar,2024-11-28
+650,Aarav Agarwal,Female,Hyderabad,Titanic,Romance,Joaquin Phoenix,Sandeep Reddy Vanga,Netflix,2,61,Pushpa,"Titanic, Avatar",Titanic,2024-04-09
+651,Aadhya Singh,Female,Hyderabad,Interstellar,Sci-Fi,Robert Downey Jr.,Todd Phillips,SonyLIV,4,221,KGF,"RRR, The Batman",Inception,2024-11-30
+652,Aarav Joshi,Male,Mumbai,Interstellar,Sci-Fi,Shah Rukh Khan,Prashanth Neel,SonyLIV,3,163,RRR,"RRR, KGF, Joker",KGF,2024-05-14
+653,Shaurya Sharma,Female,Chennai,Titanic,Romance,Allu Arjun,Atlee,Disney+ Hotstar,5,62,"Titanic, Inception","Titanic, KGF",RRR,2024-12-25
+654,Ananya Sharma,Male,Delhi,Avatar,Action,Prabhas,Matt Reeves,SonyLIV,2,76,Pushpa,"The Batman, RRR, Avengers, Pushpa, Inception",KGF,2024-09-28
+655,Myra Mehta,Female,Chennai,The Batman,Action,Shah Rukh Khan,Prashanth Neel,Netflix,1,30,Titanic,"Avengers, Pushpa, Titanic, KGF",Joker,2024-09-16
+656,Aanya Shetty,Female,Mumbai,Titanic,Romance,Christian Bale,Prashanth Neel,Disney+ Hotstar,3,164,"The Batman, Titanic","Interstellar, Joker",Joker,2024-06-17
+657,Sai Sharma,Male,Delhi,The Batman,Action,Jr NTR,S. S. Rajamouli,Amazon Prime,3,236,Avengers,"Avengers, Interstellar, Inception, Titanic",Pushpa,2024-04-21
+658,Sara Khan,Female,Pune,Pushpa,Action,Robert Downey Jr.,Matt Reeves,Netflix,4,42,"Avengers, Joker","Inception, Avengers, Pushpa, Avatar",Joker,2024-06-11
+659,Reyansh Nair,Male,Hyderabad,The Batman,Action,Leonardo DiCaprio,Sukumar,SonyLIV,2,116,"Avatar, Avengers, Interstellar","Avengers, RRR, Pushpa, Inception, The Batman",KGF,2024-08-07
+660,Vihaan Sharma,Female,Hyderabad,Joker,Drama,Leonardo DiCaprio,Atlee,Disney+ Hotstar,3,148,"RRR, Joker","Avengers, The Batman",Pushpa,2024-03-18
+661,Shaurya Mehta,Male,Bangalore,The Batman,Action,Shah Rukh Khan,Sukumar,Disney+ Hotstar,4,111,"Avengers, RRR, Avatar","The Batman, Inception",Interstellar,2024-01-12
+662,Ishaan Mehta,Male,Hyderabad,Joker,Drama,Yash,Sukumar,Amazon Prime,1,102,"Titanic, Interstellar, RRR","The Batman, RRR, Avatar",Pushpa,2024-02-16
+663,Aarav Iyer,Female,Bangalore,Joker,Drama,Prabhas,Christopher Nolan,Amazon Prime,3,52,"Pushpa, Joker, Inception","Avengers, Joker, KGF, Titanic",Inception,2024-01-16
+664,Pooja Kapoor,Male,Chennai,Titanic,Romance,Prabhas,Sandeep Reddy Vanga,Amazon Prime,1,215,"Pushpa, Joker, The Batman","The Batman, KGF, RRR, Interstellar",Avengers,2024-10-30
+665,Diya Das,Female,Delhi,Joker,Drama,Allu Arjun,Sandeep Reddy Vanga,ZEE5,3,62,Avengers,"Inception, The Batman, Titanic, Avatar, RRR",Avengers,2024-06-12
+666,Shaurya Patel,Female,Mumbai,RRR,Drama,Yash,Atlee,ZEE5,5,30,"RRR, KGF, Interstellar","RRR, Pushpa, The Batman",Joker,2024-02-10
+667,Vivaan Khan,Male,Hyderabad,Joker,Drama,Leonardo DiCaprio,James Cameron,SonyLIV,4,145,"Inception, The Batman","Interstellar, KGF, RRR, Joker",Joker,2024-01-11
+668,Aditya Nair,Male,Mumbai,Inception,Sci-Fi,Leonardo DiCaprio,S. S. Rajamouli,Netflix,1,98,"The Batman, Joker","Joker, Pushpa, Avengers, KGF, Titanic",The Batman,2024-09-02
+669,Sara Kapoor,Male,Mumbai,The Batman,Action,Robert Downey Jr.,James Cameron,Disney+ Hotstar,2,99,"Pushpa, Avatar","Joker, Avatar, RRR, Avengers",Titanic,2024-08-13
+670,Diya Kulkarni,Male,Bangalore,KGF,Action,Yash,Atlee,Netflix,2,175,"Interstellar, RRR, KGF","Joker, RRR, Pushpa",KGF,2024-04-11
+671,Vivaan Agarwal,Female,Bangalore,Pushpa,Action,Ram Charan,S. S. Rajamouli,Disney+ Hotstar,5,143,"Joker, Avengers","Inception, Interstellar, Joker, RRR, Avatar",KGF,2024-09-04
+672,Anika Joshi,Male,Mumbai,Pushpa,Action,Robert Downey Jr.,Russo Brothers,Disney+ Hotstar,5,32,The Batman,"KGF, Inception",KGF,2024-11-29
+673,Vihaan Yadav,Female,Chennai,KGF,Action,Joaquin Phoenix,Atlee,Disney+ Hotstar,1,61,Joker,"Avengers, Titanic, Inception, KGF",Titanic,2024-03-20
+674,Ananya Agarwal,Female,Pune,Interstellar,Sci-Fi,Christian Bale,Sandeep Reddy Vanga,Netflix,4,150,"Titanic, KGF","Inception, Pushpa, RRR, Avatar",The Batman,2024-05-22
+675,Ishaan Yadav,Female,Hyderabad,Inception,Sci-Fi,Yash,Prashanth Neel,SonyLIV,2,143,"Interstellar, Avatar, KGF","Titanic, KGF, Avatar, RRR, Avengers",Avengers,2024-07-23
+676,Krishna Malhotra,Female,Pune,Titanic,Romance,Shah Rukh Khan,Atlee,Amazon Prime,4,57,"Avatar, Titanic, Pushpa","Avengers, KGF",Joker,2024-08-21
+677,Krishna Verma,Male,Pune,Avatar,Action,Joaquin Phoenix,Sukumar,Amazon Prime,1,65,"Avengers, Joker","Avatar, RRR, Pushpa, Titanic, Interstellar",Titanic,2024-07-27
+678,Arjun Khan,Female,Mumbai,Avengers,Action,Shah Rukh Khan,Christopher Nolan,Disney+ Hotstar,4,198,"The Batman, Avatar, Inception","Avengers, KGF, Avatar, The Batman, Joker",Titanic,2024-10-21
+679,Vivaan Khan,Male,Mumbai,Pushpa,Action,Allu Arjun,Christopher Nolan,Amazon Prime,5,161,"The Batman, Pushpa, Interstellar","Inception, RRR",KGF,2024-11-26
+680,Vihaan Yadav,Male,Hyderabad,Avatar,Action,Christian Bale,S. S. Rajamouli,ZEE5,2,46,"Avengers, Interstellar","Inception, RRR, Titanic, Avengers",Avatar,2024-06-01
+681,Aadhya Patel,Female,Bangalore,Avengers,Action,Jr NTR,Sandeep Reddy Vanga,Amazon Prime,1,75,"Titanic, Avatar, Avengers","The Batman, RRR, Pushpa, KGF, Joker",Inception,2024-09-24
+682,Aadhya Bansal,Male,Mumbai,KGF,Action,Jr NTR,Christopher Nolan,SonyLIV,3,40,"KGF, The Batman, Inception","Avatar, Titanic, Joker, The Batman",Inception,2024-04-03
+683,Aanya Reddy,Female,Mumbai,Pushpa,Action,Jr NTR,Prashanth Neel,Netflix,5,212,"Interstellar, The Batman","Joker, KGF",Inception,2024-07-08
+684,Aditya Kapoor,Male,Mumbai,Joker,Drama,Shah Rukh Khan,Prashanth Neel,Amazon Prime,2,86,"Avengers, KGF","RRR, Inception, Interstellar",RRR,2024-11-17
+685,Diya Reddy,Female,Bangalore,The Batman,Action,Joaquin Phoenix,S. S. Rajamouli,ZEE5,1,178,"Interstellar, KGF, The Batman","Joker, Interstellar, The Batman, Avatar, Avengers",The Batman,2024-05-07
+686,Sai Khan,Female,Bangalore,Joker,Drama,Leonardo DiCaprio,Christopher Nolan,SonyLIV,3,198,"KGF, Avengers","RRR, Inception, Pushpa, Avatar, Interstellar",Avengers,2024-04-16
+687,Aadhya Malhotra,Male,Bangalore,Inception,Sci-Fi,Christian Bale,Christopher Nolan,ZEE5,2,157,"Joker, RRR, KGF","Pushpa, The Batman, Interstellar",Joker,2024-04-23
+688,Vihaan Das,Male,Mumbai,Joker,Drama,Ram Charan,Prashanth Neel,Netflix,4,220,Avatar,"RRR, Titanic, Avatar",Pushpa,2024-03-08
+689,Sara Iyer,Female,Bangalore,The Batman,Action,Jr NTR,Sandeep Reddy Vanga,ZEE5,2,162,"The Batman, Joker, Interstellar","Titanic, Joker, Interstellar",Pushpa,2024-06-24
+690,Riya Kulkarni,Female,Pune,Pushpa,Action,Ram Charan,Russo Brothers,ZEE5,4,119,Interstellar,"Pushpa, The Batman, Interstellar, KGF, Avengers",Titanic,2024-06-15
+691,Aarav Agarwal,Female,Mumbai,Titanic,Romance,Christian Bale,Sandeep Reddy Vanga,Netflix,1,157,"Interstellar, Joker, Titanic","Pushpa, KGF, RRR, The Batman",KGF,2024-02-14
+692,Ira Bansal,Female,Pune,Interstellar,Sci-Fi,Robert Downey Jr.,S. S. Rajamouli,SonyLIV,3,150,KGF,"The Batman, RRR, Pushpa",Avatar,2024-10-18
+693,Pooja Khan,Male,Mumbai,Avatar,Action,Ram Charan,Russo Brothers,SonyLIV,4,137,Avengers,"RRR, KGF",KGF,2024-11-13
+694,Shaurya Yadav,Female,Delhi,Joker,Drama,Yash,S. S. Rajamouli,SonyLIV,3,215,"Avatar, Avengers","Pushpa, Titanic, Interstellar, Inception, The Batman",Interstellar,2024-04-01
+695,Vivaan Malhotra,Female,Pune,Avatar,Action,Jr NTR,Prashanth Neel,ZEE5,4,201,Interstellar,"Titanic, Inception",Pushpa,2024-03-26
+696,Krishna Kapoor,Female,Mumbai,The Batman,Action,Christian Bale,Matt Reeves,SonyLIV,4,67,Titanic,"KGF, Avatar, Avengers, Titanic",RRR,2024-06-23
+697,Ishaan Kulkarni,Male,Hyderabad,Avengers,Action,Christian Bale,James Cameron,ZEE5,2,147,The Batman,"RRR, Avengers, KGF, The Batman",Pushpa,2024-08-20
+698,Shaurya Agarwal,Male,Hyderabad,Avengers,Action,Yash,Prashanth Neel,Amazon Prime,4,90,The Batman,"KGF, Avatar, RRR, Titanic, Inception",Titanic,2024-04-16
+699,Aadhya Bansal,Male,Bangalore,Inception,Sci-Fi,Prabhas,Prashanth Neel,Netflix,4,223,"Interstellar, Avengers","Inception, KGF, Interstellar, Avengers",Avengers,2024-04-08
+700,Ishaan Yadav,Male,Mumbai,The Batman,Action,Shah Rukh Khan,Russo Brothers,Amazon Prime,5,203,"KGF, RRR","Titanic, The Batman, Pushpa",The Batman,2024-05-11
+701,Aanya Kulkarni,Male,Chennai,Avatar,Action,Joaquin Phoenix,Sandeep Reddy Vanga,SonyLIV,3,205,"KGF, Titanic","Avatar, Interstellar, Inception",The Batman,2024-05-28
+702,Pooja Malhotra,Female,Delhi,The Batman,Action,Leonardo DiCaprio,Matt Reeves,Netflix,5,219,"Inception, Titanic, Pushpa","Pushpa, The Batman, Inception, Interstellar, KGF",Joker,2024-11-30
+703,Anika Gupta,Male,Hyderabad,KGF,Action,Ram Charan,Atlee,ZEE5,5,84,Titanic,"Avengers, Interstellar, The Batman",RRR,2024-04-26
+704,Anika Gupta,Female,Delhi,Avatar,Action,Leonardo DiCaprio,Matt Reeves,Disney+ Hotstar,3,124,KGF,"Interstellar, KGF",KGF,2024-04-13
+705,Aadhya Sharma,Male,Pune,The Batman,Action,Jr NTR,Russo Brothers,SonyLIV,3,170,"KGF, RRR, Pushpa","Interstellar, Inception, Titanic",RRR,2024-06-04
+706,Aarav Khan,Female,Bangalore,Avatar,Action,Leonardo DiCaprio,Todd Phillips,SonyLIV,2,48,"Joker, Inception","Inception, Avatar, Interstellar, Titanic",Avengers,2024-11-24
+707,Ira Mehta,Male,Hyderabad,Avengers,Action,Allu Arjun,Russo Brothers,Amazon Prime,4,76,Inception,"The Batman, KGF",Avatar,2024-02-28
+708,Ira Kulkarni,Male,Chennai,Pushpa,Action,Joaquin Phoenix,Prashanth Neel,Amazon Prime,1,179,"Pushpa, The Batman, Avengers","Pushpa, RRR, The Batman, Joker",Pushpa,2024-05-23
+709,Aarav Patel,Male,Mumbai,Joker,Drama,Christian Bale,Sandeep Reddy Vanga,SonyLIV,4,167,"RRR, Avatar, Inception","Avatar, The Batman, Interstellar, Inception",Interstellar,2024-05-25
+710,Anika Sharma,Female,Pune,Pushpa,Action,Allu Arjun,Sandeep Reddy Vanga,Netflix,4,109,Titanic,"Pushpa, Avengers, Titanic",Titanic,2024-11-27
+711,Aarav Khan,Male,Delhi,Interstellar,Sci-Fi,Ram Charan,Todd Phillips,ZEE5,3,202,Pushpa,"Interstellar, KGF",Inception,2024-06-23
+712,Riya Bansal,Male,Hyderabad,Avengers,Action,Jr NTR,Christopher Nolan,Netflix,1,63,"Pushpa, Interstellar","Avengers, Joker, KGF",Joker,2024-11-12
+713,Reyansh Kulkarni,Male,Bangalore,Joker,Drama,Allu Arjun,Prashanth Neel,Netflix,1,228,"RRR, The Batman","Joker, KGF, RRR, Avengers, Inception",Joker,2024-08-28
+714,Aarav Das,Female,Hyderabad,KGF,Action,Leonardo DiCaprio,Sukumar,Amazon Prime,1,208,Avatar,"Inception, Pushpa",Interstellar,2024-09-22
+715,Sai Das,Female,Bangalore,Interstellar,Sci-Fi,Shah Rukh Khan,S. S. Rajamouli,SonyLIV,4,238,"Inception, RRR","Avengers, Inception, The Batman",Titanic,2024-07-14
+716,Vihaan Kulkarni,Female,Chennai,Avengers,Action,Prabhas,Matt Reeves,Amazon Prime,4,100,RRR,"Interstellar, KGF",Pushpa,2024-04-26
+717,Krishna Shetty,Female,Pune,Inception,Sci-Fi,Joaquin Phoenix,S. S. Rajamouli,ZEE5,1,37,"Avatar, Titanic","Avengers, Pushpa, Avatar",Joker,2024-10-26
+718,Vihaan Iyer,Male,Bangalore,Interstellar,Sci-Fi,Christian Bale,Matt Reeves,Amazon Prime,2,189,The Batman,"The Batman, Pushpa",The Batman,2024-01-22
+719,Diya Yadav,Male,Pune,Inception,Sci-Fi,Joaquin Phoenix,S. S. Rajamouli,Netflix,4,89,"The Batman, Avengers","Titanic, RRR, Inception",The Batman,2024-11-01
+720,Vivaan Singh,Male,Hyderabad,Avatar,Action,Ram Charan,Atlee,Amazon Prime,2,74,"The Batman, Pushpa, Titanic","Interstellar, Inception, Avatar",Pushpa,2024-07-27
+721,Shaurya Shetty,Female,Hyderabad,Interstellar,Sci-Fi,Yash,Todd Phillips,ZEE5,4,133,"Avatar, Pushpa, The Batman","RRR, Inception, Interstellar, Titanic, The Batman",Avengers,2024-03-30
+722,Ira Reddy,Female,Pune,Avengers,Action,Ram Charan,Matt Reeves,Disney+ Hotstar,5,207,"RRR, Interstellar","Avengers, The Batman, Joker, Inception",Pushpa,2024-08-24
+723,Aanya Mehta,Male,Delhi,Pushpa,Action,Yash,Prashanth Neel,Netflix,1,64,Inception,"RRR, Joker, Interstellar, The Batman",KGF,2024-10-14
+724,Ishaan Sharma,Female,Hyderabad,Avengers,Action,Jr NTR,Sukumar,ZEE5,3,101,"Inception, KGF, Interstellar","Joker, Avengers",Avengers,2024-03-23
+725,Aanya Nair,Female,Bangalore,The Batman,Action,Joaquin Phoenix,James Cameron,Disney+ Hotstar,3,188,"Titanic, RRR, Inception","Titanic, Avatar, Pushpa, Avengers",Interstellar,2024-05-21
+726,Ananya Shetty,Male,Bangalore,Titanic,Romance,Shah Rukh Khan,Sukumar,Netflix,1,174,KGF,"KGF, Titanic, The Batman, Avatar",Pushpa,2024-06-17
+727,Arjun Shetty,Male,Hyderabad,Interstellar,Sci-Fi,Shah Rukh Khan,S. S. Rajamouli,SonyLIV,1,50,Pushpa,"Pushpa, RRR",The Batman,2024-11-05
+728,Aadhya Agarwal,Female,Mumbai,The Batman,Action,Allu Arjun,Sandeep Reddy Vanga,SonyLIV,1,94,"Avengers, The Batman","Avengers, Joker",Avatar,2024-02-18
+729,Krishna Reddy,Male,Bangalore,Interstellar,Sci-Fi,Shah Rukh Khan,Christopher Nolan,Disney+ Hotstar,5,205,Avatar,"Avengers, KGF, Joker",Pushpa,2024-02-04
+730,Aadhya Das,Female,Pune,Inception,Sci-Fi,Christian Bale,S. S. Rajamouli,Amazon Prime,4,36,"Pushpa, Avatar, Inception","RRR, Avengers, Interstellar, Avatar, Inception",RRR,2024-11-26
+731,Ira Singh,Male,Hyderabad,Pushpa,Action,Yash,Sukumar,ZEE5,1,72,Interstellar,"Pushpa, Inception, RRR",Inception,2024-11-21
+732,Aanya Joshi,Male,Hyderabad,KGF,Action,Leonardo DiCaprio,Atlee,ZEE5,4,142,"KGF, Inception","Avengers, KGF, Titanic, Joker",Pushpa,2024-11-26
+733,Aadhya Yadav,Female,Bangalore,Pushpa,Action,Joaquin Phoenix,Russo Brothers,SonyLIV,1,146,The Batman,"Avatar, Joker",Titanic,2024-06-23
+734,Ananya Reddy,Female,Pune,Inception,Sci-Fi,Shah Rukh Khan,Christopher Nolan,Disney+ Hotstar,3,179,"KGF, Pushpa","Pushpa, Avengers, The Batman",Interstellar,2024-06-19
+735,Aadhya Shetty,Male,Mumbai,KGF,Action,Robert Downey Jr.,Todd Phillips,Disney+ Hotstar,2,74,Joker,"Pushpa, Inception, RRR",Inception,2024-06-11
+736,Shaurya Mehta,Male,Delhi,KGF,Action,Allu Arjun,Christopher Nolan,Netflix,3,109,"RRR, Interstellar, Pushpa","Interstellar, Titanic, Avatar, KGF, The Batman",Joker,2024-01-14
+737,Ishaan Sharma,Female,Bangalore,Inception,Sci-Fi,Christian Bale,Atlee,ZEE5,1,132,Interstellar,"Avatar, The Batman, Titanic, Pushpa",Titanic,2024-02-23
+738,Riya Agarwal,Female,Mumbai,Pushpa,Action,Christian Bale,S. S. Rajamouli,SonyLIV,2,168,Inception,"KGF, RRR, Inception, Joker, Titanic",Joker,2024-08-05
+739,Ananya Das,Female,Delhi,Pushpa,Action,Shah Rukh Khan,Atlee,ZEE5,2,122,"The Batman, Inception","Avengers, Avatar",Pushpa,2024-06-06
+740,Shaurya Gupta,Female,Delhi,Avatar,Action,Yash,Atlee,Amazon Prime,1,93,"Avengers, Interstellar","Joker, KGF, Interstellar",Interstellar,2024-10-01
+741,Ishaan Kulkarni,Female,Hyderabad,Joker,Drama,Leonardo DiCaprio,Russo Brothers,ZEE5,4,200,"Joker, RRR","RRR, Interstellar, The Batman",RRR,2024-12-27
+742,Ananya Yadav,Male,Hyderabad,Avengers,Action,Shah Rukh Khan,James Cameron,Netflix,4,187,"Pushpa, Joker, Avengers","KGF, Joker, Avengers, Pushpa, Interstellar",Avatar,2024-05-07
+743,Aarav Nair,Male,Mumbai,Joker,Drama,Yash,James Cameron,ZEE5,3,48,"Inception, The Batman, Pushpa","RRR, Avengers, Interstellar, Inception",Avengers,2024-10-22
+744,Aadhya Choudhary,Female,Pune,Pushpa,Action,Ram Charan,Todd Phillips,ZEE5,5,46,"KGF, Avatar, Titanic","The Batman, RRR",Joker,2024-05-19
+745,Ananya Bansal,Male,Delhi,The Batman,Action,Yash,James Cameron,Disney+ Hotstar,5,98,KGF,"The Batman, RRR, Avengers",Pushpa,2024-01-10
+746,Aadhya Mehta,Female,Bangalore,Avengers,Action,Ram Charan,Russo Brothers,SonyLIV,4,86,"Avatar, Pushpa, Interstellar","RRR, KGF, Pushpa, Avatar, Interstellar",RRR,2024-08-25
+747,Myra Kulkarni,Male,Delhi,Titanic,Romance,Shah Rukh Khan,Matt Reeves,Netflix,5,37,Avatar,"Inception, Titanic, Joker, Avengers",Titanic,2024-06-07
+748,Aarav Iyer,Female,Bangalore,Avatar,Action,Leonardo DiCaprio,James Cameron,SonyLIV,1,99,Inception,"Interstellar, Joker, RRR, Avatar, KGF",KGF,2024-03-04
+749,Ishaan Kapoor,Female,Hyderabad,KGF,Action,Christian Bale,Russo Brothers,Amazon Prime,3,121,The Batman,"Titanic, Avengers, The Batman, RRR, Avatar",Avatar,2024-07-29
+750,Aadhya Kulkarni,Female,Bangalore,RRR,Drama,Allu Arjun,S. S. Rajamouli,SonyLIV,1,182,"Avengers, Joker","Interstellar, The Batman, Joker",Joker,2024-01-25
+751,Diya Singh,Male,Hyderabad,Joker,Drama,Prabhas,Sukumar,Disney+ Hotstar,5,226,KGF,"Interstellar, RRR, Pushpa, Avengers",Titanic,2024-03-05
+752,Aanya Kulkarni,Female,Pune,Avengers,Action,Allu Arjun,Todd Phillips,Netflix,5,77,Avengers,"Avengers, Avatar",Avengers,2024-10-29
+753,Vihaan Kulkarni,Male,Delhi,The Batman,Action,Joaquin Phoenix,S. S. Rajamouli,Amazon Prime,1,132,"KGF, Interstellar","Interstellar, Joker",KGF,2024-07-03
+754,Sai Khan,Male,Bangalore,RRR,Drama,Shah Rukh Khan,Atlee,Amazon Prime,4,106,RRR,"Interstellar, Inception, KGF, Avatar, RRR",Interstellar,2024-09-28
+755,Aditya Malhotra,Female,Hyderabad,Joker,Drama,Leonardo DiCaprio,Atlee,Amazon Prime,5,59,Pushpa,"Pushpa, The Batman, Inception, Joker, Avatar",Joker,2024-07-18
+756,Sara Bansal,Female,Bangalore,Interstellar,Sci-Fi,Allu Arjun,Prashanth Neel,ZEE5,3,209,Titanic,"Titanic, Joker, Avengers",Inception,2024-11-13
+757,Aadhya Bansal,Male,Hyderabad,Inception,Sci-Fi,Leonardo DiCaprio,Christopher Nolan,Disney+ Hotstar,2,131,The Batman,"Avatar, Titanic, The Batman, Interstellar",Inception,2024-01-06
+758,Pooja Patel,Male,Mumbai,Interstellar,Sci-Fi,Prabhas,Prashanth Neel,SonyLIV,2,119,"Avengers, The Batman","Interstellar, Avatar, Inception, Titanic, Joker",The Batman,2024-10-14
+759,Aadhya Singh,Male,Chennai,Pushpa,Action,Joaquin Phoenix,Atlee,Amazon Prime,2,207,"Avengers, Joker, Inception","RRR, KGF",Titanic,2024-04-05
+760,Sara Reddy,Female,Hyderabad,Pushpa,Action,Jr NTR,James Cameron,Amazon Prime,2,192,"Avengers, Interstellar, Pushpa","Interstellar, Inception, Pushpa",Pushpa,2024-04-20
+761,Vivaan Mehta,Male,Hyderabad,Interstellar,Sci-Fi,Christian Bale,Atlee,Disney+ Hotstar,4,139,"Avengers, Pushpa","KGF, RRR, Avatar, Pushpa, Interstellar",Interstellar,2024-05-12
+762,Ananya Shetty,Female,Bangalore,Avengers,Action,Prabhas,Christopher Nolan,SonyLIV,3,81,"Interstellar, KGF","KGF, Avengers",Inception,2024-12-17
+763,Sara Singh,Male,Chennai,Inception,Sci-Fi,Ram Charan,Prashanth Neel,ZEE5,2,165,"Pushpa, Interstellar","RRR, KGF, Avatar",Titanic,2024-04-08
+764,Aanya Joshi,Male,Mumbai,KGF,Action,Robert Downey Jr.,S. S. Rajamouli,Amazon Prime,4,100,"Titanic, Inception, Joker","Avengers, Titanic, Inception, KGF, Pushpa",Pushpa,2024-05-24
+765,Riya Singh,Male,Bangalore,Avatar,Action,Yash,Matt Reeves,SonyLIV,4,233,Avengers,"Interstellar, RRR, KGF, The Batman",Pushpa,2024-11-28
+766,Aarav Malhotra,Female,Hyderabad,Titanic,Romance,Joaquin Phoenix,Sukumar,Amazon Prime,3,136,Joker,"Avengers, Pushpa",The Batman,2024-07-17
+767,Arjun Reddy,Male,Delhi,Joker,Drama,Ram Charan,Russo Brothers,Netflix,3,120,KGF,"RRR, Avatar",Avengers,2024-07-05
+768,Shaurya Yadav,Male,Chennai,Pushpa,Action,Christian Bale,Prashanth Neel,ZEE5,4,160,Joker,"Titanic, RRR, Joker",Joker,2024-06-23
+769,Ira Joshi,Male,Mumbai,Avengers,Action,Leonardo DiCaprio,Matt Reeves,SonyLIV,4,118,Inception,"Pushpa, KGF, Joker, Interstellar, Avengers",KGF,2024-04-05
+770,Shaurya Verma,Male,Hyderabad,Interstellar,Sci-Fi,Leonardo DiCaprio,Prashanth Neel,SonyLIV,5,156,"Joker, The Batman, Avengers","Interstellar, KGF, RRR",Pushpa,2024-07-05
+771,Anika Agarwal,Male,Delhi,Avatar,Action,Leonardo DiCaprio,Russo Brothers,SonyLIV,5,191,"RRR, Joker, KGF","RRR, Inception, Interstellar, Pushpa, Joker",Interstellar,2024-11-07
+772,Myra Bansal,Male,Mumbai,RRR,Drama,Joaquin Phoenix,Sukumar,Amazon Prime,2,115,"Avatar, Joker","Avengers, Titanic, The Batman, Pushpa, KGF",Inception,2024-12-15
+773,Sara Reddy,Male,Chennai,Pushpa,Action,Jr NTR,Russo Brothers,SonyLIV,5,53,"Titanic, Pushpa, Interstellar","Titanic, Pushpa, Avatar, Interstellar",Inception,2024-12-30
+774,Vivaan Shetty,Female,Delhi,RRR,Drama,Robert Downey Jr.,Sandeep Reddy Vanga,Disney+ Hotstar,3,234,"Inception, Interstellar, Pushpa","Titanic, The Batman, Avengers, Joker",Avatar,2024-11-21
+775,Reyansh Das,Female,Pune,The Batman,Action,Allu Arjun,Atlee,Amazon Prime,1,186,The Batman,"Titanic, Inception",KGF,2024-10-28
+776,Ishaan Yadav,Female,Chennai,The Batman,Action,Leonardo DiCaprio,Matt Reeves,Amazon Prime,3,230,The Batman,"Inception, Joker, RRR",Interstellar,2024-10-22
+777,Vivaan Yadav,Female,Hyderabad,Pushpa,Action,Shah Rukh Khan,James Cameron,ZEE5,5,234,"Avatar, The Batman, Joker","Inception, Pushpa, Avengers",Inception,2024-07-08
+778,Pooja Verma,Female,Hyderabad,Titanic,Romance,Shah Rukh Khan,James Cameron,Netflix,3,55,"Pushpa, Joker, Inception","Pushpa, Interstellar",Joker,2024-09-30
+779,Vivaan Reddy,Male,Chennai,Joker,Drama,Allu Arjun,James Cameron,SonyLIV,2,119,"Titanic, Joker, KGF","Interstellar, Joker, The Batman",The Batman,2024-07-10
+780,Anika Das,Male,Mumbai,KGF,Action,Shah Rukh Khan,Prashanth Neel,Disney+ Hotstar,2,90,"Pushpa, Titanic","Inception, The Batman, KGF, Joker",Interstellar,2024-04-07
+781,Anika Gupta,Female,Hyderabad,KGF,Action,Allu Arjun,Christopher Nolan,Disney+ Hotstar,1,165,KGF,"KGF, Interstellar",Avatar,2024-06-07
+782,Anika Iyer,Male,Bangalore,The Batman,Action,Allu Arjun,Prashanth Neel,ZEE5,4,180,"RRR, Avatar","Inception, KGF, RRR, Avatar",Interstellar,2024-08-24
+783,Reyansh Mehta,Female,Bangalore,Avengers,Action,Ram Charan,Christopher Nolan,SonyLIV,5,207,"Interstellar, Avatar, Pushpa","KGF, Avatar, Avengers",Avengers,2024-08-04
+784,Aditya Shetty,Female,Chennai,Pushpa,Action,Joaquin Phoenix,Russo Brothers,Disney+ Hotstar,5,35,"RRR, Joker","Titanic, KGF, Pushpa, Interstellar, Inception",Pushpa,2024-07-20
+785,Aditya Nair,Female,Hyderabad,Inception,Sci-Fi,Allu Arjun,Christopher Nolan,Amazon Prime,2,174,"Interstellar, Pushpa","Avatar, Pushpa",RRR,2024-07-19
+786,Arjun Malhotra,Male,Bangalore,Avengers,Action,Ram Charan,Russo Brothers,Netflix,4,105,RRR,"Titanic, Avengers",Avatar,2024-05-26
+787,Ishaan Kapoor,Female,Mumbai,Pushpa,Action,Shah Rukh Khan,Sukumar,Disney+ Hotstar,1,112,"Avatar, The Batman","RRR, Avatar, Pushpa",Pushpa,2024-08-31
+788,Sai Khan,Female,Mumbai,Interstellar,Sci-Fi,Robert Downey Jr.,Christopher Nolan,SonyLIV,3,37,"Avatar, Avengers, Pushpa","RRR, KGF",Inception,2024-10-07
+789,Anika Patel,Female,Chennai,The Batman,Action,Ram Charan,Russo Brothers,Netflix,5,91,Pushpa,"Joker, Titanic",Joker,2024-07-19
+790,Ishaan Iyer,Male,Chennai,KGF,Action,Shah Rukh Khan,Prashanth Neel,SonyLIV,4,193,"KGF, Interstellar","Titanic, RRR, Avengers, Pushpa, Inception",Joker,2024-12-26
+791,Riya Khan,Female,Delhi,Titanic,Romance,Jr NTR,James Cameron,Netflix,4,174,"RRR, The Batman, Pushpa","Interstellar, Inception",RRR,2024-03-15
+792,Arjun Shetty,Male,Chennai,Interstellar,Sci-Fi,Jr NTR,Sandeep Reddy Vanga,SonyLIV,2,160,KGF,"Titanic, The Batman, Pushpa",Avengers,2024-08-29
+793,Shaurya Patel,Male,Mumbai,KGF,Action,Robert Downey Jr.,S. S. Rajamouli,Amazon Prime,4,123,"Avengers, Interstellar","Pushpa, Joker, Titanic",Joker,2024-09-10
+794,Riya Choudhary,Female,Mumbai,KGF,Action,Shah Rukh Khan,James Cameron,ZEE5,3,40,"Pushpa, Inception, Joker","RRR, Joker, Pushpa",The Batman,2024-05-20
+795,Myra Bansal,Male,Bangalore,Interstellar,Sci-Fi,Christian Bale,Sukumar,Netflix,5,85,"Pushpa, Titanic","Interstellar, Inception, KGF",Interstellar,2024-06-24
+796,Vihaan Singh,Female,Mumbai,The Batman,Action,Yash,Prashanth Neel,Disney+ Hotstar,5,71,Joker,"RRR, Inception",Pushpa,2024-10-17
+797,Aarav Bansal,Male,Delhi,Joker,Drama,Shah Rukh Khan,Atlee,ZEE5,3,214,"Inception, RRR, Avatar","Pushpa, Avatar, KGF, Joker, The Batman",RRR,2024-03-29
+798,Ira Nair,Female,Bangalore,Avengers,Action,Leonardo DiCaprio,Todd Phillips,SonyLIV,3,155,"Pushpa, Interstellar","Interstellar, Avatar, Pushpa",Pushpa,2024-12-17
+799,Anika Sharma,Female,Hyderabad,Pushpa,Action,Christian Bale,Matt Reeves,SonyLIV,2,170,"Inception, The Batman","Pushpa, KGF, Avatar, Titanic, Avengers",Interstellar,2024-02-11
+800,Diya Singh,Female,Chennai,Avatar,Action,Joaquin Phoenix,Russo Brothers,Netflix,2,142,"KGF, Inception","KGF, Joker, RRR",Titanic,2024-02-19
+801,Pooja Nair,Female,Hyderabad,Avatar,Action,Robert Downey Jr.,S. S. Rajamouli,Netflix,4,131,"KGF, RRR","The Batman, KGF, Avatar, Inception",Joker,2024-12-30
+802,Aanya Iyer,Female,Mumbai,The Batman,Action,Shah Rukh Khan,Matt Reeves,SonyLIV,4,178,"Interstellar, RRR, Avengers","Interstellar, Joker, The Batman, Inception, Titanic",KGF,2024-07-05
+803,Riya Shetty,Male,Delhi,Joker,Drama,Leonardo DiCaprio,Todd Phillips,Disney+ Hotstar,1,98,"Titanic, Pushpa","The Batman, Avatar, Avengers, RRR",Interstellar,2024-03-22
+804,Shaurya Khan,Male,Pune,Pushpa,Action,Shah Rukh Khan,Matt Reeves,ZEE5,3,148,"Inception, RRR, KGF","Avengers, The Batman, Titanic, Pushpa",The Batman,2024-12-22
+805,Myra Mehta,Male,Mumbai,Pushpa,Action,Robert Downey Jr.,James Cameron,ZEE5,5,49,"KGF, RRR","Titanic, Pushpa",Avengers,2024-07-25
+806,Ananya Khan,Female,Delhi,KGF,Action,Christian Bale,Sukumar,Disney+ Hotstar,4,118,"Interstellar, RRR","Interstellar, Avengers, Joker, Titanic, Avatar",Pushpa,2024-05-19
+807,Sai Singh,Female,Hyderabad,KGF,Action,Joaquin Phoenix,S. S. Rajamouli,ZEE5,2,151,"Joker, Interstellar, Avengers","Avatar, RRR, KGF, Interstellar, Pushpa",KGF,2024-04-06
+808,Vivaan Kulkarni,Male,Bangalore,Interstellar,Sci-Fi,Ram Charan,Russo Brothers,Disney+ Hotstar,4,194,"Avengers, Inception","RRR, Interstellar, The Batman, Avengers, Joker",Interstellar,2024-11-01
+809,Arjun Iyer,Male,Bangalore,The Batman,Action,Joaquin Phoenix,Sandeep Reddy Vanga,Amazon Prime,2,156,"Inception, Pushpa","Avatar, Joker, Inception",Avengers,2024-05-14
+810,Pooja Singh,Female,Pune,Pushpa,Action,Shah Rukh Khan,Sandeep Reddy Vanga,Disney+ Hotstar,5,191,KGF,"RRR, Avatar, Inception, Interstellar, Joker",Avengers,2024-05-25
+811,Sai Malhotra,Female,Chennai,KGF,Action,Yash,Sandeep Reddy Vanga,Amazon Prime,2,69,Titanic,"Inception, Avengers, Interstellar",Pushpa,2024-11-23
+812,Pooja Choudhary,Male,Bangalore,The Batman,Action,Allu Arjun,Russo Brothers,ZEE5,2,168,"Inception, RRR, Interstellar","Titanic, Interstellar, Pushpa, RRR",Titanic,2024-10-06
+813,Pooja Gupta,Male,Delhi,The Batman,Action,Yash,Russo Brothers,Netflix,4,76,"Inception, Avatar, Pushpa","Pushpa, KGF, Joker, Avengers",Avengers,2024-04-10
+814,Aanya Nair,Male,Hyderabad,The Batman,Action,Ram Charan,Russo Brothers,Netflix,3,117,"KGF, RRR","Joker, The Batman, Interstellar, Titanic, KGF",Interstellar,2024-07-13
+815,Krishna Nair,Female,Mumbai,KGF,Action,Shah Rukh Khan,Sukumar,SonyLIV,4,34,Titanic,"Joker, Titanic",RRR,2024-03-15
+816,Ira Kulkarni,Female,Delhi,KGF,Action,Robert Downey Jr.,James Cameron,Amazon Prime,4,189,"Interstellar, Avengers","Pushpa, The Batman, Titanic, Joker",RRR,2024-02-10
+817,Ira Joshi,Male,Mumbai,Joker,Drama,Allu Arjun,Christopher Nolan,Disney+ Hotstar,5,152,"The Batman, RRR","KGF, The Batman, Interstellar",Joker,2024-08-30
+818,Diya Sharma,Male,Mumbai,RRR,Drama,Prabhas,James Cameron,Disney+ Hotstar,1,43,"Pushpa, Joker","KGF, Inception, Avatar, Titanic",Avengers,2024-11-16
+819,Pooja Kapoor,Male,Chennai,Avengers,Action,Ram Charan,Matt Reeves,Disney+ Hotstar,1,47,"Joker, The Batman","Titanic, Interstellar, Avatar",Pushpa,2024-07-04
+820,Riya Khan,Male,Mumbai,Pushpa,Action,Shah Rukh Khan,Matt Reeves,Amazon Prime,5,30,"The Batman, Avatar, Interstellar","Joker, Interstellar",Inception,2024-04-03
+821,Aadhya Gupta,Female,Bangalore,Inception,Sci-Fi,Yash,Todd Phillips,Disney+ Hotstar,4,173,Interstellar,"KGF, Avengers",KGF,2024-04-23
+822,Aanya Reddy,Male,Delhi,Titanic,Romance,Shah Rukh Khan,Prashanth Neel,ZEE5,1,172,Titanic,"Pushpa, KGF, Avengers, RRR, Inception",Pushpa,2024-03-06
+823,Anika Kapoor,Female,Delhi,Titanic,Romance,Robert Downey Jr.,Prashanth Neel,Disney+ Hotstar,1,83,"The Batman, Avatar, Avengers","KGF, Avengers",Titanic,2024-12-01
+824,Anika Khan,Male,Bangalore,Interstellar,Sci-Fi,Leonardo DiCaprio,S. S. Rajamouli,SonyLIV,2,108,"RRR, Avengers, Inception","Inception, Pushpa",Inception,2024-01-28
+825,Ananya Malhotra,Male,Delhi,KGF,Action,Prabhas,S. S. Rajamouli,Netflix,2,187,"The Batman, RRR, Avengers","Inception, Avatar, Interstellar, KGF, Titanic",Avengers,2024-01-29
+826,Aditya Agarwal,Female,Mumbai,KGF,Action,Jr NTR,Prashanth Neel,Amazon Prime,3,181,KGF,"Joker, Inception, KGF, RRR",The Batman,2024-03-08
+827,Aanya Das,Female,Bangalore,Interstellar,Sci-Fi,Shah Rukh Khan,S. S. Rajamouli,SonyLIV,2,192,Avengers,"Avatar, Interstellar",Pushpa,2024-11-15
+828,Ananya Verma,Female,Hyderabad,Titanic,Romance,Leonardo DiCaprio,Matt Reeves,SonyLIV,2,202,"RRR, Titanic","Interstellar, Joker, Inception",RRR,2024-04-07
+829,Ira Verma,Male,Bangalore,Interstellar,Sci-Fi,Robert Downey Jr.,James Cameron,ZEE5,3,193,"Titanic, Avatar, RRR","Pushpa, KGF",Avengers,2024-01-24
+830,Shaurya Verma,Male,Bangalore,Titanic,Romance,Allu Arjun,James Cameron,ZEE5,5,115,"Titanic, Interstellar, KGF","Joker, Titanic, RRR, Interstellar",Pushpa,2024-10-05
+831,Arjun Bansal,Female,Hyderabad,Avatar,Action,Christian Bale,S. S. Rajamouli,Disney+ Hotstar,5,127,"Pushpa, Avengers","The Batman, RRR",Pushpa,2024-05-05
+832,Aadhya Singh,Male,Pune,KGF,Action,Christian Bale,Sukumar,Disney+ Hotstar,4,158,"Joker, RRR","Avatar, Inception, The Batman, Titanic",Avengers,2024-10-02
+833,Anika Kulkarni,Female,Bangalore,RRR,Drama,Christian Bale,James Cameron,ZEE5,1,70,KGF,"KGF, Avengers, Avatar, Interstellar",Avatar,2024-04-18
+834,Aditya Reddy,Female,Chennai,Inception,Sci-Fi,Allu Arjun,Prashanth Neel,ZEE5,2,138,"Titanic, The Batman, Avatar","Avengers, Inception, Pushpa",The Batman,2024-12-11
+835,Vivaan Das,Male,Delhi,RRR,Drama,Allu Arjun,Prashanth Neel,ZEE5,1,33,"Avatar, RRR, The Batman","Interstellar, Avatar",Pushpa,2024-12-12
+836,Aarav Mehta,Female,Delhi,Avengers,Action,Robert Downey Jr.,Sandeep Reddy Vanga,Netflix,4,80,"Titanic, Pushpa","Pushpa, Inception, RRR",Interstellar,2024-08-09
+837,Aanya Reddy,Female,Pune,Titanic,Romance,Robert Downey Jr.,Sukumar,Amazon Prime,5,45,"Interstellar, RRR","Inception, KGF, Joker",Interstellar,2024-11-22
+838,Vivaan Kulkarni,Female,Hyderabad,Avatar,Action,Jr NTR,Prashanth Neel,ZEE5,2,141,"Avatar, The Batman","Avatar, Avengers",The Batman,2024-12-16
+839,Ishaan Bansal,Female,Bangalore,KGF,Action,Joaquin Phoenix,Russo Brothers,Disney+ Hotstar,3,238,"Avengers, Pushpa","Joker, RRR, Pushpa, Avengers, The Batman",KGF,2024-04-11
+840,Anika Kapoor,Male,Mumbai,Pushpa,Action,Shah Rukh Khan,S. S. Rajamouli,Netflix,3,208,"Avengers, RRR","Pushpa, Avatar",Inception,2024-10-14
+841,Sai Nair,Male,Hyderabad,KGF,Action,Shah Rukh Khan,Prashanth Neel,Amazon Prime,3,103,"Inception, Avatar, Titanic","Avatar, KGF",Joker,2024-06-25
+842,Riya Kapoor,Male,Pune,Inception,Sci-Fi,Yash,Atlee,Netflix,5,227,"Titanic, Interstellar, RRR","Avatar, Avengers",Inception,2024-04-02
+843,Aarav Shetty,Male,Bangalore,KGF,Action,Joaquin Phoenix,S. S. Rajamouli,ZEE5,5,74,"The Batman, Pushpa","Pushpa, Titanic, Inception, The Batman, KGF",KGF,2024-10-14
+844,Sai Mehta,Female,Delhi,Inception,Sci-Fi,Christian Bale,Todd Phillips,Amazon Prime,1,160,"Avatar, Joker, Avengers","Joker, KGF",Inception,2024-09-21
+845,Aadhya Iyer,Female,Bangalore,Pushpa,Action,Christian Bale,Todd Phillips,ZEE5,2,170,"KGF, Inception, RRR","Avengers, Pushpa, The Batman, Joker, Titanic",Avatar,2024-09-11
+846,Sai Shetty,Female,Chennai,Interstellar,Sci-Fi,Ram Charan,James Cameron,ZEE5,1,102,"Inception, KGF, Interstellar","Pushpa, Joker, Avengers, Titanic, KGF",RRR,2024-03-01
+847,Myra Kapoor,Female,Bangalore,Joker,Drama,Jr NTR,Sukumar,Disney+ Hotstar,1,178,"The Batman, Titanic, KGF","Titanic, The Batman, Avengers, Inception",Joker,2024-10-22
+848,Vivaan Malhotra,Female,Mumbai,Interstellar,Sci-Fi,Prabhas,James Cameron,SonyLIV,5,188,KGF,"Avengers, Inception, Joker, Interstellar, KGF",The Batman,2024-08-20
+849,Aadhya Das,Male,Bangalore,Joker,Drama,Joaquin Phoenix,S. S. Rajamouli,Disney+ Hotstar,3,97,"Interstellar, Titanic","KGF, Interstellar, The Batman, Joker, Avatar",Avengers,2024-05-01
+850,Ananya Sharma,Male,Hyderabad,Avatar,Action,Joaquin Phoenix,Russo Brothers,Netflix,3,177,"Avatar, The Batman","Avatar, Avengers, The Batman",Titanic,2024-02-15
+851,Ira Yadav,Male,Chennai,Inception,Sci-Fi,Prabhas,Prashanth Neel,SonyLIV,5,152,"Interstellar, RRR","Titanic, Joker, The Batman",RRR,2024-08-01
+852,Shaurya Shetty,Male,Hyderabad,Avatar,Action,Shah Rukh Khan,Christopher Nolan,Netflix,2,169,"Pushpa, Avengers, RRR","Titanic, KGF, Avengers, RRR",Inception,2024-11-22
+853,Aanya Joshi,Male,Pune,Avatar,Action,Allu Arjun,Sandeep Reddy Vanga,Amazon Prime,4,218,KGF,"Titanic, Avengers",Avengers,2024-02-23
+854,Pooja Patel,Female,Bangalore,Joker,Drama,Jr NTR,Atlee,Netflix,2,232,RRR,"Avengers, KGF",Avatar,2024-07-07
+855,Anika Bansal,Female,Chennai,Avatar,Action,Jr NTR,Matt Reeves,Disney+ Hotstar,2,188,"Inception, KGF","Interstellar, KGF",Titanic,2024-07-23
+856,Diya Bansal,Female,Mumbai,Inception,Sci-Fi,Robert Downey Jr.,Sukumar,Amazon Prime,4,230,Interstellar,"Pushpa, RRR, The Batman, Inception",The Batman,2024-10-13
+857,Aadhya Iyer,Male,Pune,Avengers,Action,Joaquin Phoenix,Matt Reeves,Netflix,3,99,"RRR, Avengers","Titanic, Inception",Avengers,2024-02-08
+858,Anika Malhotra,Female,Mumbai,The Batman,Action,Prabhas,Prashanth Neel,ZEE5,1,93,"KGF, Interstellar, Pushpa","Avengers, Avatar",Titanic,2024-11-24
+859,Sai Agarwal,Female,Chennai,Pushpa,Action,Christian Bale,Prashanth Neel,Netflix,2,160,"Avengers, Joker, The Batman","Titanic, The Batman, Joker",Pushpa,2024-01-23
+860,Riya Bansal,Male,Hyderabad,KGF,Action,Allu Arjun,Matt Reeves,Amazon Prime,5,31,"Titanic, The Batman, Joker","Joker, Pushpa",Joker,2024-08-03
+861,Shaurya Sharma,Male,Mumbai,Interstellar,Sci-Fi,Allu Arjun,Todd Phillips,Disney+ Hotstar,1,147,Interstellar,"RRR, The Batman",Pushpa,2024-06-12
+862,Reyansh Shetty,Male,Chennai,Interstellar,Sci-Fi,Prabhas,Sukumar,Amazon Prime,5,138,"The Batman, Avengers","KGF, Joker, Titanic, RRR, Inception",KGF,2024-07-14
+863,Diya Gupta,Female,Mumbai,Avatar,Action,Jr NTR,S. S. Rajamouli,Disney+ Hotstar,2,122,Avatar,"Joker, RRR, Avatar",Joker,2024-10-03
+864,Anika Verma,Male,Hyderabad,Titanic,Romance,Leonardo DiCaprio,Sandeep Reddy Vanga,SonyLIV,2,154,"RRR, The Batman, Titanic","Avatar, KGF, Titanic, The Batman, Avengers",Avatar,2024-12-15
+865,Sai Mehta,Male,Chennai,Pushpa,Action,Joaquin Phoenix,Sandeep Reddy Vanga,SonyLIV,1,197,KGF,"Titanic, Joker, KGF, Avatar, Inception",Interstellar,2024-02-27
+866,Ira Singh,Female,Pune,Pushpa,Action,Allu Arjun,Sandeep Reddy Vanga,Amazon Prime,1,74,"Inception, Joker, Avengers","Pushpa, Interstellar, The Batman, RRR, Avatar",RRR,2024-08-12
+867,Shaurya Choudhary,Male,Delhi,Avatar,Action,Ram Charan,Russo Brothers,Disney+ Hotstar,4,134,KGF,"Inception, Pushpa, Avengers, Titanic, RRR",RRR,2024-03-25
+868,Diya Malhotra,Male,Chennai,Inception,Sci-Fi,Prabhas,Sukumar,SonyLIV,1,125,Avengers,"Interstellar, Titanic, Pushpa",The Batman,2024-12-10
+869,Ishaan Joshi,Female,Delhi,Avengers,Action,Christian Bale,Sandeep Reddy Vanga,Disney+ Hotstar,4,107,Pushpa,"Pushpa, Joker",Interstellar,2024-05-11
+870,Diya Bansal,Male,Bangalore,Inception,Sci-Fi,Allu Arjun,Todd Phillips,Amazon Prime,2,124,Pushpa,"Inception, Titanic, Avengers",Titanic,2024-08-03
+871,Ishaan Yadav,Male,Mumbai,Interstellar,Sci-Fi,Joaquin Phoenix,Matt Reeves,SonyLIV,4,189,"Pushpa, Inception","The Batman, Avatar",Pushpa,2024-12-23
+872,Aarav Iyer,Male,Bangalore,KGF,Action,Yash,James Cameron,Amazon Prime,1,183,"Avatar, Avengers","RRR, Avatar",Titanic,2024-04-25
+873,Sai Yadav,Male,Delhi,Interstellar,Sci-Fi,Jr NTR,Prashanth Neel,Disney+ Hotstar,4,229,Interstellar,"Titanic, Pushpa, KGF, The Batman, RRR",RRR,2024-07-16
+874,Riya Iyer,Male,Hyderabad,KGF,Action,Christian Bale,Russo Brothers,Netflix,4,66,Avengers,"The Batman, Inception, Titanic",RRR,2024-01-06
+875,Krishna Khan,Female,Bangalore,Pushpa,Action,Shah Rukh Khan,Sukumar,Netflix,4,62,Joker,"Inception, RRR, Pushpa, Avatar",Avatar,2024-11-03
+876,Diya Bansal,Male,Chennai,The Batman,Action,Prabhas,Sukumar,SonyLIV,1,217,"Pushpa, Inception","Inception, Joker",Titanic,2024-06-16
+877,Anika Nair,Male,Bangalore,Joker,Drama,Jr NTR,S. S. Rajamouli,SonyLIV,4,184,"Titanic, Joker","Inception, Joker, Avatar, Avengers",Avengers,2024-06-02
+878,Krishna Malhotra,Female,Chennai,Interstellar,Sci-Fi,Shah Rukh Khan,James Cameron,Amazon Prime,1,34,Avatar,"The Batman, Pushpa, Joker, Avatar, RRR",KGF,2024-11-10
+879,Anika Choudhary,Female,Chennai,Avatar,Action,Yash,Sandeep Reddy Vanga,SonyLIV,2,75,Pushpa,"Avatar, RRR, Avengers, Pushpa",Pushpa,2024-08-12
+880,Anika Iyer,Female,Hyderabad,Titanic,Romance,Christian Bale,Sukumar,SonyLIV,3,203,"Inception, KGF, Interstellar","The Batman, Joker",The Batman,2024-08-02
+881,Arjun Kulkarni,Female,Bangalore,RRR,Drama,Ram Charan,Todd Phillips,Amazon Prime,4,107,The Batman,"Pushpa, RRR",Interstellar,2024-12-17
+882,Ira Agarwal,Male,Mumbai,Interstellar,Sci-Fi,Joaquin Phoenix,Christopher Nolan,SonyLIV,4,48,RRR,"Titanic, RRR, Avatar, Pushpa, Inception",The Batman,2024-05-07
+883,Aadhya Agarwal,Female,Bangalore,Joker,Drama,Allu Arjun,Sukumar,Netflix,4,181,RRR,"Inception, The Batman",Joker,2024-10-27
+884,Ira Kulkarni,Female,Bangalore,KGF,Action,Christian Bale,Christopher Nolan,ZEE5,2,199,"Inception, Avatar","KGF, Inception",KGF,2024-03-02
+885,Aditya Sharma,Male,Delhi,The Batman,Action,Robert Downey Jr.,Atlee,SonyLIV,2,71,"Avengers, Avatar","The Batman, Joker",RRR,2024-06-07
+886,Diya Khan,Male,Delhi,Avengers,Action,Leonardo DiCaprio,James Cameron,Disney+ Hotstar,1,150,"Inception, RRR","Avatar, KGF, Inception, The Batman",Avatar,2024-01-16
+887,Anika Reddy,Female,Chennai,Avengers,Action,Prabhas,Prashanth Neel,ZEE5,1,175,"Avengers, RRR, The Batman","The Batman, Avengers, Titanic, Pushpa, KGF",RRR,2024-11-14
+888,Myra Kapoor,Female,Delhi,KGF,Action,Christian Bale,Todd Phillips,ZEE5,1,37,RRR,"Avatar, Avengers",Avatar,2024-10-11
+889,Aadhya Malhotra,Male,Delhi,RRR,Drama,Yash,Todd Phillips,Netflix,1,195,"Pushpa, Interstellar","Interstellar, Avengers, Titanic, Pushpa, Joker",KGF,2024-04-20
+890,Arjun Bansal,Female,Pune,Avatar,Action,Joaquin Phoenix,Todd Phillips,Amazon Prime,5,36,"Inception, Avatar","Titanic, The Batman",KGF,2024-05-11
+891,Anika Das,Male,Delhi,RRR,Drama,Yash,Atlee,Netflix,2,163,"Interstellar, Inception, Joker","Inception, KGF",Inception,2024-03-22
+892,Vivaan Nair,Female,Hyderabad,Joker,Drama,Shah Rukh Khan,Matt Reeves,Netflix,5,216,"Avatar, Avengers","Inception, The Batman, Pushpa, Avatar, Interstellar",Avatar,2024-12-24
+893,Ira Nair,Female,Hyderabad,Avengers,Action,Joaquin Phoenix,Sukumar,Amazon Prime,3,207,"The Batman, Interstellar, RRR","Titanic, Interstellar, RRR",Inception,2024-06-29
+894,Aarav Khan,Male,Chennai,Joker,Drama,Prabhas,S. S. Rajamouli,Netflix,1,142,"Joker, Avatar","Pushpa, Inception, Joker, Avatar, KGF",Inception,2024-10-15
+895,Aadhya Iyer,Female,Delhi,The Batman,Action,Christian Bale,Sukumar,SonyLIV,1,177,"Avatar, Joker, RRR","KGF, The Batman",Joker,2024-12-19
+896,Aarav Shetty,Male,Mumbai,RRR,Drama,Shah Rukh Khan,James Cameron,Amazon Prime,1,102,"Titanic, RRR","RRR, Avengers, Inception, Interstellar, The Batman",Inception,2024-03-14
+897,Ishaan Gupta,Female,Pune,Avatar,Action,Prabhas,Sukumar,Netflix,5,99,Avatar,"Avengers, The Batman, Pushpa",The Batman,2024-06-03
+898,Vihaan Iyer,Female,Mumbai,Pushpa,Action,Joaquin Phoenix,Matt Reeves,Disney+ Hotstar,5,109,"Interstellar, Titanic, Pushpa","Avengers, RRR, Pushpa",KGF,2024-02-19
+899,Anika Gupta,Female,Chennai,Avengers,Action,Shah Rukh Khan,S. S. Rajamouli,Netflix,4,205,RRR,"Avengers, RRR, Pushpa, Joker",Interstellar,2024-09-05
+900,Anika Iyer,Female,Hyderabad,KGF,Action,Ram Charan,Christopher Nolan,SonyLIV,3,81,"Joker, Titanic","RRR, Joker, Pushpa",The Batman,2024-08-11
+901,Sara Joshi,Female,Delhi,KGF,Action,Jr NTR,James Cameron,ZEE5,1,144,"Avengers, Joker, Titanic","Avengers, Pushpa, KGF, Avatar, Interstellar",KGF,2024-06-11
+902,Aadhya Shetty,Male,Bangalore,RRR,Drama,Yash,Russo Brothers,Netflix,1,46,"KGF, RRR, Interstellar","Pushpa, Interstellar",Avatar,2024-01-25
+903,Ishaan Nair,Male,Bangalore,Interstellar,Sci-Fi,Allu Arjun,Sandeep Reddy Vanga,SonyLIV,3,143,"Avatar, Inception, RRR","KGF, Interstellar, The Batman, Pushpa, RRR",Avengers,2024-07-31
+904,Arjun Singh,Female,Bangalore,Pushpa,Action,Ram Charan,Matt Reeves,ZEE5,3,229,Avatar,"Inception, Interstellar, Titanic, The Batman",KGF,2024-12-29
+905,Anika Verma,Male,Hyderabad,KGF,Action,Christian Bale,Sandeep Reddy Vanga,Netflix,4,203,Titanic,"The Batman, Avatar, Pushpa",RRR,2024-05-02
+906,Aditya Agarwal,Female,Bangalore,Titanic,Romance,Robert Downey Jr.,Todd Phillips,SonyLIV,3,122,Avengers,"Avatar, RRR, Inception",Joker,2024-12-16
+907,Aadhya Sharma,Male,Bangalore,Interstellar,Sci-Fi,Leonardo DiCaprio,James Cameron,SonyLIV,3,152,Avatar,"Inception, Pushpa",Avatar,2024-06-23
+908,Diya Khan,Female,Pune,RRR,Drama,Christian Bale,Christopher Nolan,Amazon Prime,1,69,Avengers,"KGF, Joker",Titanic,2024-01-08
+909,Krishna Kapoor,Female,Delhi,KGF,Action,Ram Charan,Christopher Nolan,Netflix,3,52,Interstellar,"Pushpa, Avatar, KGF, Inception, Avengers",Joker,2024-11-18
+910,Ananya Nair,Female,Mumbai,Avengers,Action,Joaquin Phoenix,S. S. Rajamouli,Amazon Prime,4,136,"Pushpa, Interstellar, Avatar","Avengers, Titanic, Avatar",The Batman,2024-11-23
+911,Vihaan Mehta,Female,Chennai,Pushpa,Action,Joaquin Phoenix,Atlee,Disney+ Hotstar,3,114,"Titanic, Interstellar, Avatar","The Batman, Joker, Interstellar",Joker,2024-04-15
+912,Aadhya Verma,Female,Pune,Joker,Drama,Christian Bale,Prashanth Neel,SonyLIV,5,90,"Pushpa, Avengers, Titanic","Avatar, Inception, Avengers, Pushpa",Pushpa,2024-07-21
+913,Aarav Nair,Male,Chennai,Interstellar,Sci-Fi,Joaquin Phoenix,Matt Reeves,Netflix,1,169,"KGF, Pushpa","Avatar, KGF",Inception,2024-03-13
+914,Krishna Agarwal,Female,Bangalore,Interstellar,Sci-Fi,Jr NTR,Matt Reeves,Netflix,5,59,Titanic,"Titanic, Inception, Avengers",Pushpa,2024-01-18
+915,Aditya Reddy,Male,Delhi,Interstellar,Sci-Fi,Yash,James Cameron,SonyLIV,1,106,"Interstellar, Pushpa","Avengers, KGF, Interstellar",Avatar,2024-08-03
+916,Vivaan Nair,Male,Pune,Inception,Sci-Fi,Shah Rukh Khan,Atlee,Amazon Prime,1,197,"The Batman, Inception","Inception, Joker",RRR,2024-02-02
+917,Aadhya Patel,Male,Hyderabad,Inception,Sci-Fi,Christian Bale,Matt Reeves,Amazon Prime,4,51,Inception,"Joker, KGF, Titanic, Avengers, Interstellar",Inception,2024-02-22
+918,Myra Joshi,Female,Delhi,Avatar,Action,Robert Downey Jr.,Prashanth Neel,Netflix,3,98,Avatar,"The Batman, Titanic",Avengers,2024-01-29
+919,Pooja Singh,Female,Mumbai,Inception,Sci-Fi,Ram Charan,Sukumar,Netflix,2,36,"Inception, Joker","RRR, Pushpa",Avengers,2024-03-06
+920,Reyansh Gupta,Male,Hyderabad,Avengers,Action,Robert Downey Jr.,Russo Brothers,ZEE5,4,109,"Inception, Titanic, The Batman","Avatar, Titanic, Inception",Titanic,2024-05-14
+921,Aarav Reddy,Female,Hyderabad,Pushpa,Action,Leonardo DiCaprio,Atlee,Amazon Prime,1,153,"Inception, KGF, Avengers","Inception, Joker, Interstellar",Interstellar,2024-01-30
+922,Arjun Nair,Female,Hyderabad,Pushpa,Action,Yash,Todd Phillips,Disney+ Hotstar,3,71,Avatar,"RRR, Avengers, Avatar",The Batman,2024-04-10
+923,Krishna Malhotra,Female,Pune,Avengers,Action,Jr NTR,Prashanth Neel,SonyLIV,3,182,"Avatar, Interstellar, RRR","The Batman, Joker, KGF, Avatar",Inception,2024-11-18
+924,Shaurya Iyer,Male,Hyderabad,Titanic,Romance,Leonardo DiCaprio,Todd Phillips,SonyLIV,2,159,"Avengers, KGF, Joker","Avatar, Inception, Joker, Avengers",Avengers,2024-01-22
+925,Shaurya Shetty,Male,Bangalore,Inception,Sci-Fi,Ram Charan,Todd Phillips,ZEE5,4,142,"Avatar, Avengers, Pushpa","RRR, Avengers, Pushpa, Interstellar, Avatar",Titanic,2024-07-20
+926,Vivaan Yadav,Male,Bangalore,Avengers,Action,Ram Charan,Todd Phillips,ZEE5,1,85,Joker,"KGF, Interstellar",Inception,2024-03-23
+927,Anika Kulkarni,Female,Chennai,Interstellar,Sci-Fi,Jr NTR,Sukumar,Netflix,2,100,"Avatar, The Batman, Joker","Avengers, Joker, RRR, Inception",Avengers,2024-06-26
+928,Anika Joshi,Male,Hyderabad,Avatar,Action,Prabhas,Sukumar,Netflix,1,235,"Inception, Pushpa, Avatar","Inception, The Batman",Avatar,2024-03-20
+929,Vihaan Reddy,Male,Mumbai,The Batman,Action,Ram Charan,James Cameron,ZEE5,4,97,"Titanic, Avatar, Joker","Joker, RRR",Avatar,2024-06-17
+930,Anika Joshi,Female,Delhi,KGF,Action,Joaquin Phoenix,James Cameron,ZEE5,3,213,"Pushpa, RRR","Joker, Avengers, Avatar, Inception, Titanic",Pushpa,2024-04-03
+931,Ira Sharma,Female,Hyderabad,Avatar,Action,Yash,Todd Phillips,Netflix,2,35,"KGF, RRR","Titanic, KGF, The Batman",Pushpa,2024-12-26
+932,Aadhya Gupta,Male,Delhi,Avatar,Action,Shah Rukh Khan,Prashanth Neel,SonyLIV,3,174,"Avengers, Pushpa, Avatar","Interstellar, RRR, Titanic, The Batman",Pushpa,2024-05-14
+933,Shaurya Malhotra,Female,Bangalore,KGF,Action,Prabhas,James Cameron,Disney+ Hotstar,2,158,"KGF, Interstellar, Avengers","Avatar, Inception, RRR",Avatar,2024-09-22
+934,Anika Singh,Female,Mumbai,Joker,Drama,Robert Downey Jr.,Matt Reeves,Disney+ Hotstar,4,103,"Interstellar, Avatar","Interstellar, RRR, Pushpa",Interstellar,2024-10-08
+935,Arjun Singh,Male,Mumbai,The Batman,Action,Christian Bale,Matt Reeves,Amazon Prime,4,206,"Inception, The Batman, Titanic","KGF, RRR, Inception, Avengers",Interstellar,2024-03-18
+936,Aarav Malhotra,Male,Chennai,Inception,Sci-Fi,Christian Bale,Matt Reeves,SonyLIV,5,114,RRR,"The Batman, KGF, Titanic, Inception, Avatar",RRR,2024-07-10
+937,Pooja Iyer,Male,Bangalore,Avengers,Action,Robert Downey Jr.,Sukumar,SonyLIV,5,198,"Pushpa, Titanic, Avatar","The Batman, Pushpa, Joker, Inception",Inception,2024-12-14
+938,Pooja Nair,Male,Bangalore,Joker,Drama,Ram Charan,S. S. Rajamouli,ZEE5,2,174,"Avengers, The Batman","The Batman, KGF, Joker, RRR, Inception",Inception,2024-03-10
+939,Shaurya Malhotra,Male,Mumbai,The Batman,Action,Allu Arjun,Russo Brothers,Netflix,2,216,Pushpa,"Joker, Pushpa, RRR, The Batman",Inception,2024-01-14
+940,Sara Bansal,Female,Delhi,The Batman,Action,Shah Rukh Khan,Christopher Nolan,SonyLIV,4,91,Joker,"The Batman, Inception, Pushpa, Titanic, Avengers",Inception,2024-03-22
+941,Riya Yadav,Male,Hyderabad,Joker,Drama,Joaquin Phoenix,Christopher Nolan,SonyLIV,1,186,"The Batman, Pushpa, Joker","Interstellar, Avengers, KGF",Pushpa,2024-02-13
+942,Aadhya Singh,Male,Delhi,Interstellar,Sci-Fi,Jr NTR,James Cameron,Disney+ Hotstar,5,109,"Pushpa, Joker","Pushpa, Avatar, The Batman, Inception, KGF",Avengers,2024-12-31
+943,Aarav Singh,Male,Pune,Inception,Sci-Fi,Robert Downey Jr.,Sandeep Reddy Vanga,Amazon Prime,4,192,"Interstellar, Inception, Titanic","The Batman, RRR, Avatar",Titanic,2024-08-02
+944,Ira Yadav,Female,Mumbai,Interstellar,Sci-Fi,Leonardo DiCaprio,Russo Brothers,Disney+ Hotstar,3,115,"Inception, Pushpa, KGF","Titanic, Joker, Inception, RRR, KGF",Pushpa,2024-10-25
+945,Myra Malhotra,Male,Mumbai,Titanic,Romance,Shah Rukh Khan,Russo Brothers,Disney+ Hotstar,1,239,"Avengers, Avatar","Titanic, RRR, Pushpa, Interstellar",Pushpa,2024-08-05
+946,Aanya Nair,Male,Bangalore,Joker,Drama,Christian Bale,Russo Brothers,SonyLIV,3,154,Inception,"Titanic, The Batman, RRR, Inception",The Batman,2024-08-10
+947,Anika Shetty,Female,Chennai,Pushpa,Action,Jr NTR,S. S. Rajamouli,Amazon Prime,5,230,Avengers,"Inception, Joker, Pushpa",Inception,2024-08-28
+948,Reyansh Das,Female,Bangalore,Inception,Sci-Fi,Jr NTR,Sukumar,ZEE5,4,117,"RRR, Avengers","Interstellar, Avatar, Pushpa, The Batman, Inception",RRR,2024-09-05
+949,Arjun Singh,Male,Bangalore,Titanic,Romance,Robert Downey Jr.,S. S. Rajamouli,Disney+ Hotstar,4,67,"KGF, Avatar, Interstellar","Avengers, Avatar",Inception,2024-05-14
+950,Riya Kulkarni,Male,Pune,The Batman,Action,Christian Bale,Todd Phillips,Amazon Prime,1,79,Avatar,"Avatar, Titanic, Interstellar, Pushpa, RRR",Joker,2024-06-10
+951,Aarav Sharma,Male,Mumbai,Avatar,Action,Shah Rukh Khan,James Cameron,Disney+ Hotstar,4,112,"Avatar, Avengers, Joker","KGF, Avatar",Titanic,2024-09-19
+952,Vihaan Sharma,Male,Chennai,RRR,Drama,Allu Arjun,Sukumar,Netflix,1,50,"The Batman, Avengers","The Batman, Joker, RRR, Pushpa, Titanic",RRR,2024-04-20
+953,Krishna Gupta,Female,Mumbai,RRR,Drama,Robert Downey Jr.,Sukumar,Netflix,3,140,"Avatar, Interstellar, RRR","Avengers, Inception, Pushpa",Titanic,2024-05-25
+954,Anika Das,Female,Delhi,Avengers,Action,Jr NTR,Christopher Nolan,Amazon Prime,2,142,"Interstellar, Joker","Joker, RRR",Inception,2024-08-26
+955,Myra Kulkarni,Male,Mumbai,The Batman,Action,Christian Bale,Christopher Nolan,Amazon Prime,3,33,"RRR, Avengers","RRR, KGF, Pushpa, Joker",Avatar,2024-12-21
+956,Riya Joshi,Female,Bangalore,RRR,Drama,Prabhas,Russo Brothers,Disney+ Hotstar,5,146,The Batman,"Avengers, Avatar, KGF, Pushpa",The Batman,2024-01-06
+957,Vihaan Joshi,Male,Chennai,Pushpa,Action,Prabhas,Sandeep Reddy Vanga,ZEE5,3,173,Interstellar,"Titanic, Joker",Avengers,2024-01-12
+958,Aanya Iyer,Female,Pune,Avengers,Action,Yash,Sandeep Reddy Vanga,ZEE5,1,113,Inception,"Avengers, The Batman",KGF,2024-10-14
+959,Aanya Malhotra,Female,Hyderabad,The Batman,Action,Christian Bale,Sandeep Reddy Vanga,SonyLIV,4,121,"Titanic, RRR","Inception, RRR, Avengers, Interstellar, The Batman",Titanic,2024-06-02
+960,Ira Bansal,Female,Delhi,Joker,Drama,Robert Downey Jr.,Sukumar,ZEE5,3,57,"Inception, Avatar","Titanic, Pushpa",Pushpa,2024-06-14
+961,Sai Yadav,Male,Chennai,Titanic,Romance,Christian Bale,Matt Reeves,Netflix,5,116,"The Batman, Joker, RRR","The Batman, Avengers, Inception, Interstellar, Avatar",RRR,2024-06-26
+962,Vihaan Khan,Female,Mumbai,KGF,Action,Joaquin Phoenix,Prashanth Neel,Amazon Prime,2,37,"Avatar, The Batman","Titanic, KGF, Interstellar, Avengers, Pushpa",Interstellar,2024-03-24
+963,Shaurya Joshi,Female,Chennai,Joker,Drama,Leonardo DiCaprio,Russo Brothers,Netflix,3,51,"Interstellar, Joker","The Batman, Titanic",Avatar,2024-05-24
+964,Sai Singh,Male,Delhi,Interstellar,Sci-Fi,Shah Rukh Khan,Prashanth Neel,ZEE5,1,78,Inception,"KGF, Inception, Joker, The Batman",Inception,2024-03-09
+965,Vivaan Das,Female,Chennai,Pushpa,Action,Ram Charan,S. S. Rajamouli,SonyLIV,2,98,Interstellar,"Titanic, The Batman, Pushpa, Avatar",Interstellar,2024-08-24
+966,Ira Shetty,Male,Mumbai,Pushpa,Action,Jr NTR,Russo Brothers,ZEE5,3,209,"Avatar, Inception","The Batman, Interstellar, Inception, Joker, Pushpa",Avatar,2024-07-04
+967,Diya Kulkarni,Female,Chennai,Joker,Drama,Yash,Sukumar,Amazon Prime,2,83,"Interstellar, The Batman, RRR","Avengers, RRR, Pushpa",Titanic,2024-01-08
+968,Sara Mehta,Male,Delhi,KGF,Action,Shah Rukh Khan,Atlee,Netflix,1,205,Inception,"Interstellar, The Batman, Inception, Pushpa",KGF,2024-08-31
+969,Diya Choudhary,Male,Hyderabad,RRR,Drama,Ram Charan,Matt Reeves,SonyLIV,3,195,"Pushpa, Interstellar","RRR, Titanic, Avatar",KGF,2024-01-24
+970,Krishna Nair,Female,Mumbai,KGF,Action,Allu Arjun,Todd Phillips,Disney+ Hotstar,1,74,"The Batman, Interstellar","Inception, Titanic, Pushpa, Avengers",Interstellar,2024-02-28
+971,Sai Das,Male,Pune,Interstellar,Sci-Fi,Shah Rukh Khan,Christopher Nolan,Netflix,5,123,"Pushpa, The Batman, RRR","The Batman, Joker, Titanic, Inception",Pushpa,2024-08-02
+972,Shaurya Sharma,Male,Bangalore,Avatar,Action,Allu Arjun,Prashanth Neel,Disney+ Hotstar,4,220,Avengers,"RRR, Inception, Titanic, Pushpa",Titanic,2024-03-12
+973,Myra Singh,Male,Chennai,KGF,Action,Yash,Christopher Nolan,ZEE5,5,67,Joker,"Interstellar, Titanic",Avatar,2024-06-02
+974,Vivaan Verma,Male,Mumbai,KGF,Action,Leonardo DiCaprio,Sukumar,Amazon Prime,4,173,"Inception, The Batman, Avatar","Joker, Pushpa, Titanic, Avatar, The Batman",Avengers,2024-05-08
+975,Pooja Reddy,Female,Delhi,Avatar,Action,Joaquin Phoenix,Matt Reeves,SonyLIV,2,30,"Avatar, The Batman","Interstellar, RRR, Joker",Titanic,2024-05-05
+976,Aarav Khan,Female,Pune,Inception,Sci-Fi,Robert Downey Jr.,James Cameron,SonyLIV,4,70,"Pushpa, The Batman","The Batman, Pushpa, RRR, Interstellar",Pushpa,2024-10-17
+977,Anika Sharma,Male,Delhi,KGF,Action,Prabhas,Sukumar,Netflix,3,221,Avengers,"Avengers, RRR, The Batman",Inception,2024-11-13
+978,Aanya Yadav,Female,Delhi,Joker,Drama,Shah Rukh Khan,Sukumar,Netflix,2,103,"RRR, Interstellar, KGF","Joker, Pushpa, Inception, Avatar, Interstellar",Avatar,2024-04-14
+979,Aarav Yadav,Female,Delhi,RRR,Drama,Jr NTR,Sandeep Reddy Vanga,SonyLIV,4,151,"Pushpa, The Batman","The Batman, RRR, Titanic",KGF,2024-07-06
+980,Aadhya Malhotra,Male,Mumbai,KGF,Action,Prabhas,James Cameron,ZEE5,4,204,"Pushpa, Titanic, The Batman","Joker, Titanic, Avengers, Inception, Pushpa",Avengers,2024-06-21
+981,Pooja Verma,Female,Bangalore,Interstellar,Sci-Fi,Yash,Sandeep Reddy Vanga,Disney+ Hotstar,5,76,"RRR, Avengers","RRR, The Batman, Avatar",Avengers,2024-02-13
+982,Sara Choudhary,Female,Mumbai,Pushpa,Action,Christian Bale,Todd Phillips,SonyLIV,1,141,"Joker, KGF","Avatar, Titanic, Interstellar, Joker, RRR",Joker,2024-02-20
+983,Aditya Shetty,Male,Pune,Pushpa,Action,Christian Bale,Matt Reeves,Amazon Prime,1,85,"Inception, Avengers","Interstellar, Titanic, KGF, Pushpa",The Batman,2024-01-07
+984,Shaurya Bansal,Female,Pune,Avatar,Action,Allu Arjun,Christopher Nolan,Netflix,2,47,Joker,"The Batman, Pushpa, Titanic",Avengers,2024-06-12
+985,Reyansh Mehta,Female,Delhi,Avatar,Action,Prabhas,Sandeep Reddy Vanga,SonyLIV,1,176,"Avengers, Inception","The Batman, Titanic",Inception,2024-05-21
+986,Myra Sharma,Female,Delhi,Joker,Drama,Robert Downey Jr.,James Cameron,SonyLIV,5,180,"RRR, Joker","Interstellar, Avatar",Avengers,2024-06-07
+987,Shaurya Das,Male,Delhi,RRR,Drama,Shah Rukh Khan,Matt Reeves,ZEE5,5,208,"Pushpa, Titanic, Avatar","Joker, KGF, Avengers, Titanic",KGF,2024-06-30
+988,Shaurya Bansal,Female,Bangalore,Joker,Drama,Allu Arjun,Russo Brothers,ZEE5,1,218,"Inception, Pushpa","Inception, KGF",Avatar,2024-02-26
+989,Arjun Shetty,Female,Mumbai,RRR,Drama,Jr NTR,Atlee,Amazon Prime,5,76,"Avengers, Interstellar, Joker","Titanic, The Batman, Pushpa, Inception, KGF",Interstellar,2024-04-29
+990,Diya Nair,Male,Mumbai,Avatar,Action,Robert Downey Jr.,Matt Reeves,Amazon Prime,1,139,"Interstellar, KGF, Pushpa","KGF, Joker, The Batman, Avengers",Titanic,2024-04-06
+991,Shaurya Das,Male,Delhi,Inception,Sci-Fi,Christian Bale,Atlee,Netflix,1,46,"Avengers, RRR, Interstellar","The Batman, Avengers, Avatar",Titanic,2024-02-22
+992,Shaurya Kulkarni,Female,Pune,Inception,Sci-Fi,Ram Charan,S. S. Rajamouli,SonyLIV,4,116,"Avatar, Inception, Pushpa","The Batman, RRR, Inception",Inception,2024-12-22
+993,Anika Verma,Male,Delhi,Joker,Drama,Joaquin Phoenix,Todd Phillips,Netflix,3,172,Avengers,"RRR, KGF, Joker, Avengers",The Batman,2024-01-18
+994,Sai Shetty,Female,Bangalore,RRR,Drama,Ram Charan,Matt Reeves,Netflix,3,125,"KGF, Titanic","The Batman, Avatar, Pushpa, KGF",Avengers,2024-11-25
+995,Ananya Khan,Male,Mumbai,RRR,Drama,Christian Bale,James Cameron,ZEE5,1,49,"Interstellar, Pushpa","KGF, Avatar, Inception, Avengers, Pushpa",Titanic,2024-05-16
+996,Reyansh Choudhary,Male,Pune,Joker,Drama,Prabhas,Matt Reeves,Disney+ Hotstar,4,33,"Interstellar, Pushpa","Joker, Avatar",The Batman,2024-06-04
+997,Vivaan Kulkarni,Male,Bangalore,Joker,Drama,Yash,Sukumar,ZEE5,1,233,"Pushpa, Avengers","The Batman, Avatar, RRR, Avengers, Pushpa",Joker,2024-08-05
+998,Vivaan Khan,Male,Pune,Interstellar,Sci-Fi,Yash,Sandeep Reddy Vanga,Disney+ Hotstar,2,214,Avengers,"Interstellar, Avengers, Titanic, Joker, Avatar",Pushpa,2024-04-21
+999,Riya Verma,Male,Hyderabad,Inception,Sci-Fi,Leonardo DiCaprio,James Cameron,Amazon Prime,5,51,"Avatar, Interstellar, RRR","Joker, Interstellar",Interstellar,2024-11-13
+1000,Vihaan Das,Male,Hyderabad,RRR,Drama,Allu Arjun,Matt Reeves,ZEE5,2,96,The Batman,"Interstellar, The Batman",Interstellar,2024-10-26
